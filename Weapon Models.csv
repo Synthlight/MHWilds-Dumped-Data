@@ -1,0 +1,1710 @@
+Weapon Type,Name,Path
+Great Sword,Hope Blade I,natives/STM/Art/Model/Item/it00/00/0004/it0000_0004_0.mesh
+Great Sword,Hope Blade II,natives/STM/Art/Model/Item/it00/00/0004/it0000_0004_0.mesh
+Great Sword,Hope Blade III,natives/STM/Art/Model/Item/it00/00/0004/it0000_0004_0.mesh
+Great Sword,Hope Blade IV,natives/STM/Art/Model/Item/it00/00/0004/it0000_0004_0.mesh
+Great Sword,Hope Blade V,natives/STM/Art/Model/Item/it00/00/0004/it0000_0004_0.mesh
+Great Sword,Valkyrie Blade I,natives/STM/Art/Model/Item/it00/00/0005/it0000_0005_0.mesh
+Great Sword,Valkyrie Blade II,natives/STM/Art/Model/Item/it00/00/0005/it0000_0005_0.mesh
+Great Sword,Sieglinde,natives/STM/Art/Model/Item/it00/00/0005/it0000_0005_0.mesh
+Great Sword,Chicken Decapitator I,natives/STM/Art/Model/Item/it00/00/0012/it0000_0012_0.mesh
+Great Sword,Chicken Decapitator II,natives/STM/Art/Model/Item/it00/00/0012/it0000_0012_0.mesh
+Great Sword,Rooster Decapitator,natives/STM/Art/Model/Item/it00/00/0012/it0000_0012_0.mesh
+Great Sword,Nihil Great Sword I,natives/STM/Art/Model/Item/it00/00/0020/it0000_0020_0.mesh
+Great Sword,Nihil Great Sword II,natives/STM/Art/Model/Item/it00/00/0020/it0000_0020_0.mesh
+Great Sword,Prinvrilo's Dissolution,natives/STM/Art/Model/Item/it00/00/0020/it0000_0020_0.mesh
+Great Sword,Quematrice Espada I,natives/STM/Art/Model/Item/it00/00/0006/it0000_0006_0.mesh
+Great Sword,Quematrice Espada II,natives/STM/Art/Model/Item/it00/00/0006/it0000_0006_0.mesh
+Great Sword,Quematrice Espada III,natives/STM/Art/Model/Item/it00/00/0006/it0000_0006_0.mesh
+Great Sword,Quematrice Espada IV,natives/STM/Art/Model/Item/it00/00/0006/it0000_0006_0.mesh
+Great Sword,Firetrail Blaisdell,natives/STM/Art/Model/Item/it00/00/0007/it0000_0007_0.mesh
+Great Sword,Cheda Blade I,natives/STM/Art/Model/Item/it00/00/0015/it0000_0015_0.mesh
+Great Sword,Impudent Cheda,natives/STM/Art/Model/Item/it00/00/0015/it0000_0015_0.mesh
+Great Sword,Buster Sword I,natives/STM/Art/Model/Item/it00/01/0004/it0001_0004_0.mesh
+Great Sword,Buster Sword II,natives/STM/Art/Model/Item/it00/01/0004/it0001_0004_0.mesh
+Great Sword,Buster Sword III,natives/STM/Art/Model/Item/it00/01/0004/it0001_0004_0.mesh
+Great Sword,Ravager Blade,natives/STM/Art/Model/Item/it00/01/0006/it0001_0006_0.mesh
+Great Sword,Jin Dhavaar I,natives/STM/Art/Model/Item/it00/00/0019/it0000_0019_0.mesh
+Great Sword,Precipice Metallam,natives/STM/Art/Model/Item/it00/00/0019/it0000_0019_0.mesh
+Great Sword,Albirath Wing I,natives/STM/Art/Model/Item/it00/10/0000/it0010_0000_0.mesh
+Great Sword,Albirath Wing II,natives/STM/Art/Model/Item/it00/10/0000/it0010_0000_0.mesh
+Great Sword,Whitefire Rathguard,natives/STM/Art/Model/Item/it00/10/0000/it0010_0000_0.mesh
+Great Sword,Red Wing I,natives/STM/Art/Model/Item/it00/00/0008/it0000_0008_0.mesh
+Great Sword,Rathalos Firesword,natives/STM/Art/Model/Item/it00/00/0008/it0000_0008_0.mesh
+Great Sword,Immane Blade I,natives/STM/Art/Model/Item/it00/00/0010/it0000_0010_0.mesh
+Great Sword,Immane Blade II,natives/STM/Art/Model/Item/it00/00/0010/it0000_0010_0.mesh
+Great Sword,Immane Blade III,natives/STM/Art/Model/Item/it00/00/0010/it0000_0010_0.mesh
+Great Sword,Immolator Blade,natives/STM/Art/Model/Item/it00/00/0010/it0000_0010_0.mesh
+Great Sword,Schattenstolz I,natives/STM/Art/Model/Item/it00/00/0009/it0000_0009_0.mesh
+Great Sword,Düsterstolz,natives/STM/Art/Model/Item/it00/00/0009/it0000_0009_0.mesh
+Great Sword,Bone Blade I,natives/STM/Art/Model/Item/it00/01/0002/it0001_0002_0.mesh
+Great Sword,Bone Blade II,natives/STM/Art/Model/Item/it00/01/0002/it0001_0002_0.mesh
+Great Sword,Bone Blade III,natives/STM/Art/Model/Item/it00/01/0002/it0001_0002_0.mesh
+Great Sword,Bone Blade IV,natives/STM/Art/Model/Item/it00/01/0002/it0001_0002_0.mesh
+Great Sword,Bone Slasher,natives/STM/Art/Model/Item/it00/01/0002/it0001_0002_0.mesh
+Great Sword,Nu Krake I,natives/STM/Art/Model/Item/it00/00/0011/it0000_0011_0.mesh
+Great Sword,Nu Krake II,natives/STM/Art/Model/Item/it00/00/0011/it0000_0011_0.mesh
+Great Sword,Abaddonian Krake,natives/STM/Art/Model/Item/it00/00/0011/it0000_0011_0.mesh
+Great Sword,Slaughter I,natives/STM/Art/Model/Item/it00/00/0013/it0000_0013_0.mesh
+Great Sword,Slaughter II,natives/STM/Art/Model/Item/it00/00/0013/it0000_0013_0.mesh
+Great Sword,Poison King,natives/STM/Art/Model/Item/it00/00/0013/it0000_0013_0.mesh
+Great Sword,Dosha Fellslayer I,natives/STM/Art/Model/Item/it00/00/0001/it0000_0001_0.mesh
+Great Sword,Dosha Fellslayer II,natives/STM/Art/Model/Item/it00/00/0001/it0000_0001_0.mesh
+Great Sword,Dosha Fellslayer III,natives/STM/Art/Model/Item/it00/00/0001/it0000_0001_0.mesh
+Great Sword,Dosha Grimslayer I,natives/STM/Art/Model/Item/it00/10/0001/it0010_0001_0.mesh
+Great Sword,Dosha Grimslayer II,natives/STM/Art/Model/Item/it00/10/0001/it0010_0001_0.mesh
+Great Sword,Grimslayer Urgeom,natives/STM/Art/Model/Item/it00/10/0001/it0010_0001_0.mesh
+Great Sword,Smiting Fulgur I,natives/STM/Art/Model/Item/it00/10/0002/it0010_0002_0.mesh
+Great Sword,Fulgurcleaver Guardiana,natives/STM/Art/Model/Item/it00/10/0002/it0010_0002_0.mesh
+Great Sword,G. Veldian Gladius I,natives/STM/Art/Model/Item/it00/00/0017/it0000_0017_0.mesh
+Great Sword,G. Veldian Gladius II,natives/STM/Art/Model/Item/it00/00/0017/it0000_0017_0.mesh
+Great Sword,G. Stalwart Lamorak,natives/STM/Art/Model/Item/it00/00/0017/it0000_0017_0.mesh
+Great Sword,Veldian Gladius I,natives/STM/Art/Model/Item/it00/00/0024/it0000_0024_0.mesh
+Great Sword,Frozen Speartuna I,natives/STM/Art/Model/Item/it00/00/0027/it0000_0027_0.mesh
+Great Sword,Frozen Speartuna II,natives/STM/Art/Model/Item/it00/00/0027/it0000_0027_0.mesh
+Great Sword,Freezer Speartuna,natives/STM/Art/Model/Item/it00/00/0027/it0000_0027_0.mesh
+Great Sword,Paretic Blade I,natives/STM/Art/Model/Item/it00/00/0023/it0000_0023_0.mesh
+Great Sword,Paretic Blade II,natives/STM/Art/Model/Item/it00/00/0023/it0000_0023_0.mesh
+Great Sword,Paretic Blade III,natives/STM/Art/Model/Item/it00/00/0023/it0000_0023_0.mesh
+Great Sword,Paretic Blade IV,natives/STM/Art/Model/Item/it00/00/0023/it0000_0023_0.mesh
+Great Sword,Destructive Torpor,natives/STM/Art/Model/Item/it00/00/0023/it0000_0023_0.mesh
+Great Sword,Artian Blade I,natives/STM/Art/Model/Item/it00/10/0003/it0010_0003_0.mesh
+Great Sword,Artian Blade II,natives/STM/Art/Model/Item/it00/10/0003/it0010_0003_0.mesh
+Great Sword,Varianza,natives/STM/Art/Model/Item/it00/10/0003/it0010_0003_0.mesh
+Great Sword,Zoh Veiah I,natives/STM/Art/Model/Item/it00/00/0021/it0000_0021_0.mesh
+Great Sword,Esperanza Blade,natives/STM/Art/Model/Item/it00/00/0004/it0000_0004_0.mesh
+Great Sword,Hanayako Yohino I,natives/STM/Art/Model/Item/it00/00/0018/it0000_0018_0.mesh
+Great Sword,Akanesasu,natives/STM/Art/Model/Item/it00/00/0018/it0000_0018_0.mesh
+Great Sword,Fellslayer Dangeom,natives/STM/Art/Model/Item/it00/00/0003/it0000_0003_0.mesh
+Great Sword,Stalwart Lamorak,natives/STM/Art/Model/Item/it00/00/0024/it0000_0024_0.mesh
+Great Sword,Lagiacrus Blade I,natives/STM/Art/Model/Item/it00/00/0014/it0000_0014_0.mesh
+Great Sword,High Lagia Blade,natives/STM/Art/Model/Item/it00/00/0014/it0000_0014_0.mesh
+Great Sword,Jawblade I,natives/STM/Art/Model/Item/it00/00/0000/it0000_0000_0.mesh
+Great Sword,Giant Jawblade,natives/STM/Art/Model/Item/it00/00/0000/it0000_0000_0.mesh
+Great Sword,Blazing Veiah,natives/STM/Art/Model/Item/it00/00/0021/it0000_0021_0.mesh
+Sword & Shield,Hope Sword I (Sword),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_0.mesh
+Sword & Shield,Hope Sword I (Shield),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_1.mesh
+Sword & Shield,Hope Sword II (Sword),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_0.mesh
+Sword & Shield,Hope Sword II (Shield),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_1.mesh
+Sword & Shield,Hope Sword III (Sword),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_0.mesh
+Sword & Shield,Hope Sword III (Shield),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_1.mesh
+Sword & Shield,Hope Sword IV (Sword),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_0.mesh
+Sword & Shield,Hope Sword IV (Shield),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_1.mesh
+Sword & Shield,Hope Sword V (Sword),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_0.mesh
+Sword & Shield,Hope Sword V (Shield),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_1.mesh
+Sword & Shield,Rey Kuara I (Sword),natives/STM/Art/Model/Item/it01/00/0010/it0100_0010_0.mesh
+Sword & Shield,Rey Kuara I (Shield),natives/STM/Art/Model/Item/it01/00/0010/it0100_0010_1.mesh
+Sword & Shield,Rey Kuara II (Sword),natives/STM/Art/Model/Item/it01/00/0010/it0100_0010_0.mesh
+Sword & Shield,Rey Kuara II (Shield),natives/STM/Art/Model/Item/it01/00/0010/it0100_0010_1.mesh
+Sword & Shield,Rey Kuara III (Sword),natives/STM/Art/Model/Item/it01/00/0010/it0100_0010_0.mesh
+Sword & Shield,Rey Kuara III (Shield),natives/STM/Art/Model/Item/it01/00/0010/it0100_0010_1.mesh
+Sword & Shield,Kuara Clairsword (Sword),natives/STM/Art/Model/Item/it01/00/0010/it0100_0010_0.mesh
+Sword & Shield,Kuara Clairsword (Shield),natives/STM/Art/Model/Item/it01/00/0010/it0100_0010_1.mesh
+Sword & Shield,Naab Sword I (Sword),natives/STM/Art/Model/Item/it01/00/0006/it0100_0006_0.mesh
+Sword & Shield,Naab Sword I (Shield),natives/STM/Art/Model/Item/it01/00/0006/it0100_0006_1.mesh
+Sword & Shield,Feral Fangs (Sword),natives/STM/Art/Model/Item/it01/00/0006/it0100_0006_0.mesh
+Sword & Shield,Feral Fangs (Shield),natives/STM/Art/Model/Item/it01/00/0006/it0100_0006_1.mesh
+Sword & Shield,Sucher-Ankh I (Sword),natives/STM/Art/Model/Item/it01/00/0013/it0100_0013_0.mesh
+Sword & Shield,Sucher-Ankh I (Shield),natives/STM/Art/Model/Item/it01/00/0013/it0100_0013_1.mesh
+Sword & Shield,Jäger-Ankh (Sword),natives/STM/Art/Model/Item/it01/00/0013/it0100_0013_0.mesh
+Sword & Shield,Jäger-Ankh (Shield),natives/STM/Art/Model/Item/it01/00/0013/it0100_0013_1.mesh
+Sword & Shield,Barina Dague I (Sword),natives/STM/Art/Model/Item/it01/00/0027/it0100_0027_0.mesh
+Sword & Shield,Barina Dague I (Shield),natives/STM/Art/Model/Item/it01/00/0027/it0100_0027_1.mesh
+Sword & Shield,Barina Dague II (Sword),natives/STM/Art/Model/Item/it01/00/0027/it0100_0027_0.mesh
+Sword & Shield,Barina Dague II (Shield),natives/STM/Art/Model/Item/it01/00/0027/it0100_0027_1.mesh
+Sword & Shield,Barina Dague III (Sword),natives/STM/Art/Model/Item/it01/00/0027/it0100_0027_0.mesh
+Sword & Shield,Barina Dague III (Shield),natives/STM/Art/Model/Item/it01/00/0027/it0100_0027_1.mesh
+Sword & Shield,Barina Dague IV (Sword),natives/STM/Art/Model/Item/it01/00/0027/it0100_0027_0.mesh
+Sword & Shield,Barina Dague IV (Shield),natives/STM/Art/Model/Item/it01/00/0027/it0100_0027_1.mesh
+Sword & Shield,Lala Acanthopelm (Sword),natives/STM/Art/Model/Item/it01/00/0033/it0100_0033_0.mesh
+Sword & Shield,Lala Acanthopelm (Shield),natives/STM/Art/Model/Item/it01/00/0033/it0100_0033_1.mesh
+Sword & Shield,Quematrice Cuchillo I (Sword),natives/STM/Art/Model/Item/it01/00/0002/it0100_0002_0.mesh
+Sword & Shield,Quematrice Cuchillo I (Shield),natives/STM/Art/Model/Item/it01/00/0002/it0100_0002_1.mesh
+Sword & Shield,Quematrice Cuchillo II (Sword),natives/STM/Art/Model/Item/it01/00/0002/it0100_0002_0.mesh
+Sword & Shield,Quematrice Cuchillo II (Shield),natives/STM/Art/Model/Item/it01/00/0002/it0100_0002_1.mesh
+Sword & Shield,Quematrice Cuchillo III (Sword),natives/STM/Art/Model/Item/it01/00/0002/it0100_0002_0.mesh
+Sword & Shield,Quematrice Cuchillo III (Shield),natives/STM/Art/Model/Item/it01/00/0002/it0100_0002_1.mesh
+Sword & Shield,Quematrice Cuchillo IV (Sword),natives/STM/Art/Model/Item/it01/00/0002/it0100_0002_0.mesh
+Sword & Shield,Quematrice Cuchillo IV (Shield),natives/STM/Art/Model/Item/it01/00/0002/it0100_0002_1.mesh
+Sword & Shield,Firetrail Fornax (Sword),natives/STM/Art/Model/Item/it01/00/0003/it0100_0003_0.mesh
+Sword & Shield,Firetrail Fornax (Shield),natives/STM/Art/Model/Item/it01/00/0003/it0100_0003_1.mesh
+Sword & Shield,Gravios Syphos I (Sword),natives/STM/Art/Model/Item/it01/00/0019/it0100_0019_0.mesh
+Sword & Shield,Gravios Syphos I (Shield),natives/STM/Art/Model/Item/it01/00/0019/it0100_0019_1.mesh
+Sword & Shield,Titan's Armament (Sword),natives/STM/Art/Model/Item/it01/00/0019/it0100_0019_0.mesh
+Sword & Shield,Titan's Armament (Shield),natives/STM/Art/Model/Item/it01/00/0019/it0100_0019_1.mesh
+Sword & Shield,Iron Beater I (Sword),natives/STM/Art/Model/Item/it01/01/0002/it0101_0002_0.mesh
+Sword & Shield,Iron Beater I (Shield),natives/STM/Art/Model/Item/it01/01/0002/it0101_0002_1.mesh
+Sword & Shield,Iron Beater II (Sword),natives/STM/Art/Model/Item/it01/01/0002/it0101_0002_0.mesh
+Sword & Shield,Iron Beater II (Shield),natives/STM/Art/Model/Item/it01/01/0002/it0101_0002_1.mesh
+Sword & Shield,Iron Beater III (Sword),natives/STM/Art/Model/Item/it01/01/0002/it0101_0002_0.mesh
+Sword & Shield,Iron Beater III (Shield),natives/STM/Art/Model/Item/it01/01/0002/it0101_0002_1.mesh
+Sword & Shield,Smithy's Pride (Sword),natives/STM/Art/Model/Item/it01/01/0002/it0101_0002_0.mesh
+Sword & Shield,Smithy's Pride (Shield),natives/STM/Art/Model/Item/it01/01/0002/it0101_0002_1.mesh
+Sword & Shield,Jin Dhaklab I (Sword),natives/STM/Art/Model/Item/it01/00/0023/it0100_0023_0.mesh
+Sword & Shield,Jin Dhaklab I (Shield),natives/STM/Art/Model/Item/it01/00/0023/it0100_0023_1.mesh
+Sword & Shield,Precipice Mateptro (Sword),natives/STM/Art/Model/Item/it01/00/0023/it0100_0023_0.mesh
+Sword & Shield,Precipice Mateptro (Shield),natives/STM/Art/Model/Item/it01/00/0023/it0100_0023_1.mesh
+Sword & Shield,Albirath Edge I (Sword),natives/STM/Art/Model/Item/it01/10/0000/it0110_0000_0.mesh
+Sword & Shield,Albirath Edge I (Shield),natives/STM/Art/Model/Item/it01/10/0000/it0110_0000_1.mesh
+Sword & Shield,Albirath Edge II (Sword),natives/STM/Art/Model/Item/it01/10/0000/it0110_0000_0.mesh
+Sword & Shield,Albirath Edge II (Shield),natives/STM/Art/Model/Item/it01/10/0000/it0110_0000_1.mesh
+Sword & Shield,Melting Point (Sword),natives/STM/Art/Model/Item/it01/10/0000/it0110_0000_0.mesh
+Sword & Shield,Melting Point (Shield),natives/STM/Art/Model/Item/it01/10/0000/it0110_0000_1.mesh
+Sword & Shield,Heat Edge I (Sword),natives/STM/Art/Model/Item/it01/00/0012/it0100_0012_0.mesh
+Sword & Shield,Heat Edge I (Shield),natives/STM/Art/Model/Item/it01/00/0012/it0100_0012_1.mesh
+Sword & Shield,Corona (Sword),natives/STM/Art/Model/Item/it01/00/0012/it0100_0012_0.mesh
+Sword & Shield,Corona (Shield),natives/STM/Art/Model/Item/it01/00/0012/it0100_0012_1.mesh
+Sword & Shield,Princess Rapier I (Sword),natives/STM/Art/Model/Item/it01/00/0011/it0100_0011_0.mesh
+Sword & Shield,Princess Rapier I (Shield),natives/STM/Art/Model/Item/it01/00/0011/it0100_0011_1.mesh
+Sword & Shield,Princess Rapier II (Sword),natives/STM/Art/Model/Item/it01/00/0011/it0100_0011_0.mesh
+Sword & Shield,Princess Rapier II (Shield),natives/STM/Art/Model/Item/it01/00/0011/it0100_0011_1.mesh
+Sword & Shield,Queen Rapier (Sword),natives/STM/Art/Model/Item/it01/00/0011/it0100_0011_0.mesh
+Sword & Shield,Queen Rapier (Shield),natives/STM/Art/Model/Item/it01/00/0011/it0100_0011_1.mesh
+Sword & Shield,Scaly Sword I (Sword),natives/STM/Art/Model/Item/it01/00/0014/it0100_0014_0.mesh
+Sword & Shield,Scaly Sword I (Shield),natives/STM/Art/Model/Item/it01/00/0014/it0100_0014_1.mesh
+Sword & Shield,Scaly Sword II (Sword),natives/STM/Art/Model/Item/it01/00/0014/it0100_0014_0.mesh
+Sword & Shield,Scaly Sword II (Shield),natives/STM/Art/Model/Item/it01/00/0014/it0100_0014_1.mesh
+Sword & Shield,Scaly Sword III (Sword),natives/STM/Art/Model/Item/it01/00/0014/it0100_0014_0.mesh
+Sword & Shield,Scaly Sword III (Shield),natives/STM/Art/Model/Item/it01/00/0014/it0100_0014_1.mesh
+Sword & Shield,Nerskiller (Sword),natives/STM/Art/Model/Item/it01/00/0014/it0100_0014_0.mesh
+Sword & Shield,Nerskiller (Shield),natives/STM/Art/Model/Item/it01/00/0014/it0100_0014_1.mesh
+Sword & Shield,Balahara Blade I (Sword),natives/STM/Art/Model/Item/it01/00/0008/it0100_0008_0.mesh
+Sword & Shield,Balahara Blade I (Shield),natives/STM/Art/Model/Item/it01/00/0008/it0100_0008_1.mesh
+Sword & Shield,Balahara Blade II (Sword),natives/STM/Art/Model/Item/it01/00/0008/it0100_0008_0.mesh
+Sword & Shield,Balahara Blade II (Shield),natives/STM/Art/Model/Item/it01/00/0008/it0100_0008_1.mesh
+Sword & Shield,Balahara Blade III (Sword),natives/STM/Art/Model/Item/it01/00/0008/it0100_0008_0.mesh
+Sword & Shield,Balahara Blade III (Shield),natives/STM/Art/Model/Item/it01/00/0008/it0100_0008_1.mesh
+Sword & Shield,Balahara Blade IV (Sword),natives/STM/Art/Model/Item/it01/00/0008/it0100_0008_0.mesh
+Sword & Shield,Balahara Blade IV (Shield),natives/STM/Art/Model/Item/it01/00/0008/it0100_0008_1.mesh
+Sword & Shield,Sandsea Katduva (Sword),natives/STM/Art/Model/Item/it01/00/0009/it0100_0009_0.mesh
+Sword & Shield,Sandsea Katduva (Shield),natives/STM/Art/Model/Item/it01/00/0009/it0100_0009_1.mesh
+Sword & Shield,Bone Kukri I (Sword),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_0.mesh
+Sword & Shield,Bone Kukri I (Shield),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_1.mesh
+Sword & Shield,Bone Kukri II (Sword),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_0.mesh
+Sword & Shield,Bone Kukri II (Shield),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_1.mesh
+Sword & Shield,Bone Kukri III (Sword),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_0.mesh
+Sword & Shield,Bone Kukri III (Shield),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_1.mesh
+Sword & Shield,Bone Kukri IV (Sword),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_0.mesh
+Sword & Shield,Bone Kukri IV (Shield),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_1.mesh
+Sword & Shield,Chief Kukri (Sword),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_0.mesh
+Sword & Shield,Chief Kukri (Shield),natives/STM/Art/Model/Item/it01/01/0001/it0101_0001_1.mesh
+Sword & Shield,Rending Fulgur I (Sword),natives/STM/Art/Model/Item/it01/10/0002/it0110_0002_0.mesh
+Sword & Shield,Rending Fulgur I (Shield),natives/STM/Art/Model/Item/it01/10/0002/it0110_0002_1.mesh
+Sword & Shield,Fulgursword Guardiana (Sword),natives/STM/Art/Model/Item/it01/10/0002/it0110_0002_0.mesh
+Sword & Shield,Fulgursword Guardiana (Shield),natives/STM/Art/Model/Item/it01/10/0002/it0110_0002_1.mesh
+Sword & Shield,Venom's Pain I (Sword),natives/STM/Art/Model/Item/it01/00/0016/it0100_0016_0.mesh
+Sword & Shield,Venom's Pain I (Shield),natives/STM/Art/Model/Item/it01/00/0016/it0100_0016_1.mesh
+Sword & Shield,Venom's Pain II (Sword),natives/STM/Art/Model/Item/it01/00/0016/it0100_0016_0.mesh
+Sword & Shield,Venom's Pain II (Shield),natives/STM/Art/Model/Item/it01/00/0016/it0100_0016_1.mesh
+Sword & Shield,Viperine Saber (Sword),natives/STM/Art/Model/Item/it01/00/0016/it0100_0016_0.mesh
+Sword & Shield,Viperine Saber (Shield),natives/STM/Art/Model/Item/it01/00/0016/it0100_0016_1.mesh
+Sword & Shield,Ajara Saber I (Sword),natives/STM/Art/Model/Item/it01/00/0015/it0100_0015_0.mesh
+Sword & Shield,Ajara Saber I (Shield),natives/STM/Art/Model/Item/it01/00/0015/it0100_0015_1.mesh
+Sword & Shield,Ajara Saber II (Sword),natives/STM/Art/Model/Item/it01/00/0015/it0100_0015_0.mesh
+Sword & Shield,Ajara Saber II (Shield),natives/STM/Art/Model/Item/it01/00/0015/it0100_0015_1.mesh
+Sword & Shield,Ajara-Subinda (Sword),natives/STM/Art/Model/Item/it01/00/0015/it0100_0015_0.mesh
+Sword & Shield,Ajara-Subinda (Shield),natives/STM/Art/Model/Item/it01/00/0015/it0100_0015_1.mesh
+Sword & Shield,Snow-white Jambiya I (Sword),natives/STM/Art/Model/Item/it01/00/0020/it0100_0020_0.mesh
+Sword & Shield,Snow-white Jambiya I (Shield),natives/STM/Art/Model/Item/it01/00/0020/it0100_0020_1.mesh
+Sword & Shield,Snow Lion Jambiya (Sword),natives/STM/Art/Model/Item/it01/00/0020/it0100_0020_0.mesh
+Sword & Shield,Snow Lion Jambiya (Shield),natives/STM/Art/Model/Item/it01/00/0020/it0100_0020_1.mesh
+Sword & Shield,Chata Club I (Sword),natives/STM/Art/Model/Item/it01/00/0004/it0100_0004_0.mesh
+Sword & Shield,Chata Club I (Shield),natives/STM/Art/Model/Item/it01/00/0004/it0100_0004_1.mesh
+Sword & Shield,Chata Club II (Sword),natives/STM/Art/Model/Item/it01/00/0004/it0100_0004_0.mesh
+Sword & Shield,Chata Club II (Shield),natives/STM/Art/Model/Item/it01/00/0004/it0100_0004_1.mesh
+Sword & Shield,Chata Club III (Sword),natives/STM/Art/Model/Item/it01/00/0004/it0100_0004_0.mesh
+Sword & Shield,Chata Club III (Shield),natives/STM/Art/Model/Item/it01/00/0004/it0100_0004_1.mesh
+Sword & Shield,Chata Club IV (Sword),natives/STM/Art/Model/Item/it01/00/0004/it0100_0004_0.mesh
+Sword & Shield,Chata Club IV (Shield),natives/STM/Art/Model/Item/it01/00/0004/it0100_0004_1.mesh
+Sword & Shield,Nihil Sword I (Sword),natives/STM/Art/Model/Item/it01/00/0024/it0100_0024_0.mesh
+Sword & Shield,Nihil Sword I (Shield),natives/STM/Art/Model/Item/it01/00/0024/it0100_0024_1.mesh
+Sword & Shield,Nihil Sword II (Sword),natives/STM/Art/Model/Item/it01/00/0024/it0100_0024_0.mesh
+Sword & Shield,Nihil Sword II (Shield),natives/STM/Art/Model/Item/it01/00/0024/it0100_0024_1.mesh
+Sword & Shield,Cordayle's Revocation (Sword),natives/STM/Art/Model/Item/it01/00/0024/it0100_0024_0.mesh
+Sword & Shield,Cordayle's Revocation (Shield),natives/STM/Art/Model/Item/it01/00/0024/it0100_0024_1.mesh
+Sword & Shield,G. Veldian Mucro I (Sword),natives/STM/Art/Model/Item/it01/00/0022/it0100_0022_0.mesh
+Sword & Shield,G. Veldian Mucro I (Shield),natives/STM/Art/Model/Item/it01/00/0022/it0100_0022_1.mesh
+Sword & Shield,G. Veldian Mucro II (Sword),natives/STM/Art/Model/Item/it01/00/0022/it0100_0022_0.mesh
+Sword & Shield,G. Veldian Mucro II (Shield),natives/STM/Art/Model/Item/it01/00/0022/it0100_0022_1.mesh
+Sword & Shield,G. Guiding Artorius (Sword),natives/STM/Art/Model/Item/it01/00/0022/it0100_0022_0.mesh
+Sword & Shield,G. Guiding Artorius (Shield),natives/STM/Art/Model/Item/it01/00/0022/it0100_0022_1.mesh
+Sword & Shield,Veldian Mucro I (Sword),natives/STM/Art/Model/Item/it01/00/0028/it0100_0028_0.mesh
+Sword & Shield,Veldian Mucro I (Shield),natives/STM/Art/Model/Item/it01/00/0028/it0100_0028_1.mesh
+Sword & Shield,Artian Sword I (Sword),natives/STM/Art/Model/Item/it01/10/0003/it0110_0003_0.mesh
+Sword & Shield,Artian Sword I (Shield),natives/STM/Art/Model/Item/it01/10/0003/it0110_0003_1.mesh
+Sword & Shield,Artian Sword II (Sword),natives/STM/Art/Model/Item/it01/10/0003/it0110_0003_0.mesh
+Sword & Shield,Artian Sword II (Shield),natives/STM/Art/Model/Item/it01/10/0003/it0110_0003_1.mesh
+Sword & Shield,Verdoloto (Sword),natives/STM/Art/Model/Item/it01/10/0003/it0110_0003_0.mesh
+Sword & Shield,Verdoloto (Shield),natives/STM/Art/Model/Item/it01/10/0003/it0110_0003_1.mesh
+Sword & Shield,Zoh Mikal I (Sword),natives/STM/Art/Model/Item/it01/00/0025/it0100_0025_0.mesh
+Sword & Shield,Zoh Mikal I (Shield),natives/STM/Art/Model/Item/it01/00/0025/it0100_0025_1.mesh
+Sword & Shield,Blazing Mikal (Sword),natives/STM/Art/Model/Item/it01/00/0025/it0100_0025_0.mesh
+Sword & Shield,Blazing Mikal (Shield),natives/STM/Art/Model/Item/it01/00/0025/it0100_0025_1.mesh
+Sword & Shield,Esperanza Sword (Sword),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_0.mesh
+Sword & Shield,Esperanza Sword (Shield),natives/STM/Art/Model/Item/it01/00/0007/it0100_0007_1.mesh
+Sword & Shield,Shrouded Katalo (Sword),natives/STM/Art/Model/Item/it01/00/0005/it0100_0005_0.mesh
+Sword & Shield,Shrouded Katalo (Shield),natives/STM/Art/Model/Item/it01/00/0005/it0100_0005_1.mesh
+Sword & Shield,Guiding Artorius (Sword),natives/STM/Art/Model/Item/it01/00/0028/it0100_0028_0.mesh
+Sword & Shield,Guiding Artorius (Shield),natives/STM/Art/Model/Item/it01/00/0028/it0100_0028_1.mesh
+Sword & Shield,Hana no Nagoriwo I (Sword),natives/STM/Art/Model/Item/it01/00/0030/it0100_0030_0.mesh
+Sword & Shield,Hana no Nagoriwo I (Shield),natives/STM/Art/Model/Item/it01/00/0030/it0100_0030_1.mesh
+Sword & Shield,Kurenawi Ougi (Sword),natives/STM/Art/Model/Item/it01/00/0030/it0100_0030_0.mesh
+Sword & Shield,Kurenawi Ougi (Shield),natives/STM/Art/Model/Item/it01/00/0030/it0100_0030_1.mesh
+Sword & Shield,Mining Pickaxe (Sword),natives/STM/Art/Model/Item/it01/00/0029/it0100_0029_0.mesh
+Sword & Shield,Mining Pickaxe (Shield),natives/STM/Art/Model/Item/it01/00/0029/it0100_0029_1.mesh
+Sword & Shield,Digmore War Pick (Sword),natives/STM/Art/Model/Item/it01/00/0029/it0100_0029_0.mesh
+Sword & Shield,Digmore War Pick (Shield),natives/STM/Art/Model/Item/it01/00/0029/it0100_0029_1.mesh
+Sword & Shield,Lagia Sword I (Sword),natives/STM/Art/Model/Item/it01/00/0017/it0100_0017_0.mesh
+Sword & Shield,Lagia Sword I (Shield),natives/STM/Art/Model/Item/it01/00/0017/it0100_0017_1.mesh
+Sword & Shield,High Lagia Sword (Sword),natives/STM/Art/Model/Item/it01/00/0017/it0100_0017_0.mesh
+Sword & Shield,High Lagia Sword (Shield),natives/STM/Art/Model/Item/it01/00/0017/it0100_0017_1.mesh
+Dual Blades,Hope Daggers I (L),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_0.mesh
+Dual Blades,Hope Daggers I (R),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_1.mesh
+Dual Blades,Hope Daggers II (L),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_0.mesh
+Dual Blades,Hope Daggers II (R),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_1.mesh
+Dual Blades,Hope Daggers III (L),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_0.mesh
+Dual Blades,Hope Daggers III (R),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_1.mesh
+Dual Blades,Hope Daggers IV (L),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_0.mesh
+Dual Blades,Hope Daggers IV (R),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_1.mesh
+Dual Blades,Hope Daggers V (L),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_0.mesh
+Dual Blades,Hope Daggers V (R),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_1.mesh
+Dual Blades,Bone Hatchets I (L),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_0.mesh
+Dual Blades,Bone Hatchets I (R),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_1.mesh
+Dual Blades,Bone Hatchets II (L),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_0.mesh
+Dual Blades,Bone Hatchets II (R),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_1.mesh
+Dual Blades,Bone Hatchets III (L),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_0.mesh
+Dual Blades,Bone Hatchets III (R),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_1.mesh
+Dual Blades,Bone Hatchets IV (L),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_0.mesh
+Dual Blades,Bone Hatchets IV (R),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_1.mesh
+Dual Blades,Wild Hatchets (L),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_0.mesh
+Dual Blades,Wild Hatchets (R),natives/STM/Art/Model/Item/it02/01/0004/it0201_0004_1.mesh
+Dual Blades,Dual Hatchets I (L),natives/STM/Art/Model/Item/it02/01/0001/it0201_0001_0.mesh
+Dual Blades,Dual Hatchets I (R),natives/STM/Art/Model/Item/it02/01/0001/it0201_0001_1.mesh
+Dual Blades,Dual Hatchets II (L),natives/STM/Art/Model/Item/it02/01/0001/it0201_0001_0.mesh
+Dual Blades,Dual Hatchets II (R),natives/STM/Art/Model/Item/it02/01/0001/it0201_0001_1.mesh
+Dual Blades,Dual Hatchets III (L),natives/STM/Art/Model/Item/it02/01/0001/it0201_0001_0.mesh
+Dual Blades,Dual Hatchets III (R),natives/STM/Art/Model/Item/it02/01/0001/it0201_0001_1.mesh
+Dual Blades,Dual Cleavers (L),natives/STM/Art/Model/Item/it02/01/0001/it0201_0001_0.mesh
+Dual Blades,Dual Cleavers (R),natives/STM/Art/Model/Item/it02/01/0001/it0201_0001_1.mesh
+Dual Blades,Quematrice Silexes I (L),natives/STM/Art/Model/Item/it02/00/0003/it0200_0003_0.mesh
+Dual Blades,Quematrice Silexes I (R),natives/STM/Art/Model/Item/it02/00/0003/it0200_0003_1.mesh
+Dual Blades,Quematrice Silexes II (L),natives/STM/Art/Model/Item/it02/00/0003/it0200_0003_0.mesh
+Dual Blades,Quematrice Silexes II (R),natives/STM/Art/Model/Item/it02/00/0003/it0200_0003_1.mesh
+Dual Blades,Quematrice Silexes III (L),natives/STM/Art/Model/Item/it02/00/0003/it0200_0003_0.mesh
+Dual Blades,Quematrice Silexes III (R),natives/STM/Art/Model/Item/it02/00/0003/it0200_0003_1.mesh
+Dual Blades,Quematrice Silexes IV (L),natives/STM/Art/Model/Item/it02/00/0003/it0200_0003_0.mesh
+Dual Blades,Quematrice Silexes IV (R),natives/STM/Art/Model/Item/it02/00/0003/it0200_0003_1.mesh
+Dual Blades,Firetrail Magnesiae (L),natives/STM/Art/Model/Item/it02/00/0004/it0200_0004_0.mesh
+Dual Blades,Firetrail Magnesiae (R),natives/STM/Art/Model/Item/it02/00/0004/it0200_0004_1.mesh
+Dual Blades,Barina Faucilles I (L),natives/STM/Art/Model/Item/it02/00/0005/it0200_0005_0.mesh
+Dual Blades,Barina Faucilles I (R),natives/STM/Art/Model/Item/it02/00/0005/it0200_0005_1.mesh
+Dual Blades,Barina Faucilles II (L),natives/STM/Art/Model/Item/it02/00/0005/it0200_0005_0.mesh
+Dual Blades,Barina Faucilles II (R),natives/STM/Art/Model/Item/it02/00/0005/it0200_0005_1.mesh
+Dual Blades,Barina Faucilles III (L),natives/STM/Art/Model/Item/it02/00/0005/it0200_0005_0.mesh
+Dual Blades,Barina Faucilles III (R),natives/STM/Art/Model/Item/it02/00/0005/it0200_0005_1.mesh
+Dual Blades,Barina Faucilles IV (L),natives/STM/Art/Model/Item/it02/00/0005/it0200_0005_0.mesh
+Dual Blades,Barina Faucilles IV (R),natives/STM/Art/Model/Item/it02/00/0005/it0200_0005_1.mesh
+Dual Blades,Lala Harpactirs (L),natives/STM/Art/Model/Item/it02/00/0006/it0200_0006_0.mesh
+Dual Blades,Lala Harpactirs (R),natives/STM/Art/Model/Item/it02/00/0006/it0200_0006_1.mesh
+Dual Blades,Pink Maracas I (L),natives/STM/Art/Model/Item/it02/00/0007/it0200_0007_0.mesh
+Dual Blades,Pink Maracas I (R),natives/STM/Art/Model/Item/it02/00/0007/it0200_0007_1.mesh
+Dual Blades,Pink Maracas II (L),natives/STM/Art/Model/Item/it02/00/0007/it0200_0007_0.mesh
+Dual Blades,Pink Maracas II (R),natives/STM/Art/Model/Item/it02/00/0007/it0200_0007_1.mesh
+Dual Blades,Funky Maracas (L),natives/STM/Art/Model/Item/it02/00/0007/it0200_0007_0.mesh
+Dual Blades,Funky Maracas (R),natives/STM/Art/Model/Item/it02/00/0007/it0200_0007_1.mesh
+Dual Blades,Dosha Fastflayers I (L),natives/STM/Art/Model/Item/it02/00/0008/it0200_0008_0.mesh
+Dual Blades,Dosha Fastflayers I (R),natives/STM/Art/Model/Item/it02/00/0008/it0200_0008_1.mesh
+Dual Blades,Dosha Fastflayers II (L),natives/STM/Art/Model/Item/it02/00/0008/it0200_0008_0.mesh
+Dual Blades,Dosha Fastflayers II (R),natives/STM/Art/Model/Item/it02/00/0008/it0200_0008_1.mesh
+Dual Blades,Dosha Fastflayers III (L),natives/STM/Art/Model/Item/it02/00/0008/it0200_0008_0.mesh
+Dual Blades,Dosha Fastflayers III (R),natives/STM/Art/Model/Item/it02/00/0008/it0200_0008_1.mesh
+Dual Blades,Uth Ngarpatu I (L),natives/STM/Art/Model/Item/it02/00/0010/it0200_0010_0.mesh
+Dual Blades,Uth Ngarpatu I (R),natives/STM/Art/Model/Item/it02/00/0010/it0200_0010_1.mesh
+Dual Blades,Uth Ngarpatu II (L),natives/STM/Art/Model/Item/it02/00/0010/it0200_0010_0.mesh
+Dual Blades,Uth Ngarpatu II (R),natives/STM/Art/Model/Item/it02/00/0010/it0200_0010_1.mesh
+Dual Blades,Uth Ngarpatu III (L),natives/STM/Art/Model/Item/it02/00/0010/it0200_0010_0.mesh
+Dual Blades,Uth Ngarpatu III (R),natives/STM/Art/Model/Item/it02/00/0010/it0200_0010_1.mesh
+Dual Blades,Ngarpatu-of-the-Waves (L),natives/STM/Art/Model/Item/it02/00/0010/it0200_0010_0.mesh
+Dual Blades,Ngarpatu-of-the-Waves (R),natives/STM/Art/Model/Item/it02/00/0010/it0200_0010_1.mesh
+Dual Blades,Ajara Twin Edges I (L),natives/STM/Art/Model/Item/it02/00/0013/it0200_0013_0.mesh
+Dual Blades,Ajara Twin Edges I (R),natives/STM/Art/Model/Item/it02/00/0013/it0200_0013_1.mesh
+Dual Blades,Ajara Twin Edges II (L),natives/STM/Art/Model/Item/it02/00/0013/it0200_0013_0.mesh
+Dual Blades,Ajara Twin Edges II (R),natives/STM/Art/Model/Item/it02/00/0013/it0200_0013_1.mesh
+Dual Blades,Ajara-Panthaka (L),natives/STM/Art/Model/Item/it02/00/0013/it0200_0013_0.mesh
+Dual Blades,Ajara-Panthaka (R),natives/STM/Art/Model/Item/it02/00/0013/it0200_0013_1.mesh
+Dual Blades,Dosha Guardflayers I (L),natives/STM/Art/Model/Item/it02/10/0002/it0210_0002_0.mesh
+Dual Blades,Dosha Guardflayers I (R),natives/STM/Art/Model/Item/it02/10/0002/it0210_0002_1.mesh
+Dual Blades,Dosha Guardflayers II (L),natives/STM/Art/Model/Item/it02/10/0002/it0210_0002_0.mesh
+Dual Blades,Dosha Guardflayers II (R),natives/STM/Art/Model/Item/it02/10/0002/it0210_0002_1.mesh
+Dual Blades,Guardflayers Urbastra (L),natives/STM/Art/Model/Item/it02/10/0002/it0210_0002_0.mesh
+Dual Blades,Guardflayers Urbastra (R),natives/STM/Art/Model/Item/it02/10/0002/it0210_0002_1.mesh
+Dual Blades,Twin Albiraths I (L),natives/STM/Art/Model/Item/it02/10/0000/it0210_0000_0.mesh
+Dual Blades,Twin Albiraths I (R),natives/STM/Art/Model/Item/it02/10/0000/it0210_0000_1.mesh
+Dual Blades,Twin Albiraths II (L),natives/STM/Art/Model/Item/it02/10/0000/it0210_0000_0.mesh
+Dual Blades,Twin Albiraths II (R),natives/STM/Art/Model/Item/it02/10/0000/it0210_0000_1.mesh
+Dual Blades,Wyvern Sentinels (L),natives/STM/Art/Model/Item/it02/10/0000/it0210_0000_0.mesh
+Dual Blades,Wyvern Sentinels (R),natives/STM/Art/Model/Item/it02/10/0000/it0210_0000_1.mesh
+Dual Blades,Jin Dhakoo I (L),natives/STM/Art/Model/Item/it02/00/0023/it0200_0023_0.mesh
+Dual Blades,Jin Dhakoo I (R),natives/STM/Art/Model/Item/it02/00/0023/it0200_0023_1.mesh
+Dual Blades,Precipice Ulokiem (L),natives/STM/Art/Model/Item/it02/00/0023/it0200_0023_0.mesh
+Dual Blades,Precipice Ulokiem (R),natives/STM/Art/Model/Item/it02/00/0023/it0200_0023_1.mesh
+Dual Blades,Chthonian Kusarigamas I (L),natives/STM/Art/Model/Item/it02/10/0001/it0210_0001_0.mesh
+Dual Blades,Chthonian Kusarigamas I (R),natives/STM/Art/Model/Item/it02/10/0001/it0210_0001_1.mesh
+Dual Blades,Chthonian Kusarigamas II (L),natives/STM/Art/Model/Item/it02/10/0001/it0210_0001_0.mesh
+Dual Blades,Chthonian Kusarigamas II (R),natives/STM/Art/Model/Item/it02/10/0001/it0210_0001_1.mesh
+Dual Blades,Bequeathed Oblivion (L),natives/STM/Art/Model/Item/it02/10/0001/it0210_0001_0.mesh
+Dual Blades,Bequeathed Oblivion (R),natives/STM/Art/Model/Item/it02/10/0001/it0210_0001_1.mesh
+Dual Blades,G. Veldian Harpes I (L),natives/STM/Art/Model/Item/it02/00/0021/it0200_0021_0.mesh
+Dual Blades,G. Veldian Harpes I (R),natives/STM/Art/Model/Item/it02/00/0021/it0200_0021_1.mesh
+Dual Blades,G. Veldian Harpes II (L),natives/STM/Art/Model/Item/it02/00/0021/it0200_0021_0.mesh
+Dual Blades,G. Veldian Harpes II (R),natives/STM/Art/Model/Item/it02/00/0021/it0200_0021_1.mesh
+Dual Blades,G. Inspired Ywain (L),natives/STM/Art/Model/Item/it02/00/0021/it0200_0021_0.mesh
+Dual Blades,G. Inspired Ywain (R),natives/STM/Art/Model/Item/it02/00/0021/it0200_0021_1.mesh
+Dual Blades,Kut-Ku Pair I (L),natives/STM/Art/Model/Item/it02/00/0015/it0200_0015_0.mesh
+Dual Blades,Kut-Ku Pair I (R),natives/STM/Art/Model/Item/it02/00/0015/it0200_0015_1.mesh
+Dual Blades,Kut-Ku Pair II (L),natives/STM/Art/Model/Item/it02/00/0015/it0200_0015_0.mesh
+Dual Blades,Kut-Ku Pair II (R),natives/STM/Art/Model/Item/it02/00/0015/it0200_0015_1.mesh
+Dual Blades,Dual Kut-Ku (L),natives/STM/Art/Model/Item/it02/00/0015/it0200_0015_0.mesh
+Dual Blades,Dual Kut-Ku (R),natives/STM/Art/Model/Item/it02/00/0015/it0200_0015_1.mesh
+Dual Blades,Dual Battleaxes I (L),natives/STM/Art/Model/Item/it02/00/0016/it0200_0016_0.mesh
+Dual Blades,Dual Battleaxes I (R),natives/STM/Art/Model/Item/it02/00/0016/it0200_0016_1.mesh
+Dual Blades,Dual Battleaxes II (L),natives/STM/Art/Model/Item/it02/00/0016/it0200_0016_0.mesh
+Dual Blades,Dual Battleaxes II (R),natives/STM/Art/Model/Item/it02/00/0016/it0200_0016_1.mesh
+Dual Blades,Final Battleaxes (L),natives/STM/Art/Model/Item/it02/00/0016/it0200_0016_0.mesh
+Dual Blades,Final Battleaxes (R),natives/STM/Art/Model/Item/it02/00/0016/it0200_0016_1.mesh
+Dual Blades,Whirling Fulgur I (L),natives/STM/Art/Model/Item/it02/10/0003/it0210_0003_0.mesh
+Dual Blades,Whirling Fulgur I (R),natives/STM/Art/Model/Item/it02/10/0003/it0210_0003_1.mesh
+Dual Blades,Fulgurtwins Guardiana (L),natives/STM/Art/Model/Item/it02/10/0003/it0210_0003_0.mesh
+Dual Blades,Fulgurtwins Guardiana (R),natives/STM/Art/Model/Item/it02/10/0003/it0210_0003_1.mesh
+Dual Blades,Blango Sai I (L),natives/STM/Art/Model/Item/it02/00/0019/it0200_0019_0.mesh
+Dual Blades,Blango Sai I (R),natives/STM/Art/Model/Item/it02/00/0019/it0200_0019_1.mesh
+Dual Blades,Blango Trishula (L),natives/STM/Art/Model/Item/it02/00/0019/it0200_0019_0.mesh
+Dual Blades,Blango Trishula (R),natives/STM/Art/Model/Item/it02/00/0019/it0200_0019_1.mesh
+Dual Blades,Gravios Warmakers I (L),natives/STM/Art/Model/Item/it02/00/0018/it0200_0018_0.mesh
+Dual Blades,Gravios Warmakers I (R),natives/STM/Art/Model/Item/it02/00/0018/it0200_0018_1.mesh
+Dual Blades,Gravios Conquerors (L),natives/STM/Art/Model/Item/it02/00/0018/it0200_0018_0.mesh
+Dual Blades,Gravios Conquerors (R),natives/STM/Art/Model/Item/it02/00/0018/it0200_0018_1.mesh
+Dual Blades,Zakun Twins I (L),natives/STM/Art/Model/Item/it02/00/0000/it0200_0000_0.mesh
+Dual Blades,Zakun Twins I (R),natives/STM/Art/Model/Item/it02/00/0000/it0200_0000_1.mesh
+Dual Blades,Terrible Twins (L),natives/STM/Art/Model/Item/it02/00/0000/it0200_0000_0.mesh
+Dual Blades,Terrible Twins (R),natives/STM/Art/Model/Item/it02/00/0000/it0200_0000_1.mesh
+Dual Blades,Twin Flames I (L),natives/STM/Art/Model/Item/it02/00/0011/it0200_0011_0.mesh
+Dual Blades,Twin Flames I (R),natives/STM/Art/Model/Item/it02/00/0011/it0200_0011_1.mesh
+Dual Blades,Wyvern Lovers (L),natives/STM/Art/Model/Item/it02/00/0011/it0200_0011_0.mesh
+Dual Blades,Wyvern Lovers (R),natives/STM/Art/Model/Item/it02/00/0011/it0200_0011_1.mesh
+Dual Blades,Fledderklauen I (L),natives/STM/Art/Model/Item/it02/00/0012/it0200_0012_0.mesh
+Dual Blades,Fledderklauen I (R),natives/STM/Art/Model/Item/it02/00/0012/it0200_0012_1.mesh
+Dual Blades,Hungerklauen (L),natives/STM/Art/Model/Item/it02/00/0012/it0200_0012_0.mesh
+Dual Blades,Hungerklauen (R),natives/STM/Art/Model/Item/it02/00/0012/it0200_0012_1.mesh
+Dual Blades,Veldian Harpes I (L),natives/STM/Art/Model/Item/it02/00/0026/it0200_0026_0.mesh
+Dual Blades,Veldian Harpes I (R),natives/STM/Art/Model/Item/it02/00/0026/it0200_0026_1.mesh
+Dual Blades,Guild Knight Sabers I (L),natives/STM/Art/Model/Item/it02/00/0002/it0200_0002_0.mesh
+Dual Blades,Guild Knight Sabers I (R),natives/STM/Art/Model/Item/it02/00/0002/it0200_0002_1.mesh
+Dual Blades,Guild Knight Sabers II (L),natives/STM/Art/Model/Item/it02/00/0002/it0200_0002_0.mesh
+Dual Blades,Guild Knight Sabers II (R),natives/STM/Art/Model/Item/it02/00/0002/it0200_0002_1.mesh
+Dual Blades,Master Sabers (L),natives/STM/Art/Model/Item/it02/00/0002/it0200_0002_0.mesh
+Dual Blades,Master Sabers (R),natives/STM/Art/Model/Item/it02/00/0002/it0200_0002_1.mesh
+Dual Blades,Esperanza Daggers (L),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_0.mesh
+Dual Blades,Esperanza Daggers (R),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_1.mesh
+Dual Blades,Artian Edges I (L),natives/STM/Art/Model/Item/it02/10/0004/it0210_0004_0.mesh
+Dual Blades,Artian Edges I (R),natives/STM/Art/Model/Item/it02/10/0004/it0210_0004_1.mesh
+Dual Blades,Artian Edges II (L),natives/STM/Art/Model/Item/it02/10/0004/it0210_0004_0.mesh
+Dual Blades,Artian Edges II (R),natives/STM/Art/Model/Item/it02/10/0004/it0210_0004_1.mesh
+Dual Blades,Tiltkreise (L),natives/STM/Art/Model/Item/it02/10/0004/it0210_0004_0.mesh
+Dual Blades,Tiltkreise (R),natives/STM/Art/Model/Item/it02/10/0004/it0210_0004_1.mesh
+Dual Blades,Fastflayers Jambastra (L),natives/STM/Art/Model/Item/it02/00/0009/it0200_0009_0.mesh
+Dual Blades,Fastflayers Jambastra (R),natives/STM/Art/Model/Item/it02/00/0009/it0200_0009_1.mesh
+Dual Blades,Inspired Ywain (L),natives/STM/Art/Model/Item/it02/00/0026/it0200_0026_0.mesh
+Dual Blades,Inspired Ywain (R),natives/STM/Art/Model/Item/it02/00/0026/it0200_0026_1.mesh
+Dual Blades,Zoh Liel I (L),natives/STM/Art/Model/Item/it02/00/0024/it0200_0024_0.mesh
+Dual Blades,Zoh Liel I (R),natives/STM/Art/Model/Item/it02/00/0024/it0200_0024_1.mesh
+Dual Blades,Blazing Liel (L),natives/STM/Art/Model/Item/it02/00/0024/it0200_0024_0.mesh
+Dual Blades,Blazing Liel (R),natives/STM/Art/Model/Item/it02/00/0024/it0200_0024_1.mesh
+Dual Blades,Morning Dawn I (L),natives/STM/Art/Model/Item/it02/00/0029/it0200_0029_0.mesh
+Dual Blades,Morning Dawn I (R),natives/STM/Art/Model/Item/it02/00/0029/it0200_0029_1.mesh
+Dual Blades,Evening Dusk (L),natives/STM/Art/Model/Item/it02/00/0029/it0200_0029_0.mesh
+Dual Blades,Evening Dusk (R),natives/STM/Art/Model/Item/it02/00/0029/it0200_0029_1.mesh
+Dual Blades,Twin Acrus I (L),natives/STM/Art/Model/Item/it02/00/0017/it0200_0017_0.mesh
+Dual Blades,Twin Acrus I (R),natives/STM/Art/Model/Item/it02/00/0017/it0200_0017_1.mesh
+Dual Blades,Levin Acrus (L),natives/STM/Art/Model/Item/it02/00/0017/it0200_0017_0.mesh
+Dual Blades,Levin Acrus (R),natives/STM/Art/Model/Item/it02/00/0017/it0200_0017_1.mesh
+Long Sword,Hope Edge I (Sword),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_0.mesh
+Long Sword,Hope Edge I (Sheathe),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_1.mesh
+Long Sword,Hope Edge II (Sword),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_0.mesh
+Long Sword,Hope Edge II (Sheathe),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_1.mesh
+Long Sword,Hope Edge III (Sword),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_0.mesh
+Long Sword,Hope Edge III (Sheathe),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_1.mesh
+Long Sword,Hope Edge IV (Sword),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_0.mesh
+Long Sword,Hope Edge IV (Sheathe),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_1.mesh
+Long Sword,Hope Edge V (Sword),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_0.mesh
+Long Sword,Hope Edge V (Sheathe),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_1.mesh
+Long Sword,Rey Tonitrus I (Sword),natives/STM/Art/Model/Item/it03/00/0010/it0300_0010_0.mesh
+Long Sword,Rey Tonitrus I (Sheathe),natives/STM/Art/Model/Item/it03/00/0010/it0300_0010_1.mesh
+Long Sword,Rey Tonitrus II (Sword),natives/STM/Art/Model/Item/it03/00/0010/it0300_0010_0.mesh
+Long Sword,Rey Tonitrus II (Sheathe),natives/STM/Art/Model/Item/it03/00/0010/it0300_0010_1.mesh
+Long Sword,Rey Tonitrus III (Sword),natives/STM/Art/Model/Item/it03/00/0010/it0300_0010_0.mesh
+Long Sword,Rey Tonitrus III (Sheathe),natives/STM/Art/Model/Item/it03/00/0010/it0300_0010_1.mesh
+Long Sword,Tonitrus Clairblade (Sword),natives/STM/Art/Model/Item/it03/00/0010/it0300_0010_0.mesh
+Long Sword,Tonitrus Clairblade (Sheathe),natives/STM/Art/Model/Item/it03/00/0010/it0300_0010_1.mesh
+Long Sword,Khanga Edge I (Sword),natives/STM/Art/Model/Item/it03/00/0002/it0300_0002_0.mesh
+Long Sword,Khanga Edge I (Sheathe),natives/STM/Art/Model/Item/it03/00/0002/it0300_0002_1.mesh
+Long Sword,Khanga Rebellion (Sword),natives/STM/Art/Model/Item/it03/00/0002/it0300_0002_0.mesh
+Long Sword,Khanga Rebellion (Sheathe),natives/STM/Art/Model/Item/it03/00/0002/it0300_0002_1.mesh
+Long Sword,Stahlfakt I (Sword),natives/STM/Art/Model/Item/it03/00/0013/it0300_0013_0.mesh
+Long Sword,Stahlfakt I (Sheathe),natives/STM/Art/Model/Item/it03/00/0013/it0300_0013_1.mesh
+Long Sword,Stahlrecht (Sword),natives/STM/Art/Model/Item/it03/00/0013/it0300_0013_0.mesh
+Long Sword,Stahlrecht (Sheathe),natives/STM/Art/Model/Item/it03/00/0013/it0300_0013_1.mesh
+Long Sword,Uth Khlunda I (Sword),natives/STM/Art/Model/Item/it03/00/0008/it0300_0008_0.mesh
+Long Sword,Uth Khlunda I (Sheathe),natives/STM/Art/Model/Item/it03/00/0008/it0300_0008_1.mesh
+Long Sword,Uth Khlunda II (Sword),natives/STM/Art/Model/Item/it03/00/0008/it0300_0008_0.mesh
+Long Sword,Uth Khlunda II (Sheathe),natives/STM/Art/Model/Item/it03/00/0008/it0300_0008_1.mesh
+Long Sword,Uth Khlunda III (Sword),natives/STM/Art/Model/Item/it03/00/0008/it0300_0008_0.mesh
+Long Sword,Uth Khlunda III (Sheathe),natives/STM/Art/Model/Item/it03/00/0008/it0300_0008_1.mesh
+Long Sword,Khlunda-of-the-Waves (Sword),natives/STM/Art/Model/Item/it03/00/0008/it0300_0008_0.mesh
+Long Sword,Khlunda-of-the-Waves (Sheathe),natives/STM/Art/Model/Item/it03/00/0008/it0300_0008_1.mesh
+Long Sword,Windclaw Blade I (Sword),natives/STM/Art/Model/Item/it03/00/0015/it0300_0015_0.mesh
+Long Sword,Windclaw Blade I (Sheathe),natives/STM/Art/Model/Item/it03/00/0015/it0300_0015_1.mesh
+Long Sword,Windclaw Blade II (Sword),natives/STM/Art/Model/Item/it03/00/0015/it0300_0015_0.mesh
+Long Sword,Windclaw Blade II (Sheathe),natives/STM/Art/Model/Item/it03/00/0015/it0300_0015_1.mesh
+Long Sword,Windclaw Blade III (Sword),natives/STM/Art/Model/Item/it03/00/0015/it0300_0015_0.mesh
+Long Sword,Windclaw Blade III (Sheathe),natives/STM/Art/Model/Item/it03/00/0015/it0300_0015_1.mesh
+Long Sword,Windclaw Kiribami (Sword),natives/STM/Art/Model/Item/it03/00/0015/it0300_0015_0.mesh
+Long Sword,Windclaw Kiribami (Sheathe),natives/STM/Art/Model/Item/it03/00/0015/it0300_0015_1.mesh
+Long Sword,Quematrice Lima I (Sword),natives/STM/Art/Model/Item/it03/00/0004/it0300_0004_0.mesh
+Long Sword,Quematrice Lima I (Sheathe),natives/STM/Art/Model/Item/it03/00/0004/it0300_0004_1.mesh
+Long Sword,Quematrice Lima II (Sword),natives/STM/Art/Model/Item/it03/00/0004/it0300_0004_0.mesh
+Long Sword,Quematrice Lima II (Sheathe),natives/STM/Art/Model/Item/it03/00/0004/it0300_0004_1.mesh
+Long Sword,Quematrice Lima III (Sword),natives/STM/Art/Model/Item/it03/00/0004/it0300_0004_0.mesh
+Long Sword,Quematrice Lima III (Sheathe),natives/STM/Art/Model/Item/it03/00/0004/it0300_0004_1.mesh
+Long Sword,Quematrice Lima IV (Sword),natives/STM/Art/Model/Item/it03/00/0004/it0300_0004_0.mesh
+Long Sword,Quematrice Lima IV (Sheathe),natives/STM/Art/Model/Item/it03/00/0004/it0300_0004_1.mesh
+Long Sword,Firetrail Ferrocere (Sword),natives/STM/Art/Model/Item/it03/00/0005/it0300_0005_0.mesh
+Long Sword,Firetrail Ferrocere (Sheathe),natives/STM/Art/Model/Item/it03/00/0005/it0300_0005_1.mesh
+Long Sword,Iron Katana I (Sword),natives/STM/Art/Model/Item/it03/01/0000/it0301_0000_0.mesh
+Long Sword,Iron Katana I (Sheathe),natives/STM/Art/Model/Item/it03/01/0000/it0301_0000_1.mesh
+Long Sword,Iron Katana II (Sword),natives/STM/Art/Model/Item/it03/01/0000/it0301_0000_0.mesh
+Long Sword,Iron Katana II (Sheathe),natives/STM/Art/Model/Item/it03/01/0000/it0301_0000_1.mesh
+Long Sword,Iron Katana III (Sword),natives/STM/Art/Model/Item/it03/01/0000/it0301_0000_0.mesh
+Long Sword,Iron Katana III (Sheathe),natives/STM/Art/Model/Item/it03/01/0000/it0301_0000_1.mesh
+Long Sword,Keen Edge (Sword),natives/STM/Art/Model/Item/it03/01/0002/it0301_0002_0.mesh
+Long Sword,Keen Edge (Sheathe),natives/STM/Art/Model/Item/it03/01/0002/it0301_0002_1.mesh
+Long Sword,Wyvern Blade "Ash" I (Sword),natives/STM/Art/Model/Item/it03/10/0000/it0310_0000_0.mesh
+Long Sword,Wyvern Blade "Ash" I (Sheathe),natives/STM/Art/Model/Item/it03/10/0000/it0310_0000_1.mesh
+Long Sword,Wyvern Blade "Ash" II (Sword),natives/STM/Art/Model/Item/it03/10/0000/it0310_0000_0.mesh
+Long Sword,Wyvern Blade "Ash" II (Sheathe),natives/STM/Art/Model/Item/it03/10/0000/it0310_0000_1.mesh
+Long Sword,Wyvern Blade "Lily" (Sword),natives/STM/Art/Model/Item/it03/10/0000/it0310_0000_0.mesh
+Long Sword,Wyvern Blade "Lily" (Sheathe),natives/STM/Art/Model/Item/it03/10/0000/it0310_0000_1.mesh
+Long Sword,Wyvern Blade "Blood" I (Sword),natives/STM/Art/Model/Item/it03/00/0012/it0300_0012_0.mesh
+Long Sword,Wyvern Blade "Blood" I (Sheathe),natives/STM/Art/Model/Item/it03/00/0012/it0300_0012_1.mesh
+Long Sword,Wyvern Blade "Maple" (Sword),natives/STM/Art/Model/Item/it03/00/0012/it0300_0012_0.mesh
+Long Sword,Wyvern Blade "Maple" (Sheathe),natives/STM/Art/Model/Item/it03/00/0012/it0300_0012_1.mesh
+Long Sword,Wyvern Blade "Verde" I (Sword),natives/STM/Art/Model/Item/it03/00/0011/it0300_0011_0.mesh
+Long Sword,Wyvern Blade "Verde" I (Sheathe),natives/STM/Art/Model/Item/it03/00/0011/it0300_0011_1.mesh
+Long Sword,Wyvern Blade "Verde" II (Sword),natives/STM/Art/Model/Item/it03/00/0011/it0300_0011_0.mesh
+Long Sword,Wyvern Blade "Verde" II (Sheathe),natives/STM/Art/Model/Item/it03/00/0011/it0300_0011_1.mesh
+Long Sword,Wyvern Blade "Holly" (Sword),natives/STM/Art/Model/Item/it03/00/0011/it0300_0011_0.mesh
+Long Sword,Wyvern Blade "Holly" (Sheathe),natives/STM/Art/Model/Item/it03/00/0011/it0300_0011_1.mesh
+Long Sword,Barina Flamberge I (Sword),natives/STM/Art/Model/Item/it03/00/0006/it0300_0006_0.mesh
+Long Sword,Barina Flamberge I (Sheathe),natives/STM/Art/Model/Item/it03/00/0006/it0300_0006_1.mesh
+Long Sword,Barina Flamberge II (Sword),natives/STM/Art/Model/Item/it03/00/0006/it0300_0006_0.mesh
+Long Sword,Barina Flamberge II (Sheathe),natives/STM/Art/Model/Item/it03/00/0006/it0300_0006_1.mesh
+Long Sword,Barina Flamberge III (Sword),natives/STM/Art/Model/Item/it03/00/0006/it0300_0006_0.mesh
+Long Sword,Barina Flamberge III (Sheathe),natives/STM/Art/Model/Item/it03/00/0006/it0300_0006_1.mesh
+Long Sword,Barina Flamberge IV (Sword),natives/STM/Art/Model/Item/it03/00/0006/it0300_0006_0.mesh
+Long Sword,Barina Flamberge IV (Sheathe),natives/STM/Art/Model/Item/it03/00/0006/it0300_0006_1.mesh
+Long Sword,Lala Ornithocton (Sword),natives/STM/Art/Model/Item/it03/00/0007/it0300_0007_0.mesh
+Long Sword,Lala Ornithocton (Sheathe),natives/STM/Art/Model/Item/it03/00/0007/it0300_0007_1.mesh
+Long Sword,Blood Cry I (Sword),natives/STM/Art/Model/Item/it03/00/0014/it0300_0014_0.mesh
+Long Sword,Blood Cry I (Sheathe),natives/STM/Art/Model/Item/it03/00/0014/it0300_0014_1.mesh
+Long Sword,Blood Cry II (Sword),natives/STM/Art/Model/Item/it03/00/0014/it0300_0014_0.mesh
+Long Sword,Blood Cry II (Sheathe),natives/STM/Art/Model/Item/it03/00/0014/it0300_0014_1.mesh
+Long Sword,Blood Cry III (Sword),natives/STM/Art/Model/Item/it03/00/0014/it0300_0014_0.mesh
+Long Sword,Blood Cry III (Sheathe),natives/STM/Art/Model/Item/it03/00/0014/it0300_0014_1.mesh
+Long Sword,Blood Scream (Sword),natives/STM/Art/Model/Item/it03/00/0014/it0300_0014_0.mesh
+Long Sword,Blood Scream (Sheathe),natives/STM/Art/Model/Item/it03/00/0014/it0300_0014_1.mesh
+Long Sword,Bone Shotel I (Sword),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_0.mesh
+Long Sword,Bone Shotel I (Sheathe),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_1.mesh
+Long Sword,Bone Shotel II (Sword),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_0.mesh
+Long Sword,Bone Shotel II (Sheathe),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_1.mesh
+Long Sword,Bone Shotel III (Sword),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_0.mesh
+Long Sword,Bone Shotel III (Sheathe),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_1.mesh
+Long Sword,Bone Shotel IV (Sword),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_0.mesh
+Long Sword,Bone Shotel IV (Sheathe),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_1.mesh
+Long Sword,Hard Bone Shotel (Sword),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_0.mesh
+Long Sword,Hard Bone Shotel (Sheathe),natives/STM/Art/Model/Item/it03/01/0004/it0301_0004_1.mesh
+Long Sword,Gnashing Fulgur I (Sword),natives/STM/Art/Model/Item/it03/10/0002/it0310_0002_0.mesh
+Long Sword,Gnashing Fulgur I (Sheathe),natives/STM/Art/Model/Item/it03/10/0002/it0310_0002_1.mesh
+Long Sword,Fulgurblade Guardiana (Sword),natives/STM/Art/Model/Item/it03/10/0002/it0310_0002_0.mesh
+Long Sword,Fulgurblade Guardiana (Sheathe),natives/STM/Art/Model/Item/it03/10/0002/it0310_0002_1.mesh
+Long Sword,Rompo Hacker I (Sword),natives/STM/Art/Model/Item/it03/00/0009/it0300_0009_0.mesh
+Long Sword,Rompo Hacker I (Sheathe),natives/STM/Art/Model/Item/it03/00/0009/it0300_0009_1.mesh
+Long Sword,Rompo Hacker II (Sword),natives/STM/Art/Model/Item/it03/00/0009/it0300_0009_0.mesh
+Long Sword,Rompo Hacker II (Sheathe),natives/STM/Art/Model/Item/it03/00/0009/it0300_0009_1.mesh
+Long Sword,Rompo Hacker III (Sword),natives/STM/Art/Model/Item/it03/00/0009/it0300_0009_0.mesh
+Long Sword,Rompo Hacker III (Sheathe),natives/STM/Art/Model/Item/it03/00/0009/it0300_0009_1.mesh
+Long Sword,Rompo Mytoxin (Sword),natives/STM/Art/Model/Item/it03/00/0009/it0300_0009_0.mesh
+Long Sword,Rompo Mytoxin (Sheathe),natives/STM/Art/Model/Item/it03/00/0009/it0300_0009_1.mesh
+Long Sword,Dosha Fatecleaver I (Sword),natives/STM/Art/Model/Item/it03/00/0000/it0300_0000_0.mesh
+Long Sword,Dosha Fatecleaver I (Sheathe),natives/STM/Art/Model/Item/it03/00/0000/it0300_0000_1.mesh
+Long Sword,Dosha Fatecleaver II (Sword),natives/STM/Art/Model/Item/it03/00/0000/it0300_0000_0.mesh
+Long Sword,Dosha Fatecleaver II (Sheathe),natives/STM/Art/Model/Item/it03/00/0000/it0300_0000_1.mesh
+Long Sword,Dosha Fatecleaver III (Sword),natives/STM/Art/Model/Item/it03/00/0000/it0300_0000_0.mesh
+Long Sword,Dosha Fatecleaver III (Sheathe),natives/STM/Art/Model/Item/it03/00/0000/it0300_0000_1.mesh
+Long Sword,Blanberge I (Sword),natives/STM/Art/Model/Item/it03/00/0019/it0300_0019_0.mesh
+Long Sword,Blanberge I (Sheathe),natives/STM/Art/Model/Item/it03/00/0019/it0300_0019_1.mesh
+Long Sword,Blangongaberge (Sword),natives/STM/Art/Model/Item/it03/00/0019/it0300_0019_0.mesh
+Long Sword,Blangongaberge (Sheathe),natives/STM/Art/Model/Item/it03/00/0019/it0300_0019_1.mesh
+Long Sword,Dosha Gravecleaver I (Sword),natives/STM/Art/Model/Item/it03/10/0001/it0310_0001_0.mesh
+Long Sword,Dosha Gravecleaver I (Sheathe),natives/STM/Art/Model/Item/it03/10/0001/it0310_0001_1.mesh
+Long Sword,Dosha Gravecleaver II (Sword),natives/STM/Art/Model/Item/it03/10/0001/it0310_0001_0.mesh
+Long Sword,Dosha Gravecleaver II (Sheathe),natives/STM/Art/Model/Item/it03/10/0001/it0310_0001_1.mesh
+Long Sword,Gravecleaver Urkemush (Sword),natives/STM/Art/Model/Item/it03/10/0001/it0310_0001_0.mesh
+Long Sword,Gravecleaver Urkemush (Sheathe),natives/STM/Art/Model/Item/it03/10/0001/it0310_0001_1.mesh
+Long Sword,G. Veldian Ensis I (Sword),natives/STM/Art/Model/Item/it03/00/0021/it0300_0021_0.mesh
+Long Sword,G. Veldian Ensis I (Sheathe),natives/STM/Art/Model/Item/it03/00/0021/it0300_0021_1.mesh
+Long Sword,G. Veldian Ensis II (Sword),natives/STM/Art/Model/Item/it03/00/0021/it0300_0021_0.mesh
+Long Sword,G. Veldian Ensis II (Sheathe),natives/STM/Art/Model/Item/it03/00/0021/it0300_0021_1.mesh
+Long Sword,G. Righteous Lancelot (Sword),natives/STM/Art/Model/Item/it03/00/0021/it0300_0021_0.mesh
+Long Sword,G. Righteous Lancelot (Sheathe),natives/STM/Art/Model/Item/it03/00/0021/it0300_0021_1.mesh
+Long Sword,Veldian Ensis I (Sword),natives/STM/Art/Model/Item/it03/00/0024/it0300_0024_0.mesh
+Long Sword,Veldian Ensis I (Sheathe),natives/STM/Art/Model/Item/it03/00/0024/it0300_0024_1.mesh
+Long Sword,Artian Saber I (Sword),natives/STM/Art/Model/Item/it03/10/0003/it0310_0003_0.mesh
+Long Sword,Artian Saber I (Sheathe),natives/STM/Art/Model/Item/it03/10/0003/it0310_0003_1.mesh
+Long Sword,Artian Saber II (Sword),natives/STM/Art/Model/Item/it03/10/0003/it0310_0003_0.mesh
+Long Sword,Artian Saber II (Sheathe),natives/STM/Art/Model/Item/it03/10/0003/it0310_0003_1.mesh
+Long Sword,Dimensius (Sword),natives/STM/Art/Model/Item/it03/10/0003/it0310_0003_0.mesh
+Long Sword,Dimensius (Sheathe),natives/STM/Art/Model/Item/it03/10/0003/it0310_0003_1.mesh
+Long Sword,Zoh Rafel I (Sword),natives/STM/Art/Model/Item/it03/00/0022/it0300_0022_0.mesh
+Long Sword,Zoh Rafel I (Sheathe),natives/STM/Art/Model/Item/it03/00/0022/it0300_0022_1.mesh
+Long Sword,Blazing Rafel (Sword),natives/STM/Art/Model/Item/it03/00/0022/it0300_0022_0.mesh
+Long Sword,Blazing Rafel (Sheathe),natives/STM/Art/Model/Item/it03/00/0022/it0300_0022_1.mesh
+Long Sword,Esperanza Edge (Sword),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_0.mesh
+Long Sword,Esperanza Edge (Sheathe),natives/STM/Art/Model/Item/it03/00/0003/it0300_0003_1.mesh
+Long Sword,Fatecleaver Kimkemush (Sword),natives/STM/Art/Model/Item/it03/00/0001/it0300_0001_0.mesh
+Long Sword,Fatecleaver Kimkemush (Sheathe),natives/STM/Art/Model/Item/it03/00/0001/it0300_0001_1.mesh
+Long Sword,Righteous Lancelot (Sword),natives/STM/Art/Model/Item/it03/00/0024/it0300_0024_0.mesh
+Long Sword,Righteous Lancelot (Sheathe),natives/STM/Art/Model/Item/it03/00/0024/it0300_0024_1.mesh
+Long Sword,Kakaru Kumo Naki I (Sword),natives/STM/Art/Model/Item/it03/00/0025/it0300_0025_0.mesh
+Long Sword,Kakaru Kumo Naki I (Sheathe),natives/STM/Art/Model/Item/it03/00/0025/it0300_0025_1.mesh
+Long Sword,Tamonowo (Sword),natives/STM/Art/Model/Item/it03/00/0025/it0300_0025_0.mesh
+Long Sword,Tamonowo (Sheathe),natives/STM/Art/Model/Item/it03/00/0025/it0300_0025_1.mesh
+Long Sword,Thunderclap I (Sword),natives/STM/Art/Model/Item/it03/00/0018/it0300_0018_0.mesh
+Long Sword,Thunderclap I (Sheathe),natives/STM/Art/Model/Item/it03/00/0018/it0300_0018_1.mesh
+Long Sword,Heaven's Thunder (Sword),natives/STM/Art/Model/Item/it03/00/0018/it0300_0018_0.mesh
+Long Sword,Heaven's Thunder (Sheathe),natives/STM/Art/Model/Item/it03/00/0018/it0300_0018_1.mesh
+Long Sword,Scavenger Pickaxe (Sword),natives/STM/Art/Model/Item/it03/00/0016/it0300_0016_0.mesh
+Long Sword,Scavenger Pickaxe (Sheathe),natives/STM/Art/Model/Item/it03/00/0016/it0300_0016_1.mesh
+Long Sword,Mad Scavenger Pickaxe (Sword),natives/STM/Art/Model/Item/it03/00/0016/it0300_0016_0.mesh
+Long Sword,Mad Scavenger Pickaxe (Sheathe),natives/STM/Art/Model/Item/it03/00/0016/it0300_0016_1.mesh
+Hammer,Hope Hammer I,natives/STM/Art/Model/Item/it04/00/0002/it0400_0002_0.mesh
+Hammer,Hope Hammer II,natives/STM/Art/Model/Item/it04/00/0002/it0400_0002_0.mesh
+Hammer,Hope Hammer III,natives/STM/Art/Model/Item/it04/00/0002/it0400_0002_0.mesh
+Hammer,Hope Hammer IV,natives/STM/Art/Model/Item/it04/00/0002/it0400_0002_0.mesh
+Hammer,Hope Hammer V,natives/STM/Art/Model/Item/it04/00/0002/it0400_0002_0.mesh
+Hammer,Bone Bludgeon I,natives/STM/Art/Model/Item/it04/01/0003/it0401_0003_0.mesh
+Hammer,Bone Bludgeon II,natives/STM/Art/Model/Item/it04/01/0003/it0401_0003_0.mesh
+Hammer,Bone Bludgeon III,natives/STM/Art/Model/Item/it04/01/0003/it0401_0003_0.mesh
+Hammer,Bone Bludgeon IV,natives/STM/Art/Model/Item/it04/01/0003/it0401_0003_0.mesh
+Hammer,Heavy Bone Bludgeon,natives/STM/Art/Model/Item/it04/01/0003/it0401_0003_0.mesh
+Hammer,Iron Hammer I,natives/STM/Art/Model/Item/it04/01/0000/it0401_0000_0.mesh
+Hammer,Iron Hammer II,natives/STM/Art/Model/Item/it04/01/0000/it0401_0000_0.mesh
+Hammer,Iron Hammer III,natives/STM/Art/Model/Item/it04/01/0000/it0401_0000_0.mesh
+Hammer,Iron Devil,natives/STM/Art/Model/Item/it04/01/0000/it0401_0000_0.mesh
+Hammer,Chata Clobberer I,natives/STM/Art/Model/Item/it04/00/0000/it0400_0000_0.mesh
+Hammer,Chata Clobberer II,natives/STM/Art/Model/Item/it04/00/0000/it0400_0000_0.mesh
+Hammer,Chata Clobberer III,natives/STM/Art/Model/Item/it04/00/0000/it0400_0000_0.mesh
+Hammer,Chata Clobberer IV,natives/STM/Art/Model/Item/it04/00/0000/it0400_0000_0.mesh
+Hammer,Balahara Hammer I,natives/STM/Art/Model/Item/it04/00/0005/it0400_0005_0.mesh
+Hammer,Balahara Hammer II,natives/STM/Art/Model/Item/it04/00/0005/it0400_0005_0.mesh
+Hammer,Balahara Hammer III,natives/STM/Art/Model/Item/it04/00/0005/it0400_0005_0.mesh
+Hammer,Balahara Hammer IV,natives/STM/Art/Model/Item/it04/00/0005/it0400_0005_0.mesh
+Hammer,Sandsea Siamitiya,natives/STM/Art/Model/Item/it04/00/0006/it0400_0006_0.mesh
+Hammer,Rompo Wrecker I,natives/STM/Art/Model/Item/it04/00/0007/it0400_0007_0.mesh
+Hammer,Rompo Wrecker II,natives/STM/Art/Model/Item/it04/00/0007/it0400_0007_0.mesh
+Hammer,Rompo Wrecker III,natives/STM/Art/Model/Item/it04/00/0007/it0400_0007_0.mesh
+Hammer,Rompo Robustox,natives/STM/Art/Model/Item/it04/00/0007/it0400_0007_0.mesh
+Hammer,Cluster Hammer I,natives/STM/Art/Model/Item/it04/00/0010/it0400_0010_0.mesh
+Hammer,Cluster Hammer II,natives/STM/Art/Model/Item/it04/00/0010/it0400_0010_0.mesh
+Hammer,Cluster Hammer III,natives/STM/Art/Model/Item/it04/00/0010/it0400_0010_0.mesh
+Hammer,Nerscrapper,natives/STM/Art/Model/Item/it04/00/0010/it0400_0010_0.mesh
+Hammer,Nu Pulpo I,natives/STM/Art/Model/Item/it04/00/0011/it0400_0011_0.mesh
+Hammer,Nu Pulpo II,natives/STM/Art/Model/Item/it04/00/0011/it0400_0011_0.mesh
+Hammer,Abaddonian Pulpo,natives/STM/Art/Model/Item/it04/00/0011/it0400_0011_0.mesh
+Hammer,Albirath Bludgeon I,natives/STM/Art/Model/Item/it04/10/0000/it0410_0000_0.mesh
+Hammer,Albirath Bludgeon II,natives/STM/Art/Model/Item/it04/10/0000/it0410_0000_0.mesh
+Hammer,Gibil Hammer,natives/STM/Art/Model/Item/it04/10/0000/it0410_0000_0.mesh
+Hammer,Jin Dhauda I,natives/STM/Art/Model/Item/it04/00/0021/it0400_0021_0.mesh
+Hammer,Precipice Logamtu,natives/STM/Art/Model/Item/it04/00/0021/it0400_0021_0.mesh
+Hammer,Nihil Hammer I,natives/STM/Art/Model/Item/it04/00/0022/it0400_0022_0.mesh
+Hammer,Nihil Hammer II,natives/STM/Art/Model/Item/it04/00/0022/it0400_0022_0.mesh
+Hammer,Zaccio's Execution,natives/STM/Art/Model/Item/it04/00/0022/it0400_0022_0.mesh
+Hammer,G. Veldian Malleus I,natives/STM/Art/Model/Item/it04/00/0019/it0400_0019_0.mesh
+Hammer,G. Veldian Malleus II,natives/STM/Art/Model/Item/it04/00/0019/it0400_0019_0.mesh
+Hammer,G. Exultant Bedivere,natives/STM/Art/Model/Item/it04/00/0019/it0400_0019_0.mesh
+Hammer,Kut-Ku Pick I,natives/STM/Art/Model/Item/it04/00/0013/it0400_0013_0.mesh
+Hammer,Kut-Ku Pick II,natives/STM/Art/Model/Item/it04/00/0013/it0400_0013_0.mesh
+Hammer,Kut-Ku Thwap,natives/STM/Art/Model/Item/it04/00/0013/it0400_0013_0.mesh
+Hammer,Venom Monster I,natives/STM/Art/Model/Item/it04/00/0014/it0400_0014_0.mesh
+Hammer,Venom Monster II,natives/STM/Art/Model/Item/it04/00/0014/it0400_0014_0.mesh
+Hammer,Death Venom Hammer,natives/STM/Art/Model/Item/it04/00/0014/it0400_0014_0.mesh
+Hammer,Crashing Fulgur I,natives/STM/Art/Model/Item/it04/10/0001/it0410_0001_0.mesh
+Hammer,Fulgurhammer Guardiana,natives/STM/Art/Model/Item/it04/10/0001/it0410_0001_0.mesh
+Hammer,Blan Gada I,natives/STM/Art/Model/Item/it04/00/0017/it0400_0017_0.mesh
+Hammer,Singha Gada,natives/STM/Art/Model/Item/it04/00/0017/it0400_0017_0.mesh
+Hammer,Shell Hammer I,natives/STM/Art/Model/Item/it04/00/0016/it0400_0016_0.mesh
+Hammer,Graviton Hammer,natives/STM/Art/Model/Item/it04/00/0026/it0400_0026_0.mesh
+Hammer,Matraca Hammer I,natives/STM/Art/Model/Item/it04/00/0029/it0400_0029_0.mesh
+Hammer,Argyl Hammer,natives/STM/Art/Model/Item/it04/00/0029/it0400_0029_0.mesh
+Hammer,Red Bludgeon I,natives/STM/Art/Model/Item/it04/00/0008/it0400_0008_0.mesh
+Hammer,Huracan Hammer,natives/STM/Art/Model/Item/it04/00/0008/it0400_0008_0.mesh
+Hammer,Wuchtblick I,natives/STM/Art/Model/Item/it04/00/0009/it0400_0009_0.mesh
+Hammer,Grimmblick,natives/STM/Art/Model/Item/it04/00/0009/it0400_0009_0.mesh
+Hammer,Veldian Malleus I,natives/STM/Art/Model/Item/it04/00/0025/it0400_0025_0.mesh
+Hammer,Jail Hammer I,natives/STM/Art/Model/Item/it04/00/0004/it0400_0004_0.mesh
+Hammer,Jail Hammer II,natives/STM/Art/Model/Item/it04/00/0004/it0400_0004_0.mesh
+Hammer,Jail Hammer III,natives/STM/Art/Model/Item/it04/00/0004/it0400_0004_0.mesh
+Hammer,Jail Hammer IV,natives/STM/Art/Model/Item/it04/00/0004/it0400_0004_0.mesh
+Hammer,Binder Mace,natives/STM/Art/Model/Item/it04/00/0004/it0400_0004_0.mesh
+Hammer,Artian Hammer I,natives/STM/Art/Model/Item/it04/10/0002/it0410_0002_0.mesh
+Hammer,Artian Hammer II,natives/STM/Art/Model/Item/it04/10/0002/it0410_0002_0.mesh
+Hammer,Moteurvankel,natives/STM/Art/Model/Item/it04/10/0002/it0410_0002_0.mesh
+Hammer,Esperanza Hammer,natives/STM/Art/Model/Item/it04/00/0002/it0400_0002_0.mesh
+Hammer,Shrouded Aghaturi,natives/STM/Art/Model/Item/it04/00/0001/it0400_0001_0.mesh
+Hammer,Exultant Bedivere,natives/STM/Art/Model/Item/it04/00/0025/it0400_0025_0.mesh
+Hammer,Zoh Uria I,natives/STM/Art/Model/Item/it04/00/0023/it0400_0023_0.mesh
+Hammer,Blazing Uria,natives/STM/Art/Model/Item/it04/00/0023/it0400_0023_0.mesh
+Hammer,Purity Hammer I,natives/STM/Art/Model/Item/it04/00/0020/it0400_0020_0.mesh
+Hammer,Sinter Hammer,natives/STM/Art/Model/Item/it04/00/0020/it0400_0020_0.mesh
+Hammer,Vortex Hammer I,natives/STM/Art/Model/Item/it04/00/0015/it0400_0015_0.mesh
+Hammer,High Vortex Hammer,natives/STM/Art/Model/Item/it04/00/0015/it0400_0015_0.mesh
+Hunting Horn,Hope Horn I,natives/STM/Art/Model/Item/it05/00/0004/it0500_0004_0.mesh
+Hunting Horn,Hope Horn II,natives/STM/Art/Model/Item/it05/00/0004/it0500_0004_0.mesh
+Hunting Horn,Hope Horn III,natives/STM/Art/Model/Item/it05/00/0004/it0500_0004_0.mesh
+Hunting Horn,Hope Horn IV,natives/STM/Art/Model/Item/it05/00/0004/it0500_0004_0.mesh
+Hunting Horn,Hope Horn V,natives/STM/Art/Model/Item/it05/00/0004/it0500_0004_0.mesh
+Hunting Horn,Bone Horn I,natives/STM/Art/Model/Item/it05/01/0001/it0501_0001_0.mesh
+Hunting Horn,Bone Horn II,natives/STM/Art/Model/Item/it05/01/0001/it0501_0001_0.mesh
+Hunting Horn,Bone Horn III,natives/STM/Art/Model/Item/it05/01/0001/it0501_0001_0.mesh
+Hunting Horn,Bone Horn IV,natives/STM/Art/Model/Item/it05/01/0001/it0501_0001_0.mesh
+Hunting Horn,Hardened Bone Horn,natives/STM/Art/Model/Item/it05/01/0001/it0501_0001_0.mesh
+Hunting Horn,Metal Bagpipe I,natives/STM/Art/Model/Item/it05/01/0002/it0501_0002_0.mesh
+Hunting Horn,Metal Bagpipe II,natives/STM/Art/Model/Item/it05/01/0002/it0501_0002_0.mesh
+Hunting Horn,Metal Bagpipe III,natives/STM/Art/Model/Item/it05/01/0002/it0501_0002_0.mesh
+Hunting Horn,Great Bagpipe,natives/STM/Art/Model/Item/it05/01/0002/it0501_0002_0.mesh
+Hunting Horn,War Bongo I,natives/STM/Art/Model/Item/it05/00/0005/it0500_0005_0.mesh
+Hunting Horn,War Bongo II,natives/STM/Art/Model/Item/it05/00/0005/it0500_0005_0.mesh
+Hunting Horn,War Conga,natives/STM/Art/Model/Item/it05/00/0005/it0500_0005_0.mesh
+Hunting Horn,Balahara Horn I,natives/STM/Art/Model/Item/it05/00/0000/it0500_0000_0.mesh
+Hunting Horn,Balahara Horn II,natives/STM/Art/Model/Item/it05/00/0000/it0500_0000_0.mesh
+Hunting Horn,Balahara Horn III,natives/STM/Art/Model/Item/it05/00/0000/it0500_0000_0.mesh
+Hunting Horn,Balahara Horn IV,natives/STM/Art/Model/Item/it05/00/0000/it0500_0000_0.mesh
+Hunting Horn,Sandsea Ghantisil,natives/STM/Art/Model/Item/it05/00/0001/it0500_0001_0.mesh
+Hunting Horn,Dosha Farsounder I,natives/STM/Art/Model/Item/it05/00/0002/it0500_0002_0.mesh
+Hunting Horn,Dosha Farsounder II,natives/STM/Art/Model/Item/it05/00/0002/it0500_0002_0.mesh
+Hunting Horn,Dosha Farsounder III,natives/STM/Art/Model/Item/it05/00/0002/it0500_0002_0.mesh
+Hunting Horn,Rey Perun I,natives/STM/Art/Model/Item/it05/00/0008/it0500_0008_0.mesh
+Hunting Horn,Rey Perun II,natives/STM/Art/Model/Item/it05/00/0008/it0500_0008_0.mesh
+Hunting Horn,Rey Perun III,natives/STM/Art/Model/Item/it05/00/0008/it0500_0008_0.mesh
+Hunting Horn,Perun Clairhorn,natives/STM/Art/Model/Item/it05/00/0008/it0500_0008_0.mesh
+Hunting Horn,Ajara Reverberator I,natives/STM/Art/Model/Item/it05/00/0012/it0500_0012_0.mesh
+Hunting Horn,Ajara Reverberator II,natives/STM/Art/Model/Item/it05/00/0012/it0500_0012_0.mesh
+Hunting Horn,Ajara-Jivaka,natives/STM/Art/Model/Item/it05/00/0012/it0500_0012_0.mesh
+Hunting Horn,Dosha Grudgesounder I,natives/STM/Art/Model/Item/it05/10/0001/it0510_0001_0.mesh
+Hunting Horn,Dosha Grudgesounder II,natives/STM/Art/Model/Item/it05/10/0001/it0510_0001_0.mesh
+Hunting Horn,Grudgesounder Urga,natives/STM/Art/Model/Item/it05/10/0001/it0510_0001_0.mesh
+Hunting Horn,Albirath Feroce I,natives/STM/Art/Model/Item/it05/10/0000/it0510_0000_0.mesh
+Hunting Horn,Albirath Feroce II,natives/STM/Art/Model/Item/it05/10/0000/it0510_0000_0.mesh
+Hunting Horn,G. Rathalos Feroce,natives/STM/Art/Model/Item/it05/10/0000/it0510_0000_0.mesh
+Hunting Horn,Jin Dhaang I,natives/STM/Art/Model/Item/it05/00/0019/it0500_0019_0.mesh
+Hunting Horn,Precipice Kovira,natives/STM/Art/Model/Item/it05/00/0019/it0500_0019_0.mesh
+Hunting Horn,Nihil Chord I,natives/STM/Art/Model/Item/it05/00/0020/it0500_0020_0.mesh
+Hunting Horn,Nihil Chord II,natives/STM/Art/Model/Item/it05/00/0020/it0500_0020_0.mesh
+Hunting Horn,Kae-Jin's Lament,natives/STM/Art/Model/Item/it05/00/0020/it0500_0020_0.mesh
+Hunting Horn,G. Veldian Sibilus I,natives/STM/Art/Model/Item/it05/00/0018/it0500_0018_0.mesh
+Hunting Horn,G. Veldian Sibilus II,natives/STM/Art/Model/Item/it05/00/0018/it0500_0018_0.mesh
+Hunting Horn,G. Resounding Galahad,natives/STM/Art/Model/Item/it05/00/0018/it0500_0018_0.mesh
+Hunting Horn,Kut-Ku's Song I,natives/STM/Art/Model/Item/it05/00/0015/it0500_0015_0.mesh
+Hunting Horn,Kut-Ku's Song II,natives/STM/Art/Model/Item/it05/00/0015/it0500_0015_0.mesh
+Hunting Horn,Kut-Ku Cantabile,natives/STM/Art/Model/Item/it05/00/0015/it0500_0015_0.mesh
+Hunting Horn,Poisoned Capri I,natives/STM/Art/Model/Item/it05/00/0006/it0500_0006_0.mesh
+Hunting Horn,Poisoned Capri II,natives/STM/Art/Model/Item/it05/00/0006/it0500_0006_0.mesh
+Hunting Horn,Crazed Melody,natives/STM/Art/Model/Item/it05/00/0006/it0500_0006_0.mesh
+Hunting Horn,Valkyrie Chordmaker I,natives/STM/Art/Model/Item/it05/00/0009/it0500_0009_0.mesh
+Hunting Horn,Valkyrie Chordmaker II,natives/STM/Art/Model/Item/it05/00/0009/it0500_0009_0.mesh
+Hunting Horn,Queen Chordmaker,natives/STM/Art/Model/Item/it05/00/0009/it0500_0009_0.mesh
+Hunting Horn,Deafening Fulgur I,natives/STM/Art/Model/Item/it05/10/0002/it0510_0002_0.mesh
+Hunting Horn,Fulgurhowl Guardiana,natives/STM/Art/Model/Item/it05/10/0002/it0510_0002_0.mesh
+Hunting Horn,Vadya Muse I,natives/STM/Art/Model/Item/it05/00/0016/it0500_0016_0.mesh
+Hunting Horn,Allysyl Muse,natives/STM/Art/Model/Item/it05/00/0016/it0500_0016_0.mesh
+Hunting Horn,Flame Feroce I,natives/STM/Art/Model/Item/it05/00/0010/it0500_0010_0.mesh
+Hunting Horn,Rathalos Feroce,natives/STM/Art/Model/Item/it05/00/0010/it0500_0010_0.mesh
+Hunting Horn,Kummerklang I,natives/STM/Art/Model/Item/it05/00/0011/it0500_0011_0.mesh
+Hunting Horn,Gramklang,natives/STM/Art/Model/Item/it05/00/0011/it0500_0011_0.mesh
+Hunting Horn,Veldian Sibilus I,natives/STM/Art/Model/Item/it05/00/0024/it0500_0024_0.mesh
+Hunting Horn,Sonic Horn I,natives/STM/Art/Model/Item/it05/01/0004/it0501_0004_0.mesh
+Hunting Horn,Sonic Horn II,natives/STM/Art/Model/Item/it05/01/0004/it0501_0004_0.mesh
+Hunting Horn,Sonic Horn III,natives/STM/Art/Model/Item/it05/01/0004/it0501_0004_0.mesh
+Hunting Horn,Sonic Horn IV,natives/STM/Art/Model/Item/it05/01/0004/it0501_0004_0.mesh
+Hunting Horn,Glass Royale,natives/STM/Art/Model/Item/it05/00/0027/it0500_0027_0.mesh
+Hunting Horn,Artian Sounder I,natives/STM/Art/Model/Item/it05/10/0003/it0510_0003_0.mesh
+Hunting Horn,Artian Sounder II,natives/STM/Art/Model/Item/it05/10/0003/it0510_0003_0.mesh
+Hunting Horn,Omiltika,natives/STM/Art/Model/Item/it05/10/0003/it0510_0003_0.mesh
+Hunting Horn,Esperanza Horn,natives/STM/Art/Model/Item/it05/00/0004/it0500_0004_0.mesh
+Hunting Horn,Farsounder Honga,natives/STM/Art/Model/Item/it05/00/0003/it0500_0003_0.mesh
+Hunting Horn,Resounding Galahad,natives/STM/Art/Model/Item/it05/00/0024/it0500_0024_0.mesh
+Hunting Horn,Zoh Gariel I,natives/STM/Art/Model/Item/it05/00/0021/it0500_0021_0.mesh
+Hunting Horn,Blazing Gariel,natives/STM/Art/Model/Item/it05/00/0021/it0500_0021_0.mesh
+Hunting Horn,Poetic Bell I,natives/STM/Art/Model/Item/it05/00/0013/it0500_0013_0.mesh
+Hunting Horn,Summoning Bell,natives/STM/Art/Model/Item/it05/00/0013/it0500_0013_0.mesh
+Hunting Horn,Lagia Horn I,natives/STM/Art/Model/Item/it05/00/0007/it0500_0007_0.mesh
+Hunting Horn,Lagia Thunderpeal,natives/STM/Art/Model/Item/it05/00/0007/it0500_0007_0.mesh
+Lance,Hope Lance I (Lance),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_0.mesh
+Lance,Hope Lance I (Shield),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_1.mesh
+Lance,Hope Lance II (Lance),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_0.mesh
+Lance,Hope Lance II (Shield),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_1.mesh
+Lance,Hope Lance III (Lance),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_0.mesh
+Lance,Hope Lance III (Shield),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_1.mesh
+Lance,Hope Lance IV (Lance),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_0.mesh
+Lance,Hope Lance IV (Shield),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_1.mesh
+Lance,Hope Lance V (Lance),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_0.mesh
+Lance,Hope Lance V (Shield),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_1.mesh
+Lance,Bone Lance I (Lance),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_0.mesh
+Lance,Bone Lance I (Shield),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_1.mesh
+Lance,Bone Lance II (Lance),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_0.mesh
+Lance,Bone Lance II (Shield),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_1.mesh
+Lance,Bone Lance III (Lance),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_0.mesh
+Lance,Bone Lance III (Shield),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_1.mesh
+Lance,Bone Lance IV (Lance),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_0.mesh
+Lance,Bone Lance IV (Shield),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_1.mesh
+Lance,Hard Bone Lance (Lance),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_0.mesh
+Lance,Hard Bone Lance (Shield),natives/STM/Art/Model/Item/it06/01/0004/it0601_0004_1.mesh
+Lance,Chrome Drill I (Lance),natives/STM/Art/Model/Item/it06/01/0002/it0601_0002_0.mesh
+Lance,Chrome Drill I (Shield),natives/STM/Art/Model/Item/it06/01/0002/it0601_0002_1.mesh
+Lance,Chrome Drill II (Lance),natives/STM/Art/Model/Item/it06/01/0002/it0601_0002_0.mesh
+Lance,Chrome Drill II (Shield),natives/STM/Art/Model/Item/it06/01/0002/it0601_0002_1.mesh
+Lance,Chrome Drill III (Lance),natives/STM/Art/Model/Item/it06/01/0002/it0601_0002_0.mesh
+Lance,Chrome Drill III (Shield),natives/STM/Art/Model/Item/it06/01/0002/it0601_0002_1.mesh
+Lance,Chrome Lance (Lance),natives/STM/Art/Model/Item/it06/01/0002/it0601_0002_0.mesh
+Lance,Chrome Lance (Shield),natives/STM/Art/Model/Item/it06/01/0002/it0601_0002_1.mesh
+Lance,Quematrice Lanza I (Lance),natives/STM/Art/Model/Item/it06/00/0005/it0600_0005_0.mesh
+Lance,Quematrice Lanza I (Shield),natives/STM/Art/Model/Item/it06/00/0005/it0600_0005_1.mesh
+Lance,Quematrice Lanza II (Lance),natives/STM/Art/Model/Item/it06/00/0005/it0600_0005_0.mesh
+Lance,Quematrice Lanza II (Shield),natives/STM/Art/Model/Item/it06/00/0005/it0600_0005_1.mesh
+Lance,Quematrice Lanza III (Lance),natives/STM/Art/Model/Item/it06/00/0005/it0600_0005_0.mesh
+Lance,Quematrice Lanza III (Shield),natives/STM/Art/Model/Item/it06/00/0005/it0600_0005_1.mesh
+Lance,Quematrice Lanza IV (Lance),natives/STM/Art/Model/Item/it06/00/0005/it0600_0005_0.mesh
+Lance,Quematrice Lanza IV (Shield),natives/STM/Art/Model/Item/it06/00/0005/it0600_0005_1.mesh
+Lance,Firetrail Kaminet (Lance),natives/STM/Art/Model/Item/it06/00/0006/it0600_0006_0.mesh
+Lance,Firetrail Kaminet (Shield),natives/STM/Art/Model/Item/it06/00/0006/it0600_0006_1.mesh
+Lance,Barina Sarissa I (Lance),natives/STM/Art/Model/Item/it06/00/0007/it0600_0007_0.mesh
+Lance,Barina Sarissa I (Shield),natives/STM/Art/Model/Item/it06/00/0007/it0600_0007_1.mesh
+Lance,Barina Sarissa II (Lance),natives/STM/Art/Model/Item/it06/00/0007/it0600_0007_0.mesh
+Lance,Barina Sarissa II (Shield),natives/STM/Art/Model/Item/it06/00/0007/it0600_0007_1.mesh
+Lance,Barina Sarissa III (Lance),natives/STM/Art/Model/Item/it06/00/0007/it0600_0007_0.mesh
+Lance,Barina Sarissa III (Shield),natives/STM/Art/Model/Item/it06/00/0007/it0600_0007_1.mesh
+Lance,Barina Sarissa IV (Lance),natives/STM/Art/Model/Item/it06/00/0007/it0600_0007_0.mesh
+Lance,Barina Sarissa IV (Shield),natives/STM/Art/Model/Item/it06/00/0007/it0600_0007_1.mesh
+Lance,Lala Aviculari (Lance),natives/STM/Art/Model/Item/it06/00/0008/it0600_0008_0.mesh
+Lance,Lala Aviculari (Shield),natives/STM/Art/Model/Item/it06/00/0008/it0600_0008_1.mesh
+Lance,Balahara Lance I (Lance),natives/STM/Art/Model/Item/it06/00/0002/it0600_0002_0.mesh
+Lance,Balahara Lance I (Shield),natives/STM/Art/Model/Item/it06/00/0002/it0600_0002_1.mesh
+Lance,Balahara Lance II (Lance),natives/STM/Art/Model/Item/it06/00/0002/it0600_0002_0.mesh
+Lance,Balahara Lance II (Shield),natives/STM/Art/Model/Item/it06/00/0002/it0600_0002_1.mesh
+Lance,Balahara Lance III (Lance),natives/STM/Art/Model/Item/it06/00/0002/it0600_0002_0.mesh
+Lance,Balahara Lance III (Shield),natives/STM/Art/Model/Item/it06/00/0002/it0600_0002_1.mesh
+Lance,Balahara Lance IV (Lance),natives/STM/Art/Model/Item/it06/00/0002/it0600_0002_0.mesh
+Lance,Balahara Lance IV (Shield),natives/STM/Art/Model/Item/it06/00/0002/it0600_0002_1.mesh
+Lance,Sandsea Prallaya (Lance),natives/STM/Art/Model/Item/it06/00/0003/it0600_0003_0.mesh
+Lance,Sandsea Prallaya (Shield),natives/STM/Art/Model/Item/it06/00/0003/it0600_0003_1.mesh
+Lance,Dosha Fierceborer I (Lance),natives/STM/Art/Model/Item/it06/00/0000/it0600_0000_0.mesh
+Lance,Dosha Fierceborer I (Shield),natives/STM/Art/Model/Item/it06/00/0000/it0600_0000_1.mesh
+Lance,Dosha Fierceborer II (Lance),natives/STM/Art/Model/Item/it06/00/0000/it0600_0000_0.mesh
+Lance,Dosha Fierceborer II (Shield),natives/STM/Art/Model/Item/it06/00/0000/it0600_0000_1.mesh
+Lance,Dosha Fierceborer III (Lance),natives/STM/Art/Model/Item/it06/00/0000/it0600_0000_0.mesh
+Lance,Dosha Fierceborer III (Shield),natives/STM/Art/Model/Item/it06/00/0000/it0600_0000_1.mesh
+Lance,Rompo Piercer I (Lance),natives/STM/Art/Model/Item/it06/00/0009/it0600_0009_0.mesh
+Lance,Rompo Piercer I (Shield),natives/STM/Art/Model/Item/it06/00/0009/it0600_0009_1.mesh
+Lance,Rompo Piercer II (Lance),natives/STM/Art/Model/Item/it06/00/0009/it0600_0009_0.mesh
+Lance,Rompo Piercer II (Shield),natives/STM/Art/Model/Item/it06/00/0009/it0600_0009_1.mesh
+Lance,Rompo Piercer III (Lance),natives/STM/Art/Model/Item/it06/00/0009/it0600_0009_0.mesh
+Lance,Rompo Piercer III (Shield),natives/STM/Art/Model/Item/it06/00/0009/it0600_0009_1.mesh
+Lance,Rompo Tetrotox (Lance),natives/STM/Art/Model/Item/it06/00/0009/it0600_0009_0.mesh
+Lance,Rompo Tetrotox (Shield),natives/STM/Art/Model/Item/it06/00/0009/it0600_0009_1.mesh
+Lance,Rey Indra I (Lance),natives/STM/Art/Model/Item/it06/00/0010/it0600_0010_0.mesh
+Lance,Rey Indra I (Shield),natives/STM/Art/Model/Item/it06/00/0010/it0600_0010_1.mesh
+Lance,Rey Indra II (Lance),natives/STM/Art/Model/Item/it06/00/0010/it0600_0010_0.mesh
+Lance,Rey Indra II (Shield),natives/STM/Art/Model/Item/it06/00/0010/it0600_0010_1.mesh
+Lance,Rey Indra III (Lance),natives/STM/Art/Model/Item/it06/00/0010/it0600_0010_0.mesh
+Lance,Rey Indra III (Shield),natives/STM/Art/Model/Item/it06/00/0010/it0600_0010_1.mesh
+Lance,Indra Clairlance (Lance),natives/STM/Art/Model/Item/it06/00/0010/it0600_0010_0.mesh
+Lance,Indra Clairlance (Shield),natives/STM/Art/Model/Item/it06/00/0010/it0600_0010_1.mesh
+Lance,Windpierce Lance I (Lance),natives/STM/Art/Model/Item/it06/00/0013/it0600_0013_0.mesh
+Lance,Windpierce Lance I (Shield),natives/STM/Art/Model/Item/it06/00/0013/it0600_0013_1.mesh
+Lance,Windpierce Lance II (Lance),natives/STM/Art/Model/Item/it06/00/0013/it0600_0013_0.mesh
+Lance,Windpierce Lance II (Shield),natives/STM/Art/Model/Item/it06/00/0013/it0600_0013_1.mesh
+Lance,Windpierce Lance III (Lance),natives/STM/Art/Model/Item/it06/00/0013/it0600_0013_0.mesh
+Lance,Windpierce Lance III (Shield),natives/STM/Art/Model/Item/it06/00/0013/it0600_0013_1.mesh
+Lance,Windpierce Tsukibami (Lance),natives/STM/Art/Model/Item/it06/00/0013/it0600_0013_0.mesh
+Lance,Windpierce Tsukibami (Shield),natives/STM/Art/Model/Item/it06/00/0013/it0600_0013_1.mesh
+Lance,Nu Osminog I (Lance),natives/STM/Art/Model/Item/it06/00/0014/it0600_0014_0.mesh
+Lance,Nu Osminog I (Shield),natives/STM/Art/Model/Item/it06/00/0014/it0600_0014_1.mesh
+Lance,Nu Osminog II (Lance),natives/STM/Art/Model/Item/it06/00/0014/it0600_0014_0.mesh
+Lance,Nu Osminog II (Shield),natives/STM/Art/Model/Item/it06/00/0014/it0600_0014_1.mesh
+Lance,Abaddonian Osminog (Lance),natives/STM/Art/Model/Item/it06/00/0014/it0600_0014_0.mesh
+Lance,Abaddonian Osminog (Shield),natives/STM/Art/Model/Item/it06/00/0014/it0600_0014_1.mesh
+Lance,Dosha Gloomborer I (Lance),natives/STM/Art/Model/Item/it06/10/0002/it0610_0002_0.mesh
+Lance,Dosha Gloomborer I (Shield),natives/STM/Art/Model/Item/it06/10/0002/it0610_0002_1.mesh
+Lance,Dosha Gloomborer II (Lance),natives/STM/Art/Model/Item/it06/10/0002/it0610_0002_0.mesh
+Lance,Dosha Gloomborer II (Shield),natives/STM/Art/Model/Item/it06/10/0002/it0610_0002_1.mesh
+Lance,Gloomborer Urshanith (Lance),natives/STM/Art/Model/Item/it06/10/0002/it0610_0002_0.mesh
+Lance,Gloomborer Urshanith (Shield),natives/STM/Art/Model/Item/it06/10/0002/it0610_0002_1.mesh
+Lance,Albirath Tail I (Lance),natives/STM/Art/Model/Item/it06/10/0000/it0610_0000_0.mesh
+Lance,Albirath Tail I (Shield),natives/STM/Art/Model/Item/it06/10/0000/it0610_0000_1.mesh
+Lance,Albirath Tail II (Lance),natives/STM/Art/Model/Item/it06/10/0000/it0610_0000_0.mesh
+Lance,Albirath Tail II (Shield),natives/STM/Art/Model/Item/it06/10/0000/it0610_0000_1.mesh
+Lance,Shining Pillar (Lance),natives/STM/Art/Model/Item/it06/10/0000/it0610_0000_0.mesh
+Lance,Shining Pillar (Shield),natives/STM/Art/Model/Item/it06/10/0000/it0610_0000_1.mesh
+Lance,Chthonian Firewheel I (Lance),natives/STM/Art/Model/Item/it06/10/0001/it0610_0001_0.mesh
+Lance,Chthonian Firewheel I (Shield),natives/STM/Art/Model/Item/it06/10/0001/it0610_0001_1.mesh
+Lance,Chthonian Firewheel II (Lance),natives/STM/Art/Model/Item/it06/10/0001/it0610_0001_0.mesh
+Lance,Chthonian Firewheel II (Shield),natives/STM/Art/Model/Item/it06/10/0001/it0610_0001_1.mesh
+Lance,Bequeathed Regret (Lance),natives/STM/Art/Model/Item/it06/10/0001/it0610_0001_0.mesh
+Lance,Bequeathed Regret (Shield),natives/STM/Art/Model/Item/it06/10/0001/it0610_0001_1.mesh
+Lance,G. Veldian Lancea I (Lance),natives/STM/Art/Model/Item/it06/00/0021/it0600_0021_0.mesh
+Lance,G. Veldian Lancea I (Shield),natives/STM/Art/Model/Item/it06/00/0021/it0600_0021_1.mesh
+Lance,G. Veldian Lancea II (Lance),natives/STM/Art/Model/Item/it06/00/0021/it0600_0021_0.mesh
+Lance,G. Veldian Lancea II (Shield),natives/STM/Art/Model/Item/it06/00/0021/it0600_0021_1.mesh
+Lance,G. Purifying Beaumains (Lance),natives/STM/Art/Model/Item/it06/00/0021/it0600_0021_0.mesh
+Lance,G. Purifying Beaumains (Shield),natives/STM/Art/Model/Item/it06/00/0021/it0600_0021_1.mesh
+Lance,Gravios Spear I (Lance),natives/STM/Art/Model/Item/it06/00/0019/it0600_0019_0.mesh
+Lance,Gravios Spear I (Shield),natives/STM/Art/Model/Item/it06/00/0019/it0600_0019_1.mesh
+Lance,Gravios Lance (Lance),natives/STM/Art/Model/Item/it06/00/0019/it0600_0019_0.mesh
+Lance,Gravios Lance (Shield),natives/STM/Art/Model/Item/it06/00/0019/it0600_0019_1.mesh
+Lance,Harbah Lance I (Lance),natives/STM/Art/Model/Item/it06/00/0018/it0600_0018_0.mesh
+Lance,Harbah Lance I (Shield),natives/STM/Art/Model/Item/it06/00/0018/it0600_0018_1.mesh
+Lance,Turbulent Lance (Lance),natives/STM/Art/Model/Item/it06/00/0018/it0600_0018_0.mesh
+Lance,Turbulent Lance (Shield),natives/STM/Art/Model/Item/it06/00/0018/it0600_0018_1.mesh
+Lance,Red Tail I (Lance),natives/STM/Art/Model/Item/it06/00/0011/it0600_0011_0.mesh
+Lance,Red Tail I (Shield),natives/STM/Art/Model/Item/it06/00/0011/it0600_0011_1.mesh
+Lance,Spear of Prominence (Lance),natives/STM/Art/Model/Item/it06/00/0011/it0600_0011_0.mesh
+Lance,Spear of Prominence (Shield),natives/STM/Art/Model/Item/it06/00/0011/it0600_0011_1.mesh
+Lance,Eiferschild I (Lance),natives/STM/Art/Model/Item/it06/00/0012/it0600_0012_0.mesh
+Lance,Eiferschild I (Shield),natives/STM/Art/Model/Item/it06/00/0012/it0600_0012_1.mesh
+Lance,Fieberschild (Lance),natives/STM/Art/Model/Item/it06/00/0012/it0600_0012_0.mesh
+Lance,Fieberschild (Shield),natives/STM/Art/Model/Item/it06/00/0012/it0600_0012_1.mesh
+Lance,Veldian Lancea I (Lance),natives/STM/Art/Model/Item/it06/00/0024/it0600_0024_0.mesh
+Lance,Veldian Lancea I (Shield),natives/STM/Art/Model/Item/it06/00/0024/it0600_0024_1.mesh
+Lance,Artian Lance I (Lance),natives/STM/Art/Model/Item/it06/10/0003/it0610_0003_0.mesh
+Lance,Artian Lance I (Shield),natives/STM/Art/Model/Item/it06/10/0003/it0610_0003_1.mesh
+Lance,Artian Lance II (Lance),natives/STM/Art/Model/Item/it06/10/0003/it0610_0003_0.mesh
+Lance,Artian Lance II (Shield),natives/STM/Art/Model/Item/it06/10/0003/it0610_0003_1.mesh
+Lance,Skyscraper (Lance),natives/STM/Art/Model/Item/it06/10/0003/it0610_0003_0.mesh
+Lance,Skyscraper (Shield),natives/STM/Art/Model/Item/it06/10/0003/it0610_0003_1.mesh
+Lance,Esperanza Lance (Lance),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_0.mesh
+Lance,Esperanza Lance (Shield),natives/STM/Art/Model/Item/it06/00/0004/it0600_0004_1.mesh
+Lance,Fierceborer Dubhanith (Lance),natives/STM/Art/Model/Item/it06/00/0001/it0600_0001_0.mesh
+Lance,Fierceborer Dubhanith (Shield),natives/STM/Art/Model/Item/it06/00/0001/it0600_0001_1.mesh
+Lance,Purifying Beaumains (Lance),natives/STM/Art/Model/Item/it06/00/0024/it0600_0024_0.mesh
+Lance,Purifying Beaumains (Shield),natives/STM/Art/Model/Item/it06/00/0024/it0600_0024_1.mesh
+Lance,Zoh Sital I (Lance),natives/STM/Art/Model/Item/it06/00/0022/it0600_0022_0.mesh
+Lance,Zoh Sital I (Shield),natives/STM/Art/Model/Item/it06/00/0022/it0600_0022_1.mesh
+Lance,Blazing Sital (Lance),natives/STM/Art/Model/Item/it06/00/0022/it0600_0022_0.mesh
+Lance,Blazing Sital (Shield),natives/STM/Art/Model/Item/it06/00/0022/it0600_0022_1.mesh
+Lance,Hana Mo Hana Nare I (Lance),natives/STM/Art/Model/Item/it06/00/0015/it0600_0015_0.mesh
+Lance,Hana Mo Hana Nare I (Shield),natives/STM/Art/Model/Item/it06/00/0015/it0600_0015_1.mesh
+Lance,Kimi Ga Kiru (Lance),natives/STM/Art/Model/Item/it06/00/0015/it0600_0015_0.mesh
+Lance,Kimi Ga Kiru (Shield),natives/STM/Art/Model/Item/it06/00/0015/it0600_0015_1.mesh
+Lance,Acrus Lance I (Lance),natives/STM/Art/Model/Item/it06/00/0017/it0600_0017_0.mesh
+Lance,Acrus Lance I (Shield),natives/STM/Art/Model/Item/it06/00/0017/it0600_0017_1.mesh
+Lance,High Acrus Lance (Lance),natives/STM/Art/Model/Item/it06/00/0017/it0600_0017_0.mesh
+Lance,High Acrus Lance (Shield),natives/STM/Art/Model/Item/it06/00/0017/it0600_0017_1.mesh
+Lance,Paladin Lance I (Lance),natives/STM/Art/Model/Item/it06/00/0030/it0600_0030_0.mesh
+Lance,Paladin Lance I (Shield),natives/STM/Art/Model/Item/it06/00/0030/it0600_0030_1.mesh
+Lance,Babel Spear (Lance),natives/STM/Art/Model/Item/it06/00/0025/it0600_0025_0.mesh
+Lance,Babel Spear (Shield),natives/STM/Art/Model/Item/it06/00/0025/it0600_0025_1.mesh
+Gunlance,Hope Gunlance I (Gunlance),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_0.mesh
+Gunlance,Hope Gunlance I (Shield),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_1.mesh
+Gunlance,Hope Gunlance II (Gunlance),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_0.mesh
+Gunlance,Hope Gunlance II (Shield),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_1.mesh
+Gunlance,Hope Gunlance III (Gunlance),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_0.mesh
+Gunlance,Hope Gunlance III (Shield),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_1.mesh
+Gunlance,Hope Gunlance IV (Gunlance),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_0.mesh
+Gunlance,Hope Gunlance IV (Shield),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_1.mesh
+Gunlance,Hope Gunlance V (Gunlance),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_0.mesh
+Gunlance,Hope Gunlance V (Shield),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_1.mesh
+Gunlance,Bone Gunlance I (Gunlance),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_0.mesh
+Gunlance,Bone Gunlance I (Shield),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_1.mesh
+Gunlance,Bone Gunlance II (Gunlance),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_0.mesh
+Gunlance,Bone Gunlance II (Shield),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_1.mesh
+Gunlance,Bone Gunlance III (Gunlance),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_0.mesh
+Gunlance,Bone Gunlance III (Shield),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_1.mesh
+Gunlance,Bone Gunlance IV (Gunlance),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_0.mesh
+Gunlance,Bone Gunlance IV (Shield),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_1.mesh
+Gunlance,Great Bone Gunlance (Gunlance),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_0.mesh
+Gunlance,Great Bone Gunlance (Shield),natives/STM/Art/Model/Item/it07/01/0004/it0701_0004_1.mesh
+Gunlance,Triple Bayonet I (Gunlance),natives/STM/Art/Model/Item/it07/01/0002/it0701_0002_0.mesh
+Gunlance,Triple Bayonet I (Shield),natives/STM/Art/Model/Item/it07/01/0002/it0701_0002_1.mesh
+Gunlance,Triple Bayonet II (Gunlance),natives/STM/Art/Model/Item/it07/01/0002/it0701_0002_0.mesh
+Gunlance,Triple Bayonet II (Shield),natives/STM/Art/Model/Item/it07/01/0002/it0701_0002_1.mesh
+Gunlance,Triple Bayonet III (Gunlance),natives/STM/Art/Model/Item/it07/01/0002/it0701_0002_0.mesh
+Gunlance,Triple Bayonet III (Shield),natives/STM/Art/Model/Item/it07/01/0002/it0701_0002_1.mesh
+Gunlance,Triumvirate Edge (Gunlance),natives/STM/Art/Model/Item/it07/01/0002/it0701_0002_0.mesh
+Gunlance,Triumvirate Edge (Shield),natives/STM/Art/Model/Item/it07/01/0002/it0701_0002_1.mesh
+Gunlance,Quematrice Culebrina I (Gunlance),natives/STM/Art/Model/Item/it07/00/0001/it0700_0001_0.mesh
+Gunlance,Quematrice Culebrina I (Shield),natives/STM/Art/Model/Item/it07/00/0001/it0700_0001_1.mesh
+Gunlance,Quematrice Culebrina II (Gunlance),natives/STM/Art/Model/Item/it07/00/0001/it0700_0001_0.mesh
+Gunlance,Quematrice Culebrina II (Shield),natives/STM/Art/Model/Item/it07/00/0001/it0700_0001_1.mesh
+Gunlance,Quematrice Culebrina III (Gunlance),natives/STM/Art/Model/Item/it07/00/0001/it0700_0001_0.mesh
+Gunlance,Quematrice Culebrina III (Shield),natives/STM/Art/Model/Item/it07/00/0001/it0700_0001_1.mesh
+Gunlance,Quematrice Culebrina IV (Gunlance),natives/STM/Art/Model/Item/it07/00/0001/it0700_0001_0.mesh
+Gunlance,Quematrice Culebrina IV (Shield),natives/STM/Art/Model/Item/it07/00/0001/it0700_0001_1.mesh
+Gunlance,Firetrail Quemador (Gunlance),natives/STM/Art/Model/Item/it07/00/0002/it0700_0002_0.mesh
+Gunlance,Firetrail Quemador (Shield),natives/STM/Art/Model/Item/it07/00/0002/it0700_0002_1.mesh
+Gunlance,Balahara Exploder I (Gunlance),natives/STM/Art/Model/Item/it07/00/0003/it0700_0003_0.mesh
+Gunlance,Balahara Exploder I (Shield),natives/STM/Art/Model/Item/it07/00/0003/it0700_0003_1.mesh
+Gunlance,Balahara Exploder II (Gunlance),natives/STM/Art/Model/Item/it07/00/0003/it0700_0003_0.mesh
+Gunlance,Balahara Exploder II (Shield),natives/STM/Art/Model/Item/it07/00/0003/it0700_0003_1.mesh
+Gunlance,Balahara Exploder III (Gunlance),natives/STM/Art/Model/Item/it07/00/0003/it0700_0003_0.mesh
+Gunlance,Balahara Exploder III (Shield),natives/STM/Art/Model/Item/it07/00/0003/it0700_0003_1.mesh
+Gunlance,Balahara Exploder IV (Gunlance),natives/STM/Art/Model/Item/it07/00/0003/it0700_0003_0.mesh
+Gunlance,Balahara Exploder IV (Shield),natives/STM/Art/Model/Item/it07/00/0003/it0700_0003_1.mesh
+Gunlance,Sandsea Visponan (Gunlance),natives/STM/Art/Model/Item/it07/00/0004/it0700_0004_0.mesh
+Gunlance,Sandsea Visponan (Shield),natives/STM/Art/Model/Item/it07/00/0004/it0700_0004_1.mesh
+Gunlance,Uth Falarmata I (Gunlance),natives/STM/Art/Model/Item/it07/00/0005/it0700_0005_0.mesh
+Gunlance,Uth Falarmata I (Shield),natives/STM/Art/Model/Item/it07/00/0005/it0700_0005_1.mesh
+Gunlance,Uth Falarmata II (Gunlance),natives/STM/Art/Model/Item/it07/00/0005/it0700_0005_0.mesh
+Gunlance,Uth Falarmata II (Shield),natives/STM/Art/Model/Item/it07/00/0005/it0700_0005_1.mesh
+Gunlance,Uth Falarmata III (Gunlance),natives/STM/Art/Model/Item/it07/00/0005/it0700_0005_0.mesh
+Gunlance,Uth Falarmata III (Shield),natives/STM/Art/Model/Item/it07/00/0005/it0700_0005_1.mesh
+Gunlance,Falarmata-of-the-Waves (Gunlance),natives/STM/Art/Model/Item/it07/00/0005/it0700_0005_0.mesh
+Gunlance,Falarmata-of-the-Waves (Shield),natives/STM/Art/Model/Item/it07/00/0005/it0700_0005_1.mesh
+Gunlance,Shell Gunberd I (Gunlance),natives/STM/Art/Model/Item/it07/00/0009/it0700_0009_0.mesh
+Gunlance,Shell Gunberd I (Shield),natives/STM/Art/Model/Item/it07/00/0009/it0700_0009_1.mesh
+Gunlance,Shell Gunberd II (Gunlance),natives/STM/Art/Model/Item/it07/00/0009/it0700_0009_0.mesh
+Gunlance,Shell Gunberd II (Shield),natives/STM/Art/Model/Item/it07/00/0009/it0700_0009_1.mesh
+Gunlance,Shell Gunberd III (Gunlance),natives/STM/Art/Model/Item/it07/00/0009/it0700_0009_0.mesh
+Gunlance,Shell Gunberd III (Shield),natives/STM/Art/Model/Item/it07/00/0009/it0700_0009_1.mesh
+Gunlance,Solid Gunberd (Gunlance),natives/STM/Art/Model/Item/it07/00/0009/it0700_0009_0.mesh
+Gunlance,Solid Gunberd (Shield),natives/STM/Art/Model/Item/it07/00/0009/it0700_0009_1.mesh
+Gunlance,Ajara Gunpike I (Gunlance),natives/STM/Art/Model/Item/it07/00/0010/it0700_0010_0.mesh
+Gunlance,Ajara Gunpike I (Shield),natives/STM/Art/Model/Item/it07/00/0010/it0700_0010_1.mesh
+Gunlance,Ajara Gunpike II (Gunlance),natives/STM/Art/Model/Item/it07/00/0010/it0700_0010_0.mesh
+Gunlance,Ajara Gunpike II (Shield),natives/STM/Art/Model/Item/it07/00/0010/it0700_0010_1.mesh
+Gunlance,Ajara-Kalika (Gunlance),natives/STM/Art/Model/Item/it07/00/0010/it0700_0010_0.mesh
+Gunlance,Ajara-Kalika (Shield),natives/STM/Art/Model/Item/it07/00/0010/it0700_0010_1.mesh
+Gunlance,Albirath Rook I (Gunlance),natives/STM/Art/Model/Item/it07/10/0000/it0710_0000_0.mesh
+Gunlance,Albirath Rook I (Shield),natives/STM/Art/Model/Item/it07/10/0000/it0710_0000_1.mesh
+Gunlance,Albirath Rook II (Gunlance),natives/STM/Art/Model/Item/it07/10/0000/it0710_0000_0.mesh
+Gunlance,Albirath Rook II (Shield),natives/STM/Art/Model/Item/it07/10/0000/it0710_0000_1.mesh
+Gunlance,Shining Rook (Gunlance),natives/STM/Art/Model/Item/it07/10/0000/it0710_0000_0.mesh
+Gunlance,Shining Rook (Shield),natives/STM/Art/Model/Item/it07/10/0000/it0710_0000_1.mesh
+Gunlance,Jin Dhatop I (Gunlance),natives/STM/Art/Model/Item/it07/00/0020/it0700_0020_0.mesh
+Gunlance,Jin Dhatop I (Shield),natives/STM/Art/Model/Item/it07/00/0020/it0700_0020_1.mesh
+Gunlance,Precipice Lohamata (Gunlance),natives/STM/Art/Model/Item/it07/00/0020/it0700_0020_0.mesh
+Gunlance,Precipice Lohamata (Shield),natives/STM/Art/Model/Item/it07/00/0020/it0700_0020_1.mesh
+Gunlance,G. Veldian Hasta I (Gunlance),natives/STM/Art/Model/Item/it07/00/0018/it0700_0018_0.mesh
+Gunlance,G. Veldian Hasta I (Shield),natives/STM/Art/Model/Item/it07/00/0018/it0700_0018_1.mesh
+Gunlance,G. Veldian Hasta II (Gunlance),natives/STM/Art/Model/Item/it07/00/0018/it0700_0018_0.mesh
+Gunlance,G. Veldian Hasta II (Shield),natives/STM/Art/Model/Item/it07/00/0018/it0700_0018_1.mesh
+Gunlance,G. Lawful Bors (Gunlance),natives/STM/Art/Model/Item/it07/00/0018/it0700_0018_0.mesh
+Gunlance,G. Lawful Bors (Shield),natives/STM/Art/Model/Item/it07/00/0018/it0700_0018_1.mesh
+Gunlance,Hard Hitter I (Gunlance),natives/STM/Art/Model/Item/it07/00/0013/it0700_0013_0.mesh
+Gunlance,Hard Hitter I (Shield),natives/STM/Art/Model/Item/it07/00/0013/it0700_0013_1.mesh
+Gunlance,Hard Hitter II (Gunlance),natives/STM/Art/Model/Item/it07/00/0013/it0700_0013_0.mesh
+Gunlance,Hard Hitter II (Shield),natives/STM/Art/Model/Item/it07/00/0013/it0700_0013_1.mesh
+Gunlance,Big Slugger (Gunlance),natives/STM/Art/Model/Item/it07/00/0013/it0700_0013_0.mesh
+Gunlance,Big Slugger (Shield),natives/STM/Art/Model/Item/it07/00/0013/it0700_0013_1.mesh
+Gunlance,Princess Panoply I (Gunlance),natives/STM/Art/Model/Item/it07/00/0006/it0700_0006_0.mesh
+Gunlance,Princess Panoply I (Shield),natives/STM/Art/Model/Item/it07/00/0006/it0700_0006_1.mesh
+Gunlance,Princess Panoply II (Gunlance),natives/STM/Art/Model/Item/it07/00/0006/it0700_0006_0.mesh
+Gunlance,Princess Panoply II (Shield),natives/STM/Art/Model/Item/it07/00/0006/it0700_0006_1.mesh
+Gunlance,Ortlinde (Gunlance),natives/STM/Art/Model/Item/it07/00/0006/it0700_0006_0.mesh
+Gunlance,Ortlinde (Shield),natives/STM/Art/Model/Item/it07/00/0006/it0700_0006_1.mesh
+Gunlance,Warring Fulgur I (Gunlance),natives/STM/Art/Model/Item/it07/10/0002/it0710_0002_0.mesh
+Gunlance,Warring Fulgur I (Shield),natives/STM/Art/Model/Item/it07/10/0002/it0710_0002_1.mesh
+Gunlance,Fulgurcannon Guardiana (Gunlance),natives/STM/Art/Model/Item/it07/10/0002/it0710_0002_0.mesh
+Gunlance,Fulgurcannon Guardiana (Shield),natives/STM/Art/Model/Item/it07/10/0002/it0710_0002_1.mesh
+Gunlance,White Gunlance I (Gunlance),natives/STM/Art/Model/Item/it07/00/0016/it0700_0016_0.mesh
+Gunlance,White Gunlance I (Shield),natives/STM/Art/Model/Item/it07/00/0016/it0700_0016_1.mesh
+Gunlance,White Cannon (Gunlance),natives/STM/Art/Model/Item/it07/00/0016/it0700_0016_0.mesh
+Gunlance,White Cannon (Shield),natives/STM/Art/Model/Item/it07/00/0016/it0700_0016_1.mesh
+Gunlance,Jaya Gunlance I (Gunlance),natives/STM/Art/Model/Item/it07/00/0015/it0700_0015_0.mesh
+Gunlance,Jaya Gunlance I (Shield),natives/STM/Art/Model/Item/it07/00/0015/it0700_0015_1.mesh
+Gunlance,Riotous Gunlance (Gunlance),natives/STM/Art/Model/Item/it07/00/0015/it0700_0015_0.mesh
+Gunlance,Riotous Gunlance (Shield),natives/STM/Art/Model/Item/it07/00/0015/it0700_0015_1.mesh
+Gunlance,Red Rook I (Gunlance),natives/STM/Art/Model/Item/it07/00/0007/it0700_0007_0.mesh
+Gunlance,Red Rook I (Shield),natives/STM/Art/Model/Item/it07/00/0007/it0700_0007_1.mesh
+Gunlance,Crimson Rook (Gunlance),natives/STM/Art/Model/Item/it07/00/0007/it0700_0007_0.mesh
+Gunlance,Crimson Rook (Shield),natives/STM/Art/Model/Item/it07/00/0007/it0700_0007_1.mesh
+Gunlance,Tyrannenarm I (Gunlance),natives/STM/Art/Model/Item/it07/00/0008/it0700_0008_0.mesh
+Gunlance,Tyrannenarm I (Shield),natives/STM/Art/Model/Item/it07/00/0008/it0700_0008_1.mesh
+Gunlance,Verräterarm (Gunlance),natives/STM/Art/Model/Item/it07/00/0008/it0700_0008_0.mesh
+Gunlance,Verräterarm (Shield),natives/STM/Art/Model/Item/it07/00/0008/it0700_0008_1.mesh
+Gunlance,Veldian Hasta I (Gunlance),natives/STM/Art/Model/Item/it07/00/0024/it0700_0024_0.mesh
+Gunlance,Veldian Hasta I (Shield),natives/STM/Art/Model/Item/it07/00/0024/it0700_0024_1.mesh
+Gunlance,Paretic Gunlance I (Gunlance),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_0.mesh
+Gunlance,Paretic Gunlance I (Shield),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_1.mesh
+Gunlance,Paretic Gunlance II (Gunlance),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_0.mesh
+Gunlance,Paretic Gunlance II (Shield),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_1.mesh
+Gunlance,Paretic Gunlance III (Gunlance),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_0.mesh
+Gunlance,Paretic Gunlance III (Shield),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_1.mesh
+Gunlance,Paretic Gunlance IV (Gunlance),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_0.mesh
+Gunlance,Paretic Gunlance IV (Shield),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_1.mesh
+Gunlance,Debilitating Torpor (Gunlance),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_0.mesh
+Gunlance,Debilitating Torpor (Shield),natives/STM/Art/Model/Item/it07/00/0023/it0700_0023_1.mesh
+Gunlance,Artian Cannon I (Gunlance),natives/STM/Art/Model/Item/it07/10/0001/it0710_0001_0.mesh
+Gunlance,Artian Cannon I (Shield),natives/STM/Art/Model/Item/it07/10/0001/it0710_0001_1.mesh
+Gunlance,Artian Cannon II (Gunlance),natives/STM/Art/Model/Item/it07/10/0001/it0710_0001_0.mesh
+Gunlance,Artian Cannon II (Shield),natives/STM/Art/Model/Item/it07/10/0001/it0710_0001_1.mesh
+Gunlance,Argenesis (Gunlance),natives/STM/Art/Model/Item/it07/10/0001/it0710_0001_0.mesh
+Gunlance,Argenesis (Shield),natives/STM/Art/Model/Item/it07/10/0001/it0710_0001_1.mesh
+Gunlance,Esperanza Gunlance (Gunlance),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_0.mesh
+Gunlance,Esperanza Gunlance (Shield),natives/STM/Art/Model/Item/it07/00/0000/it0700_0000_1.mesh
+Gunlance,Lawful Bors (Gunlance),natives/STM/Art/Model/Item/it07/00/0024/it0700_0024_0.mesh
+Gunlance,Lawful Bors (Shield),natives/STM/Art/Model/Item/it07/00/0024/it0700_0024_1.mesh
+Gunlance,Zoh Lael I (Gunlance),natives/STM/Art/Model/Item/it07/00/0021/it0700_0021_0.mesh
+Gunlance,Zoh Lael I (Shield),natives/STM/Art/Model/Item/it07/00/0021/it0700_0021_1.mesh
+Gunlance,Blazing Lael (Gunlance),natives/STM/Art/Model/Item/it07/00/0021/it0700_0021_0.mesh
+Gunlance,Blazing Lael (Shield),natives/STM/Art/Model/Item/it07/00/0021/it0700_0021_1.mesh
+Gunlance,Ukiyo no Yamiwo I (Gunlance),natives/STM/Art/Model/Item/it07/00/0011/it0700_0011_0.mesh
+Gunlance,Ukiyo no Yamiwo I (Shield),natives/STM/Art/Model/Item/it07/00/0011/it0700_0011_1.mesh
+Gunlance,Mizumori (Gunlance),natives/STM/Art/Model/Item/it07/00/0011/it0700_0011_0.mesh
+Gunlance,Mizumori (Shield),natives/STM/Art/Model/Item/it07/00/0011/it0700_0011_1.mesh
+Gunlance,Cornpopper (Gunlance),natives/STM/Art/Model/Item/it07/00/0025/it0700_0025_0.mesh
+Gunlance,Cornpopper (Shield),natives/STM/Art/Model/Item/it07/00/0025/it0700_0025_1.mesh
+Gunlance,Mighty Cornpopper (Gunlance),natives/STM/Art/Model/Item/it07/00/0025/it0700_0025_0.mesh
+Gunlance,Mighty Cornpopper (Shield),natives/STM/Art/Model/Item/it07/00/0025/it0700_0025_1.mesh
+Gunlance,Lagia Burst I (Gunlance),natives/STM/Art/Model/Item/it07/00/0014/it0700_0014_0.mesh
+Gunlance,Lagia Burst I (Shield),natives/STM/Art/Model/Item/it07/00/0014/it0700_0014_1.mesh
+Gunlance,Exlagia Gunlance (Gunlance),natives/STM/Art/Model/Item/it07/00/0014/it0700_0014_0.mesh
+Gunlance,Exlagia Gunlance (Shield),natives/STM/Art/Model/Item/it07/00/0014/it0700_0014_1.mesh
+Switch Axe,Hope Axe I,natives/STM/Art/Model/Item/it08/00/0000/it0800_0000_0.mesh
+Switch Axe,Hope Axe II,natives/STM/Art/Model/Item/it08/00/0000/it0800_0000_0.mesh
+Switch Axe,Hope Axe III,natives/STM/Art/Model/Item/it08/00/0000/it0800_0000_0.mesh
+Switch Axe,Hope Axe IV,natives/STM/Art/Model/Item/it08/00/0000/it0800_0000_0.mesh
+Switch Axe,Hope Axe V,natives/STM/Art/Model/Item/it08/00/0000/it0800_0000_0.mesh
+Switch Axe,Bone Axe I,natives/STM/Art/Model/Item/it08/01/0003/it0801_0003_0.mesh
+Switch Axe,Bone Axe II,natives/STM/Art/Model/Item/it08/01/0003/it0801_0003_0.mesh
+Switch Axe,Bone Axe III,natives/STM/Art/Model/Item/it08/01/0003/it0801_0003_0.mesh
+Switch Axe,Bone Axe IV,natives/STM/Art/Model/Item/it08/01/0003/it0801_0003_0.mesh
+Switch Axe,Bone Smasher,natives/STM/Art/Model/Item/it08/01/0003/it0801_0003_0.mesh
+Switch Axe,Iron Accelerator I,natives/STM/Art/Model/Item/it08/01/0001/it0801_0001_0.mesh
+Switch Axe,Iron Accelerator II,natives/STM/Art/Model/Item/it08/01/0001/it0801_0001_0.mesh
+Switch Axe,Iron Accelerator III,natives/STM/Art/Model/Item/it08/01/0001/it0801_0001_0.mesh
+Switch Axe,Chrome Accelerator,natives/STM/Art/Model/Item/it08/01/0001/it0801_0001_0.mesh
+Switch Axe,Barina Hache I,natives/STM/Art/Model/Item/it08/00/0001/it0800_0001_0.mesh
+Switch Axe,Barina Hache II,natives/STM/Art/Model/Item/it08/00/0001/it0800_0001_0.mesh
+Switch Axe,Barina Hache III,natives/STM/Art/Model/Item/it08/00/0001/it0800_0001_0.mesh
+Switch Axe,Barina Hache IV,natives/STM/Art/Model/Item/it08/00/0001/it0800_0001_0.mesh
+Switch Axe,Lala Selenocosmi,natives/STM/Art/Model/Item/it08/00/0002/it0800_0002_0.mesh
+Switch Axe,Golba Vandal I,natives/STM/Art/Model/Item/it08/00/0003/it0800_0003_0.mesh
+Switch Axe,Golba Vandal II,natives/STM/Art/Model/Item/it08/00/0003/it0800_0003_0.mesh
+Switch Axe,Gundava Vandal,natives/STM/Art/Model/Item/it08/00/0003/it0800_0003_0.mesh
+Switch Axe,Dosha Fleshhacker I,natives/STM/Art/Model/Item/it08/00/0004/it0800_0004_0.mesh
+Switch Axe,Dosha Fleshhacker II,natives/STM/Art/Model/Item/it08/00/0004/it0800_0004_0.mesh
+Switch Axe,Dosha Fleshhacker III,natives/STM/Art/Model/Item/it08/00/0004/it0800_0004_0.mesh
+Switch Axe,Uth Olacha I,natives/STM/Art/Model/Item/it08/00/0006/it0800_0006_0.mesh
+Switch Axe,Uth Olacha II,natives/STM/Art/Model/Item/it08/00/0006/it0800_0006_0.mesh
+Switch Axe,Uth Olacha III,natives/STM/Art/Model/Item/it08/00/0006/it0800_0006_0.mesh
+Switch Axe,Olacha-of-the-Waves,natives/STM/Art/Model/Item/it08/00/0006/it0800_0006_0.mesh
+Switch Axe,Windsunder Axe I,natives/STM/Art/Model/Item/it08/00/0010/it0800_0010_0.mesh
+Switch Axe,Windsunder Axe II,natives/STM/Art/Model/Item/it08/00/0010/it0800_0010_0.mesh
+Switch Axe,Windsunder Axe III,natives/STM/Art/Model/Item/it08/00/0010/it0800_0010_0.mesh
+Switch Axe,Windsunder Sakibami,natives/STM/Art/Model/Item/it08/00/0010/it0800_0010_0.mesh
+Switch Axe,Nu Zhangyu I,natives/STM/Art/Model/Item/it08/00/0011/it0800_0011_0.mesh
+Switch Axe,Nu Zhangyu II,natives/STM/Art/Model/Item/it08/00/0011/it0800_0011_0.mesh
+Switch Axe,Abaddonian Zhangyu,natives/STM/Art/Model/Item/it08/00/0011/it0800_0011_0.mesh
+Switch Axe,Dosha Gorehacker I,natives/STM/Art/Model/Item/it08/10/0001/it0810_0001_0.mesh
+Switch Axe,Dosha Gorehacker II,natives/STM/Art/Model/Item/it08/10/0001/it0810_0001_0.mesh
+Switch Axe,Gorehacker Urgahaac,natives/STM/Art/Model/Item/it08/10/0001/it0810_0001_0.mesh
+Switch Axe,Albirath Flamesplitter I,natives/STM/Art/Model/Item/it08/10/0000/it0810_0000_0.mesh
+Switch Axe,Albirath Flamesplitter II,natives/STM/Art/Model/Item/it08/10/0000/it0810_0000_0.mesh
+Switch Axe,Albirath Blaze Splitter,natives/STM/Art/Model/Item/it08/10/0000/it0810_0000_0.mesh
+Switch Axe,Nihil Switch Axe I,natives/STM/Art/Model/Item/it08/00/0019/it0800_0019_0.mesh
+Switch Axe,Nihil Switch Axe II,natives/STM/Art/Model/Item/it08/00/0019/it0800_0019_0.mesh
+Switch Axe,Brutus's Abolishment,natives/STM/Art/Model/Item/it08/00/0019/it0800_0019_0.mesh
+Switch Axe,G. Veldian Securis I,natives/STM/Art/Model/Item/it08/00/0017/it0800_0017_0.mesh
+Switch Axe,G. Veldian Securis II,natives/STM/Art/Model/Item/it08/00/0017/it0800_0017_0.mesh
+Switch Axe,G. Indomitable Perceval,natives/STM/Art/Model/Item/it08/00/0017/it0800_0017_0.mesh
+Switch Axe,Beak Axe I,natives/STM/Art/Model/Item/it08/00/0013/it0800_0013_0.mesh
+Switch Axe,Beak Axe II,natives/STM/Art/Model/Item/it08/00/0013/it0800_0013_0.mesh
+Switch Axe,Sawbill Axe,natives/STM/Art/Model/Item/it08/00/0013/it0800_0013_0.mesh
+Switch Axe,Dragonmaiden Axe I,natives/STM/Art/Model/Item/it08/00/0007/it0800_0007_0.mesh
+Switch Axe,Dragonmaiden Axe II,natives/STM/Art/Model/Item/it08/00/0007/it0800_0007_0.mesh
+Switch Axe,Gríðr's Landmaker,natives/STM/Art/Model/Item/it08/00/0007/it0800_0007_0.mesh
+Switch Axe,Morphing Fulgur I,natives/STM/Art/Model/Item/it08/10/0002/it0810_0002_0.mesh
+Switch Axe,Fulgurswitch Guardiana,natives/STM/Art/Model/Item/it08/10/0002/it0810_0002_0.mesh
+Switch Axe,Aksa Switch I,natives/STM/Art/Model/Item/it08/00/0015/it0800_0015_0.mesh
+Switch Axe,Baran Defiance,natives/STM/Art/Model/Item/it08/00/0015/it0800_0015_0.mesh
+Switch Axe,Rath Flamesplitter I,natives/STM/Art/Model/Item/it08/00/0008/it0800_0008_0.mesh
+Switch Axe,Rath Blaze Splitter,natives/STM/Art/Model/Item/it08/00/0008/it0800_0008_0.mesh
+Switch Axe,Eisenleib I,natives/STM/Art/Model/Item/it08/00/0009/it0800_0009_0.mesh
+Switch Axe,Eisengeist,natives/STM/Art/Model/Item/it08/00/0009/it0800_0009_0.mesh
+Switch Axe,Veldian Securis I,natives/STM/Art/Model/Item/it08/00/0022/it0800_0022_0.mesh
+Switch Axe,Artian Saw I,natives/STM/Art/Model/Item/it08/10/0003/it0810_0003_0.mesh
+Switch Axe,Artian Saw II,natives/STM/Art/Model/Item/it08/10/0003/it0810_0003_0.mesh
+Switch Axe,Mundus Altus,natives/STM/Art/Model/Item/it08/10/0003/it0810_0003_0.mesh
+Switch Axe,Esperanza Axe,natives/STM/Art/Model/Item/it08/00/0000/it0800_0000_0.mesh
+Switch Axe,Fleshhacker Yaogahaac,natives/STM/Art/Model/Item/it08/00/0005/it0800_0005_0.mesh
+Switch Axe,Indomitable Perceval,natives/STM/Art/Model/Item/it08/00/0022/it0800_0022_0.mesh
+Switch Axe,Zoh Mahaiah I,natives/STM/Art/Model/Item/it08/00/0020/it0800_0020_0.mesh
+Switch Axe,Blazing Mahaiah,natives/STM/Art/Model/Item/it08/00/0020/it0800_0020_0.mesh
+Switch Axe,Fond Farewell I,natives/STM/Art/Model/Item/it08/00/0018/it0800_0018_0.mesh
+Switch Axe,Parting Slice,natives/STM/Art/Model/Item/it08/00/0018/it0800_0018_0.mesh
+Switch Axe,Bolt Axe I,natives/STM/Art/Model/Item/it08/00/0014/it0800_0014_0.mesh
+Switch Axe,High Bolt Axe,natives/STM/Art/Model/Item/it08/00/0014/it0800_0014_0.mesh
+Charge Blade,Hope Strongarm I (Sword),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_0.mesh
+Charge Blade,Hope Strongarm I (Shield),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_1.mesh
+Charge Blade,Hope Strongarm II (Sword),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_0.mesh
+Charge Blade,Hope Strongarm II (Shield),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_1.mesh
+Charge Blade,Hope Strongarm III (Sword),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_0.mesh
+Charge Blade,Hope Strongarm III (Shield),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_1.mesh
+Charge Blade,Hope Strongarm IV (Sword),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_0.mesh
+Charge Blade,Hope Strongarm IV (Shield),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_1.mesh
+Charge Blade,Hope Strongarm V (Sword),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_0.mesh
+Charge Blade,Hope Strongarm V (Shield),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_1.mesh
+Charge Blade,Bone Strongarm I (Sword),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_0.mesh
+Charge Blade,Bone Strongarm I (Shield),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_1.mesh
+Charge Blade,Bone Strongarm II (Sword),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_0.mesh
+Charge Blade,Bone Strongarm II (Shield),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_1.mesh
+Charge Blade,Bone Strongarm III (Sword),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_0.mesh
+Charge Blade,Bone Strongarm III (Shield),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_1.mesh
+Charge Blade,Bone Strongarm IV (Sword),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_0.mesh
+Charge Blade,Bone Strongarm IV (Shield),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_1.mesh
+Charge Blade,Hard Bone Strongarm (Sword),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_0.mesh
+Charge Blade,Hard Bone Strongarm (Shield),natives/STM/Art/Model/Item/it09/01/0003/it0901_0003_1.mesh
+Charge Blade,Hyperguard I (Sword),natives/STM/Art/Model/Item/it09/01/0000/it0901_0000_0.mesh
+Charge Blade,Hyperguard I (Shield),natives/STM/Art/Model/Item/it09/01/0000/it0901_0000_1.mesh
+Charge Blade,Hyperguard II (Sword),natives/STM/Art/Model/Item/it09/01/0000/it0901_0000_0.mesh
+Charge Blade,Hyperguard II (Shield),natives/STM/Art/Model/Item/it09/01/0000/it0901_0000_1.mesh
+Charge Blade,Hyperguard III (Sword),natives/STM/Art/Model/Item/it09/01/0000/it0901_0000_0.mesh
+Charge Blade,Hyperguard III (Shield),natives/STM/Art/Model/Item/it09/01/0000/it0901_0000_1.mesh
+Charge Blade,Regas Hyper (Sword),natives/STM/Art/Model/Item/it09/01/0000/it0901_0000_0.mesh
+Charge Blade,Regas Hyper (Shield),natives/STM/Art/Model/Item/it09/01/0000/it0901_0000_1.mesh
+Charge Blade,Chata Strongarm I (Sword),natives/STM/Art/Model/Item/it09/00/0000/it0900_0000_0.mesh
+Charge Blade,Chata Strongarm I (Shield),natives/STM/Art/Model/Item/it09/00/0000/it0900_0000_1.mesh
+Charge Blade,Chata Strongarm II (Sword),natives/STM/Art/Model/Item/it09/00/0000/it0900_0000_0.mesh
+Charge Blade,Chata Strongarm II (Shield),natives/STM/Art/Model/Item/it09/00/0000/it0900_0000_1.mesh
+Charge Blade,Chata Strongarm III (Sword),natives/STM/Art/Model/Item/it09/00/0000/it0900_0000_0.mesh
+Charge Blade,Chata Strongarm III (Shield),natives/STM/Art/Model/Item/it09/00/0000/it0900_0000_1.mesh
+Charge Blade,Chata Strongarm IV (Sword),natives/STM/Art/Model/Item/it09/00/0000/it0900_0000_0.mesh
+Charge Blade,Chata Strongarm IV (Shield),natives/STM/Art/Model/Item/it09/00/0000/it0900_0000_1.mesh
+Charge Blade,Barina Bouclier I (Sword),natives/STM/Art/Model/Item/it09/00/0003/it0900_0003_0.mesh
+Charge Blade,Barina Bouclier I (Shield),natives/STM/Art/Model/Item/it09/00/0003/it0900_0003_1.mesh
+Charge Blade,Barina Bouclier II (Sword),natives/STM/Art/Model/Item/it09/00/0003/it0900_0003_0.mesh
+Charge Blade,Barina Bouclier II (Shield),natives/STM/Art/Model/Item/it09/00/0003/it0900_0003_1.mesh
+Charge Blade,Barina Bouclier III (Sword),natives/STM/Art/Model/Item/it09/00/0003/it0900_0003_0.mesh
+Charge Blade,Barina Bouclier III (Shield),natives/STM/Art/Model/Item/it09/00/0003/it0900_0003_1.mesh
+Charge Blade,Barina Bouclier IV (Sword),natives/STM/Art/Model/Item/it09/00/0003/it0900_0003_0.mesh
+Charge Blade,Barina Bouclier IV (Shield),natives/STM/Art/Model/Item/it09/00/0003/it0900_0003_1.mesh
+Charge Blade,Lala Eumenophor (Sword),natives/STM/Art/Model/Item/it09/00/0004/it0900_0004_0.mesh
+Charge Blade,Lala Eumenophor (Shield),natives/STM/Art/Model/Item/it09/00/0004/it0900_0004_1.mesh
+Charge Blade,Uth Valeroje I (Sword),natives/STM/Art/Model/Item/it09/00/0005/it0900_0005_0.mesh
+Charge Blade,Uth Valeroje I (Shield),natives/STM/Art/Model/Item/it09/00/0005/it0900_0005_1.mesh
+Charge Blade,Uth Valeroje II (Sword),natives/STM/Art/Model/Item/it09/00/0005/it0900_0005_0.mesh
+Charge Blade,Uth Valeroje II (Shield),natives/STM/Art/Model/Item/it09/00/0005/it0900_0005_1.mesh
+Charge Blade,Uth Valeroje III (Sword),natives/STM/Art/Model/Item/it09/00/0005/it0900_0005_0.mesh
+Charge Blade,Uth Valeroje III (Shield),natives/STM/Art/Model/Item/it09/00/0005/it0900_0005_1.mesh
+Charge Blade,Valeroje-of-the-Waves (Sword),natives/STM/Art/Model/Item/it09/00/0005/it0900_0005_0.mesh
+Charge Blade,Valeroje-of-the-Waves (Shield),natives/STM/Art/Model/Item/it09/00/0005/it0900_0005_1.mesh
+Charge Blade,Rompo Shielder I (Sword),natives/STM/Art/Model/Item/it09/00/0006/it0900_0006_0.mesh
+Charge Blade,Rompo Shielder I (Shield),natives/STM/Art/Model/Item/it09/00/0006/it0900_0006_1.mesh
+Charge Blade,Rompo Shielder II (Sword),natives/STM/Art/Model/Item/it09/00/0006/it0900_0006_0.mesh
+Charge Blade,Rompo Shielder II (Shield),natives/STM/Art/Model/Item/it09/00/0006/it0900_0006_1.mesh
+Charge Blade,Rompo Shielder III (Sword),natives/STM/Art/Model/Item/it09/00/0006/it0900_0006_0.mesh
+Charge Blade,Rompo Shielder III (Shield),natives/STM/Art/Model/Item/it09/00/0006/it0900_0006_1.mesh
+Charge Blade,Rompo Dendrotox (Sword),natives/STM/Art/Model/Item/it09/00/0006/it0900_0006_0.mesh
+Charge Blade,Rompo Dendrotox (Shield),natives/STM/Art/Model/Item/it09/00/0006/it0900_0006_1.mesh
+Charge Blade,Rey Astrapi I (Sword),natives/STM/Art/Model/Item/it09/00/0007/it0900_0007_0.mesh
+Charge Blade,Rey Astrapi I (Shield),natives/STM/Art/Model/Item/it09/00/0007/it0900_0007_1.mesh
+Charge Blade,Rey Astrapi II (Sword),natives/STM/Art/Model/Item/it09/00/0007/it0900_0007_0.mesh
+Charge Blade,Rey Astrapi II (Shield),natives/STM/Art/Model/Item/it09/00/0007/it0900_0007_1.mesh
+Charge Blade,Rey Astrapi III (Sword),natives/STM/Art/Model/Item/it09/00/0007/it0900_0007_0.mesh
+Charge Blade,Rey Astrapi III (Shield),natives/STM/Art/Model/Item/it09/00/0007/it0900_0007_1.mesh
+Charge Blade,Astrapi Clairaxe (Sword),natives/STM/Art/Model/Item/it09/00/0007/it0900_0007_0.mesh
+Charge Blade,Astrapi Clairaxe (Shield),natives/STM/Art/Model/Item/it09/00/0007/it0900_0007_1.mesh
+Charge Blade,Arachnoscale I (Sword),natives/STM/Art/Model/Item/it09/00/0011/it0900_0011_0.mesh
+Charge Blade,Arachnoscale I (Shield),natives/STM/Art/Model/Item/it09/00/0011/it0900_0011_1.mesh
+Charge Blade,Arachnoscale II (Sword),natives/STM/Art/Model/Item/it09/00/0011/it0900_0011_0.mesh
+Charge Blade,Arachnoscale II (Shield),natives/STM/Art/Model/Item/it09/00/0011/it0900_0011_1.mesh
+Charge Blade,Arachnoscale III (Sword),natives/STM/Art/Model/Item/it09/00/0011/it0900_0011_0.mesh
+Charge Blade,Arachnoscale III (Shield),natives/STM/Art/Model/Item/it09/00/0011/it0900_0011_1.mesh
+Charge Blade,Arachnoscythe (Sword),natives/STM/Art/Model/Item/it09/00/0011/it0900_0011_0.mesh
+Charge Blade,Arachnoscythe (Shield),natives/STM/Art/Model/Item/it09/00/0011/it0900_0011_1.mesh
+Charge Blade,Windthrash Charger I (Sword),natives/STM/Art/Model/Item/it09/00/0012/it0900_0012_0.mesh
+Charge Blade,Windthrash Charger I (Shield),natives/STM/Art/Model/Item/it09/00/0012/it0900_0012_1.mesh
+Charge Blade,Windthrash Charger II (Sword),natives/STM/Art/Model/Item/it09/00/0012/it0900_0012_0.mesh
+Charge Blade,Windthrash Charger II (Shield),natives/STM/Art/Model/Item/it09/00/0012/it0900_0012_1.mesh
+Charge Blade,Windthrash Charger III (Sword),natives/STM/Art/Model/Item/it09/00/0012/it0900_0012_0.mesh
+Charge Blade,Windthrash Charger III (Shield),natives/STM/Art/Model/Item/it09/00/0012/it0900_0012_1.mesh
+Charge Blade,Windthrash Tamebami (Sword),natives/STM/Art/Model/Item/it09/00/0012/it0900_0012_0.mesh
+Charge Blade,Windthrash Tamebami (Shield),natives/STM/Art/Model/Item/it09/00/0012/it0900_0012_1.mesh
+Charge Blade,Nu Pweza I (Sword),natives/STM/Art/Model/Item/it09/00/0013/it0900_0013_0.mesh
+Charge Blade,Nu Pweza I (Shield),natives/STM/Art/Model/Item/it09/00/0013/it0900_0013_1.mesh
+Charge Blade,Nu Pweza II (Sword),natives/STM/Art/Model/Item/it09/00/0013/it0900_0013_0.mesh
+Charge Blade,Nu Pweza II (Shield),natives/STM/Art/Model/Item/it09/00/0013/it0900_0013_1.mesh
+Charge Blade,Abaddonian Pweza (Sword),natives/STM/Art/Model/Item/it09/00/0013/it0900_0013_0.mesh
+Charge Blade,Abaddonian Pweza (Shield),natives/STM/Art/Model/Item/it09/00/0013/it0900_0013_1.mesh
+Charge Blade,Albirath Blade I (Sword),natives/STM/Art/Model/Item/it09/10/0000/it0910_0000_0.mesh
+Charge Blade,Albirath Blade I (Shield),natives/STM/Art/Model/Item/it09/10/0000/it0910_0000_1.mesh
+Charge Blade,Albirath Blade II (Sword),natives/STM/Art/Model/Item/it09/10/0000/it0910_0000_0.mesh
+Charge Blade,Albirath Blade II (Shield),natives/STM/Art/Model/Item/it09/10/0000/it0910_0000_1.mesh
+Charge Blade,Guardian Albathos (Sword),natives/STM/Art/Model/Item/it09/10/0000/it0910_0000_0.mesh
+Charge Blade,Guardian Albathos (Shield),natives/STM/Art/Model/Item/it09/10/0000/it0910_0000_1.mesh
+Charge Blade,Chthonian Flame I (Sword),natives/STM/Art/Model/Item/it09/10/0001/it0910_0001_0.mesh
+Charge Blade,Chthonian Flame I (Shield),natives/STM/Art/Model/Item/it09/10/0001/it0910_0001_1.mesh
+Charge Blade,Chthonian Flame II (Sword),natives/STM/Art/Model/Item/it09/10/0001/it0910_0001_0.mesh
+Charge Blade,Chthonian Flame II (Shield),natives/STM/Art/Model/Item/it09/10/0001/it0910_0001_1.mesh
+Charge Blade,Bequeathed Enmity (Sword),natives/STM/Art/Model/Item/it09/10/0001/it0910_0001_0.mesh
+Charge Blade,Bequeathed Enmity (Shield),natives/STM/Art/Model/Item/it09/10/0001/it0910_0001_1.mesh
+Charge Blade,G. Veldian Labrys I (Sword),natives/STM/Art/Model/Item/it09/00/0020/it0900_0020_0.mesh
+Charge Blade,G. Veldian Labrys I (Shield),natives/STM/Art/Model/Item/it09/00/0020/it0900_0020_1.mesh
+Charge Blade,G. Veldian Labrys II (Sword),natives/STM/Art/Model/Item/it09/00/0020/it0900_0020_0.mesh
+Charge Blade,G. Veldian Labrys II (Shield),natives/STM/Art/Model/Item/it09/00/0020/it0900_0020_1.mesh
+Charge Blade,G. Abiding Gawain (Sword),natives/STM/Art/Model/Item/it09/00/0020/it0900_0020_0.mesh
+Charge Blade,G. Abiding Gawain (Shield),natives/STM/Art/Model/Item/it09/00/0020/it0900_0020_1.mesh
+Charge Blade,Poison Blade I (Sword),natives/STM/Art/Model/Item/it09/00/0016/it0900_0016_0.mesh
+Charge Blade,Poison Blade I (Shield),natives/STM/Art/Model/Item/it09/00/0016/it0900_0016_1.mesh
+Charge Blade,Poison Blade II (Sword),natives/STM/Art/Model/Item/it09/00/0016/it0900_0016_0.mesh
+Charge Blade,Poison Blade II (Shield),natives/STM/Art/Model/Item/it09/00/0016/it0900_0016_1.mesh
+Charge Blade,Venom's Kiss (Sword),natives/STM/Art/Model/Item/it09/00/0016/it0900_0016_0.mesh
+Charge Blade,Venom's Kiss (Shield),natives/STM/Art/Model/Item/it09/00/0016/it0900_0016_1.mesh
+Charge Blade,Dear Lutemis I (Sword),natives/STM/Art/Model/Item/it09/00/0008/it0900_0008_0.mesh
+Charge Blade,Dear Lutemis I (Shield),natives/STM/Art/Model/Item/it09/00/0008/it0900_0008_1.mesh
+Charge Blade,Dear Lutemis II (Sword),natives/STM/Art/Model/Item/it09/00/0008/it0900_0008_0.mesh
+Charge Blade,Dear Lutemis II (Shield),natives/STM/Art/Model/Item/it09/00/0008/it0900_0008_1.mesh
+Charge Blade,Dear Lutemia (Sword),natives/STM/Art/Model/Item/it09/00/0008/it0900_0008_0.mesh
+Charge Blade,Dear Lutemia (Shield),natives/STM/Art/Model/Item/it09/00/0008/it0900_0008_1.mesh
+Charge Blade,Aslat Charger I (Sword),natives/STM/Art/Model/Item/it09/00/0018/it0900_0018_0.mesh
+Charge Blade,Aslat Charger I (Shield),natives/STM/Art/Model/Item/it09/00/0018/it0900_0018_1.mesh
+Charge Blade,Rebellious Charger (Sword),natives/STM/Art/Model/Item/it09/00/0018/it0900_0018_0.mesh
+Charge Blade,Rebellious Charger (Shield),natives/STM/Art/Model/Item/it09/00/0018/it0900_0018_1.mesh
+Charge Blade,Axelion Blade I (Sword),natives/STM/Art/Model/Item/it09/00/0009/it0900_0009_0.mesh
+Charge Blade,Axelion Blade I (Shield),natives/STM/Art/Model/Item/it09/00/0009/it0900_0009_1.mesh
+Charge Blade,Bardichion Blade (Sword),natives/STM/Art/Model/Item/it09/00/0009/it0900_0009_0.mesh
+Charge Blade,Bardichion Blade (Shield),natives/STM/Art/Model/Item/it09/00/0009/it0900_0009_1.mesh
+Charge Blade,Elendskraft I (Sword),natives/STM/Art/Model/Item/it09/00/0010/it0900_0010_0.mesh
+Charge Blade,Elendskraft I (Shield),natives/STM/Art/Model/Item/it09/00/0010/it0900_0010_1.mesh
+Charge Blade,Leidenskraft (Sword),natives/STM/Art/Model/Item/it09/00/0010/it0900_0010_0.mesh
+Charge Blade,Leidenskraft (Shield),natives/STM/Art/Model/Item/it09/00/0010/it0900_0010_1.mesh
+Charge Blade,Veldian Labrys I (Sword),natives/STM/Art/Model/Item/it09/00/0023/it0900_0023_0.mesh
+Charge Blade,Veldian Labrys I (Shield),natives/STM/Art/Model/Item/it09/00/0023/it0900_0023_1.mesh
+Charge Blade,Artian Defender I (Sword),natives/STM/Art/Model/Item/it09/10/0002/it0910_0002_0.mesh
+Charge Blade,Artian Defender I (Shield),natives/STM/Art/Model/Item/it09/10/0002/it0910_0002_1.mesh
+Charge Blade,Artian Defender II (Sword),natives/STM/Art/Model/Item/it09/10/0002/it0910_0002_0.mesh
+Charge Blade,Artian Defender II (Shield),natives/STM/Art/Model/Item/it09/10/0002/it0910_0002_1.mesh
+Charge Blade,Chrono Gear (Sword),natives/STM/Art/Model/Item/it09/10/0002/it0910_0002_0.mesh
+Charge Blade,Chrono Gear (Shield),natives/STM/Art/Model/Item/it09/10/0002/it0910_0002_1.mesh
+Charge Blade,Esperanza Strongarm (Sword),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_0.mesh
+Charge Blade,Esperanza Strongarm (Shield),natives/STM/Art/Model/Item/it09/00/0002/it0900_0002_1.mesh
+Charge Blade,Shrouded Kutharja (Sword),natives/STM/Art/Model/Item/it09/00/0001/it0900_0001_0.mesh
+Charge Blade,Shrouded Kutharja (Shield),natives/STM/Art/Model/Item/it09/00/0001/it0900_0001_1.mesh
+Charge Blade,Abiding Gawain (Sword),natives/STM/Art/Model/Item/it09/00/0023/it0900_0023_0.mesh
+Charge Blade,Abiding Gawain (Shield),natives/STM/Art/Model/Item/it09/00/0023/it0900_0023_1.mesh
+Charge Blade,Zoh Yirmiya I (Sword),natives/STM/Art/Model/Item/it09/00/0021/it0900_0021_0.mesh
+Charge Blade,Zoh Yirmiya I (Shield),natives/STM/Art/Model/Item/it09/00/0021/it0900_0021_1.mesh
+Charge Blade,Blazing Yirmiya (Sword),natives/STM/Art/Model/Item/it09/00/0021/it0900_0021_0.mesh
+Charge Blade,Blazing Yirmiya (Shield),natives/STM/Art/Model/Item/it09/00/0021/it0900_0021_1.mesh
+Charge Blade,Mizuniya Drill I (Sword),natives/STM/Art/Model/Item/it09/00/0014/it0900_0014_0.mesh
+Charge Blade,Mizuniya Drill I (Shield),natives/STM/Art/Model/Item/it09/00/0014/it0900_0014_1.mesh
+Charge Blade,Final Fieldblade (Sword),natives/STM/Art/Model/Item/it09/00/0014/it0900_0014_0.mesh
+Charge Blade,Final Fieldblade (Shield),natives/STM/Art/Model/Item/it09/00/0014/it0900_0014_1.mesh
+Charge Blade,Lagia Storm I (Sword),natives/STM/Art/Model/Item/it09/00/0017/it0900_0017_0.mesh
+Charge Blade,Lagia Storm I (Shield),natives/STM/Art/Model/Item/it09/00/0017/it0900_0017_1.mesh
+Charge Blade,Vankrom Blade (Sword),natives/STM/Art/Model/Item/it09/00/0017/it0900_0017_0.mesh
+Charge Blade,Vankrom Blade (Shield),natives/STM/Art/Model/Item/it09/00/0017/it0900_0017_1.mesh
+Insect Glaive,Hope Glaive I,natives/STM/Art/Model/Item/it10/00/0002/it1000_0002_0.mesh
+Insect Glaive,Hope Glaive II,natives/STM/Art/Model/Item/it10/00/0002/it1000_0002_0.mesh
+Insect Glaive,Hope Glaive III,natives/STM/Art/Model/Item/it10/00/0002/it1000_0002_0.mesh
+Insect Glaive,Hope Glaive IV,natives/STM/Art/Model/Item/it10/00/0002/it1000_0002_0.mesh
+Insect Glaive,Hope Glaive V,natives/STM/Art/Model/Item/it10/00/0002/it1000_0002_0.mesh
+Insect Glaive,Bone Staff I,natives/STM/Art/Model/Item/it10/01/0003/it1001_0003_0.mesh
+Insect Glaive,Bone Staff II,natives/STM/Art/Model/Item/it10/01/0003/it1001_0003_0.mesh
+Insect Glaive,Bone Staff III,natives/STM/Art/Model/Item/it10/01/0003/it1001_0003_0.mesh
+Insect Glaive,Bone Staff IV,natives/STM/Art/Model/Item/it10/01/0003/it1001_0003_0.mesh
+Insect Glaive,Aerial Glaive,natives/STM/Art/Model/Item/it10/01/0003/it1001_0003_0.mesh
+Insect Glaive,Iron Gale I,natives/STM/Art/Model/Item/it10/01/0001/it1001_0001_0.mesh
+Insect Glaive,Iron Gale II,natives/STM/Art/Model/Item/it10/01/0001/it1001_0001_0.mesh
+Insect Glaive,Iron Gale III,natives/STM/Art/Model/Item/it10/01/0001/it1001_0001_0.mesh
+Insect Glaive,Chrome Gale,natives/STM/Art/Model/Item/it10/01/0001/it1001_0001_0.mesh
+Insect Glaive,Chata Glaive I,natives/STM/Art/Model/Item/it10/00/0000/it1000_0000_0.mesh
+Insect Glaive,Chata Glaive II,natives/STM/Art/Model/Item/it10/00/0000/it1000_0000_0.mesh
+Insect Glaive,Chata Glaive III,natives/STM/Art/Model/Item/it10/00/0000/it1000_0000_0.mesh
+Insect Glaive,Chata Glaive IV,natives/STM/Art/Model/Item/it10/00/0000/it1000_0000_0.mesh
+Insect Glaive,Barina Perche I,natives/STM/Art/Model/Item/it10/00/0003/it1000_0003_0.mesh
+Insect Glaive,Barina Perche II,natives/STM/Art/Model/Item/it10/00/0003/it1000_0003_0.mesh
+Insect Glaive,Barina Perche III,natives/STM/Art/Model/Item/it10/00/0003/it1000_0003_0.mesh
+Insect Glaive,Barina Perche IV,natives/STM/Art/Model/Item/it10/00/0003/it1000_0003_0.mesh
+Insect Glaive,Lala Stromatopelm,natives/STM/Art/Model/Item/it10/00/0004/it1000_0004_0.mesh
+Insect Glaive,Balahara Glaive I,natives/STM/Art/Model/Item/it10/00/0005/it1000_0005_0.mesh
+Insect Glaive,Balahara Glaive II,natives/STM/Art/Model/Item/it10/00/0005/it1000_0005_0.mesh
+Insect Glaive,Balahara Glaive III,natives/STM/Art/Model/Item/it10/00/0005/it1000_0005_0.mesh
+Insect Glaive,Balahara Glaive IV,natives/STM/Art/Model/Item/it10/00/0005/it1000_0005_0.mesh
+Insect Glaive,Sandsea Uchaltiya,natives/STM/Art/Model/Item/it10/00/0006/it1000_0006_0.mesh
+Insect Glaive,Rey Halilintar I,natives/STM/Art/Model/Item/it10/00/0007/it1000_0007_0.mesh
+Insect Glaive,Rey Halilintar II,natives/STM/Art/Model/Item/it10/00/0007/it1000_0007_0.mesh
+Insect Glaive,Rey Halilintar III,natives/STM/Art/Model/Item/it10/00/0007/it1000_0007_0.mesh
+Insect Glaive,Halilintar Clairglaive,natives/STM/Art/Model/Item/it10/00/0007/it1000_0007_0.mesh
+Insect Glaive,Stealth Glaive I,natives/STM/Art/Model/Item/it10/00/0011/it1000_0011_0.mesh
+Insect Glaive,Stealth Glaive II,natives/STM/Art/Model/Item/it10/00/0011/it1000_0011_0.mesh
+Insect Glaive,Stealth Glaive III,natives/STM/Art/Model/Item/it10/00/0011/it1000_0011_0.mesh
+Insect Glaive,Stealth Glaive Redux,natives/STM/Art/Model/Item/it10/00/0011/it1000_0011_0.mesh
+Insect Glaive,Ajara Trident I,natives/STM/Art/Model/Item/it10/00/0012/it1000_0012_0.mesh
+Insect Glaive,Ajara Trident II,natives/STM/Art/Model/Item/it10/00/0012/it1000_0012_0.mesh
+Insect Glaive,Ajara-Bhadra,natives/STM/Art/Model/Item/it10/00/0012/it1000_0012_0.mesh
+Insect Glaive,Guardian Rathmaul I,natives/STM/Art/Model/Item/it10/10/0000/it1010_0000_0.mesh
+Insect Glaive,Guardian Rathmaul II,natives/STM/Art/Model/Item/it10/10/0000/it1010_0000_0.mesh
+Insect Glaive,Alabaster Rathmaul,natives/STM/Art/Model/Item/it10/10/0000/it1010_0000_0.mesh
+Insect Glaive,Jin Dhachhad,natives/STM/Art/Model/Item/it10/00/0020/it1000_0020_0.mesh
+Insect Glaive,Precipice Geumgel,natives/STM/Art/Model/Item/it10/00/0020/it1000_0020_0.mesh
+Insect Glaive,Chthonian Vajra I,natives/STM/Art/Model/Item/it10/10/0001/it1010_0001_0.mesh
+Insect Glaive,Chthonian Vajra II,natives/STM/Art/Model/Item/it10/10/0001/it1010_0001_0.mesh
+Insect Glaive,Bequeathed Testament,natives/STM/Art/Model/Item/it10/10/0001/it1010_0001_0.mesh
+Insect Glaive,G. Veldian Trudis I,natives/STM/Art/Model/Item/it10/00/0019/it1000_0019_0.mesh
+Insect Glaive,G. Veldian Trudis II,natives/STM/Art/Model/Item/it10/00/0019/it1000_0019_0.mesh
+Insect Glaive,G. Enduring Tor,natives/STM/Art/Model/Item/it10/00/0019/it1000_0019_0.mesh
+Insect Glaive,Kut-Ku Pike I,natives/STM/Art/Model/Item/it10/00/0014/it1000_0014_0.mesh
+Insect Glaive,Kut-Ku Pike II,natives/STM/Art/Model/Item/it10/00/0014/it1000_0014_0.mesh
+Insect Glaive,Toucan Pike,natives/STM/Art/Model/Item/it10/00/0014/it1000_0014_0.mesh
+Insect Glaive,Princess Regalia I,natives/STM/Art/Model/Item/it10/00/0008/it1000_0008_0.mesh
+Insect Glaive,Princess Regalia II,natives/STM/Art/Model/Item/it10/00/0008/it1000_0008_0.mesh
+Insect Glaive,Queen Regalia,natives/STM/Art/Model/Item/it10/00/0008/it1000_0008_0.mesh
+Insect Glaive,Rising Fulgur I,natives/STM/Art/Model/Item/it10/10/0002/it1010_0002_0.mesh
+Insect Glaive,Fulgurglaive Guardiana,natives/STM/Art/Model/Item/it10/10/0002/it1010_0002_0.mesh
+Insect Glaive,Blizzard Glaive I,natives/STM/Art/Model/Item/it10/00/0017/it1000_0017_0.mesh
+Insect Glaive,Immaculate Blizzard,natives/STM/Art/Model/Item/it10/00/0017/it1000_0017_0.mesh
+Insect Glaive,Graviafaren I,natives/STM/Art/Model/Item/it10/00/0016/it1000_0016_0.mesh
+Insect Glaive,Gravordius,natives/STM/Art/Model/Item/it10/00/0016/it1000_0016_0.mesh
+Insect Glaive,Altair I,natives/STM/Art/Model/Item/it10/00/0015/it1000_0015_0.mesh
+Insect Glaive,Alteal,natives/STM/Art/Model/Item/it10/00/0015/it1000_0015_0.mesh
+Insect Glaive,Rathmaul I,natives/STM/Art/Model/Item/it10/00/0009/it1000_0009_0.mesh
+Insect Glaive,Firedance Rathmaul,natives/STM/Art/Model/Item/it10/00/0009/it1000_0009_0.mesh
+Insect Glaive,Leumundslist,natives/STM/Art/Model/Item/it10/00/0010/it1000_0010_0.mesh
+Insect Glaive,Leumundsgift,natives/STM/Art/Model/Item/it10/00/0010/it1000_0010_0.mesh
+Insect Glaive,Veldian Trudis I,natives/STM/Art/Model/Item/it10/00/0023/it1000_0023_0.mesh
+Insect Glaive,Artian Glaive I,natives/STM/Art/Model/Item/it10/10/0003/it1010_0003_0.mesh
+Insect Glaive,Artian Glaive II,natives/STM/Art/Model/Item/it10/10/0003/it1010_0003_0.mesh
+Insect Glaive,Diprielcha,natives/STM/Art/Model/Item/it10/10/0003/it1010_0003_0.mesh
+Insect Glaive,Esperanza Glaive,natives/STM/Art/Model/Item/it10/00/0002/it1000_0002_0.mesh
+Insect Glaive,Shrouded Laphoka,natives/STM/Art/Model/Item/it10/00/0001/it1000_0001_0.mesh
+Insect Glaive,Enduring Tor,natives/STM/Art/Model/Item/it10/00/0023/it1000_0023_0.mesh
+Insect Glaive,Zoh Katir I,natives/STM/Art/Model/Item/it10/00/0021/it1000_0021_0.mesh
+Insect Glaive,Blazing Katir,natives/STM/Art/Model/Item/it10/00/0021/it1000_0021_0.mesh
+Insect Glaive,Fox Halberd I,natives/STM/Art/Model/Item/it10/00/0026/it1000_0026_0.mesh
+Insect Glaive,Curved Naganagi,natives/STM/Art/Model/Item/it10/00/0026/it1000_0026_0.mesh
+Insect Glaive,Thunder Glaive Triacrus I,natives/STM/Art/Model/Item/it10/00/0028/it1000_0028_0.mesh
+Insect Glaive,Fractal Glaive Boltlagia,natives/STM/Art/Model/Item/it10/00/0028/it1000_0028_0.mesh
+Insect Glaive,Vanguard's Glaive,natives/STM/Art/Model/Item/it10/00/0024/it1000_0024_0.mesh
+Insect Glaive,Vanguard's Pride,natives/STM/Art/Model/Item/it10/00/0024/it1000_0024_0.mesh
+Bow,Hope Bow I (Bow),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_0.mesh
+Bow,Hope Bow I (Quiver),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_1.mesh
+Bow,Hope Bow II (Bow),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_0.mesh
+Bow,Hope Bow II (Quiver),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_1.mesh
+Bow,Hope Bow III (Bow),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_0.mesh
+Bow,Hope Bow III (Quiver),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_1.mesh
+Bow,Hope Bow IV (Bow),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_0.mesh
+Bow,Hope Bow IV (Quiver),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_1.mesh
+Bow,Hope Bow V (Bow),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_0.mesh
+Bow,Hope Bow V (Quiver),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_1.mesh
+Bow,Nihil Bow I (Bow),natives/STM/Art/Model/Item/it11/00/0022/it1100_0022_0.mesh
+Bow,Nihil Bow I (Quiver),natives/STM/Art/Model/Item/it11/00/0022/it1100_0022_1.mesh
+Bow,Nihil Bow II (Bow),natives/STM/Art/Model/Item/it11/00/0022/it1100_0022_0.mesh
+Bow,Nihil Bow II (Quiver),natives/STM/Art/Model/Item/it11/00/0022/it1100_0022_1.mesh
+Bow,Bookwilthe's Punisher (Bow),natives/STM/Art/Model/Item/it11/00/0022/it1100_0022_0.mesh
+Bow,Bookwilthe's Punisher (Quiver),natives/STM/Art/Model/Item/it11/00/0022/it1100_0022_1.mesh
+Bow,Rey Perkonis I (Bow),natives/STM/Art/Model/Item/it11/00/0007/it1100_0007_0.mesh
+Bow,Rey Perkonis I (Quiver),natives/STM/Art/Model/Item/it11/00/0007/it1100_0007_1.mesh
+Bow,Rey Perkonis II (Bow),natives/STM/Art/Model/Item/it11/00/0007/it1100_0007_0.mesh
+Bow,Rey Perkonis II (Quiver),natives/STM/Art/Model/Item/it11/00/0007/it1100_0007_1.mesh
+Bow,Rey Perkonis III (Bow),natives/STM/Art/Model/Item/it11/00/0007/it1100_0007_0.mesh
+Bow,Rey Perkonis III (Quiver),natives/STM/Art/Model/Item/it11/00/0007/it1100_0007_1.mesh
+Bow,Perkonis Clairbow (Bow),natives/STM/Art/Model/Item/it11/00/0007/it1100_0007_0.mesh
+Bow,Perkonis Clairbow (Quiver),natives/STM/Art/Model/Item/it11/00/0007/it1100_0007_1.mesh
+Bow,Shalya Bow I (Bow),natives/STM/Art/Model/Item/it11/00/0017/it1100_0017_0.mesh
+Bow,Shalya Bow I (Quiver),natives/STM/Art/Model/Item/it11/00/0017/it1100_0017_1.mesh
+Bow,Insurgent Bow (Bow),natives/STM/Art/Model/Item/it11/00/0017/it1100_0017_0.mesh
+Bow,Insurgent Bow (Quiver),natives/STM/Art/Model/Item/it11/00/0017/it1100_0017_1.mesh
+Bow,Windbrace Bow I (Bow),natives/STM/Art/Model/Item/it11/00/0012/it1100_0012_0.mesh
+Bow,Windbrace Bow I (Quiver),natives/STM/Art/Model/Item/it11/00/0012/it1100_0012_1.mesh
+Bow,Windbrace Bow II (Bow),natives/STM/Art/Model/Item/it11/00/0012/it1100_0012_0.mesh
+Bow,Windbrace Bow II (Quiver),natives/STM/Art/Model/Item/it11/00/0012/it1100_0012_1.mesh
+Bow,Windbrace Bow III (Bow),natives/STM/Art/Model/Item/it11/00/0012/it1100_0012_0.mesh
+Bow,Windbrace Bow III (Quiver),natives/STM/Art/Model/Item/it11/00/0012/it1100_0012_1.mesh
+Bow,Windbrace Ibami (Bow),natives/STM/Art/Model/Item/it11/00/0012/it1100_0012_0.mesh
+Bow,Windbrace Ibami (Quiver),natives/STM/Art/Model/Item/it11/00/0012/it1100_0012_1.mesh
+Bow,Quematrice Arco I (Bow),natives/STM/Art/Model/Item/it11/00/0001/it1100_0001_0.mesh
+Bow,Quematrice Arco I (Quiver),natives/STM/Art/Model/Item/it11/00/0001/it1100_0001_1.mesh
+Bow,Quematrice Arco II (Bow),natives/STM/Art/Model/Item/it11/00/0001/it1100_0001_0.mesh
+Bow,Quematrice Arco II (Quiver),natives/STM/Art/Model/Item/it11/00/0001/it1100_0001_1.mesh
+Bow,Quematrice Arco III (Bow),natives/STM/Art/Model/Item/it11/00/0001/it1100_0001_0.mesh
+Bow,Quematrice Arco III (Quiver),natives/STM/Art/Model/Item/it11/00/0001/it1100_0001_1.mesh
+Bow,Quematrice Arco IV (Bow),natives/STM/Art/Model/Item/it11/00/0001/it1100_0001_0.mesh
+Bow,Quematrice Arco IV (Quiver),natives/STM/Art/Model/Item/it11/00/0001/it1100_0001_1.mesh
+Bow,Firetrail Leviora (Bow),natives/STM/Art/Model/Item/it11/00/0002/it1100_0002_0.mesh
+Bow,Firetrail Leviora (Quiver),natives/STM/Art/Model/Item/it11/00/0002/it1100_0002_1.mesh
+Bow,Dragon Perforator I (Bow),natives/STM/Art/Model/Item/it11/01/0001/it1101_0001_0.mesh
+Bow,Dragon Perforator I (Quiver),natives/STM/Art/Model/Item/it11/01/0001/it1101_0001_1.mesh
+Bow,Dragon Perforator II (Bow),natives/STM/Art/Model/Item/it11/01/0001/it1101_0001_0.mesh
+Bow,Dragon Perforator II (Quiver),natives/STM/Art/Model/Item/it11/01/0001/it1101_0001_1.mesh
+Bow,Dragon Perforator III (Bow),natives/STM/Art/Model/Item/it11/01/0001/it1101_0001_0.mesh
+Bow,Dragon Perforator III (Quiver),natives/STM/Art/Model/Item/it11/01/0001/it1101_0001_1.mesh
+Bow,True Dragon Perforator (Bow),natives/STM/Art/Model/Item/it11/01/0001/it1101_0001_0.mesh
+Bow,True Dragon Perforator (Quiver),natives/STM/Art/Model/Item/it11/01/0001/it1101_0001_1.mesh
+Bow,Albirath Bow I (Bow),natives/STM/Art/Model/Item/it11/10/0000/it1110_0000_0.mesh
+Bow,Albirath Bow I (Quiver),natives/STM/Art/Model/Item/it11/10/0000/it1110_0000_1.mesh
+Bow,Albirath Bow II (Bow),natives/STM/Art/Model/Item/it11/10/0000/it1110_0000_0.mesh
+Bow,Albirath Bow II (Quiver),natives/STM/Art/Model/Item/it11/10/0000/it1110_0000_1.mesh
+Bow,Solar Spicule (Bow),natives/STM/Art/Model/Item/it11/10/0000/it1110_0000_0.mesh
+Bow,Solar Spicule (Quiver),natives/STM/Art/Model/Item/it11/10/0000/it1110_0000_1.mesh
+Bow,Prominence Bow I (Bow),natives/STM/Art/Model/Item/it11/00/0009/it1100_0009_0.mesh
+Bow,Prominence Bow I (Quiver),natives/STM/Art/Model/Item/it11/00/0009/it1100_0009_1.mesh
+Bow,Dark Filament (Bow),natives/STM/Art/Model/Item/it11/00/0009/it1100_0009_0.mesh
+Bow,Dark Filament (Quiver),natives/STM/Art/Model/Item/it11/00/0009/it1100_0009_1.mesh
+Bow,Queen Blaster I (Bow),natives/STM/Art/Model/Item/it11/00/0008/it1100_0008_0.mesh
+Bow,Queen Blaster I (Quiver),natives/STM/Art/Model/Item/it11/00/0008/it1100_0008_1.mesh
+Bow,Queen Blaster II (Bow),natives/STM/Art/Model/Item/it11/00/0008/it1100_0008_0.mesh
+Bow,Queen Blaster II (Quiver),natives/STM/Art/Model/Item/it11/00/0008/it1100_0008_1.mesh
+Bow,Queen's Melody (Bow),natives/STM/Art/Model/Item/it11/00/0008/it1100_0008_0.mesh
+Bow,Queen's Melody (Quiver),natives/STM/Art/Model/Item/it11/00/0008/it1100_0008_1.mesh
+Bow,Scylla Fist I (Bow),natives/STM/Art/Model/Item/it11/00/0011/it1100_0011_0.mesh
+Bow,Scylla Fist I (Quiver),natives/STM/Art/Model/Item/it11/00/0011/it1100_0011_1.mesh
+Bow,Scylla Fist II (Bow),natives/STM/Art/Model/Item/it11/00/0011/it1100_0011_0.mesh
+Bow,Scylla Fist II (Quiver),natives/STM/Art/Model/Item/it11/00/0011/it1100_0011_1.mesh
+Bow,Scylla Fist III (Bow),natives/STM/Art/Model/Item/it11/00/0011/it1100_0011_0.mesh
+Bow,Scylla Fist III (Quiver),natives/STM/Art/Model/Item/it11/00/0011/it1100_0011_1.mesh
+Bow,Nershock (Bow),natives/STM/Art/Model/Item/it11/00/0011/it1100_0011_0.mesh
+Bow,Nershock (Quiver),natives/STM/Art/Model/Item/it11/00/0011/it1100_0011_1.mesh
+Bow,Dosha Fearbringer I (Bow),natives/STM/Art/Model/Item/it11/00/0004/it1100_0004_0.mesh
+Bow,Dosha Fearbringer I (Quiver),natives/STM/Art/Model/Item/it11/00/0004/it1100_0004_1.mesh
+Bow,Dosha Fearbringer II (Bow),natives/STM/Art/Model/Item/it11/00/0004/it1100_0004_0.mesh
+Bow,Dosha Fearbringer II (Quiver),natives/STM/Art/Model/Item/it11/00/0004/it1100_0004_1.mesh
+Bow,Dosha Fearbringer III (Bow),natives/STM/Art/Model/Item/it11/00/0004/it1100_0004_0.mesh
+Bow,Dosha Fearbringer III (Quiver),natives/STM/Art/Model/Item/it11/00/0004/it1100_0004_1.mesh
+Bow,Dosha Griefbringer I (Bow),natives/STM/Art/Model/Item/it11/10/0001/it1110_0001_0.mesh
+Bow,Dosha Griefbringer I (Quiver),natives/STM/Art/Model/Item/it11/10/0001/it1110_0001_1.mesh
+Bow,Dosha Griefbringer II (Bow),natives/STM/Art/Model/Item/it11/10/0001/it1110_0001_0.mesh
+Bow,Dosha Griefbringer II (Quiver),natives/STM/Art/Model/Item/it11/10/0001/it1110_0001_1.mesh
+Bow,Griefbringer Urstox (Bow),natives/STM/Art/Model/Item/it11/10/0001/it1110_0001_0.mesh
+Bow,Griefbringer Urstox (Quiver),natives/STM/Art/Model/Item/it11/10/0001/it1110_0001_1.mesh
+Bow,Hunter's Bow I (Bow),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_0.mesh
+Bow,Hunter's Bow I (Quiver),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_1.mesh
+Bow,Hunter's Bow II (Bow),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_0.mesh
+Bow,Hunter's Bow II (Quiver),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_1.mesh
+Bow,Hunter's Bow III (Bow),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_0.mesh
+Bow,Hunter's Bow III (Quiver),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_1.mesh
+Bow,Hunter's Bow IV (Bow),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_0.mesh
+Bow,Hunter's Bow IV (Quiver),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_1.mesh
+Bow,Hunter's Stoutbow (Bow),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_0.mesh
+Bow,Hunter's Stoutbow (Quiver),natives/STM/Art/Model/Item/it11/01/0003/it1101_0003_1.mesh
+Bow,Blinding Fulgur I (Bow),natives/STM/Art/Model/Item/it11/10/0002/it1110_0002_0.mesh
+Bow,Blinding Fulgur I (Quiver),natives/STM/Art/Model/Item/it11/10/0002/it1110_0002_1.mesh
+Bow,Fulgurbow Guardiana (Bow),natives/STM/Art/Model/Item/it11/10/0002/it1110_0002_0.mesh
+Bow,Fulgurbow Guardiana (Quiver),natives/STM/Art/Model/Item/it11/10/0002/it1110_0002_1.mesh
+Bow,Uth Khviluk I (Bow),natives/STM/Art/Model/Item/it11/00/0006/it1100_0006_0.mesh
+Bow,Uth Khviluk I (Quiver),natives/STM/Art/Model/Item/it11/00/0006/it1100_0006_1.mesh
+Bow,Uth Khviluk II (Bow),natives/STM/Art/Model/Item/it11/00/0006/it1100_0006_0.mesh
+Bow,Uth Khviluk II (Quiver),natives/STM/Art/Model/Item/it11/00/0006/it1100_0006_1.mesh
+Bow,Uth Khviluk III (Bow),natives/STM/Art/Model/Item/it11/00/0006/it1100_0006_0.mesh
+Bow,Uth Khviluk III (Quiver),natives/STM/Art/Model/Item/it11/00/0006/it1100_0006_1.mesh
+Bow,Khviluk-of-the-Waves (Bow),natives/STM/Art/Model/Item/it11/00/0006/it1100_0006_0.mesh
+Bow,Khviluk-of-the-Waves (Quiver),natives/STM/Art/Model/Item/it11/00/0006/it1100_0006_1.mesh
+Bow,Entbehrung I (Bow),natives/STM/Art/Model/Item/it11/00/0010/it1100_0010_0.mesh
+Bow,Entbehrung I (Quiver),natives/STM/Art/Model/Item/it11/00/0010/it1100_0010_1.mesh
+Bow,Verzweiflung (Bow),natives/STM/Art/Model/Item/it11/00/0010/it1100_0010_0.mesh
+Bow,Verzweiflung (Quiver),natives/STM/Art/Model/Item/it11/00/0010/it1100_0010_1.mesh
+Bow,Wild Power Bow I (Bow),natives/STM/Art/Model/Item/it11/00/0003/it1100_0003_0.mesh
+Bow,Wild Power Bow I (Quiver),natives/STM/Art/Model/Item/it11/00/0003/it1100_0003_1.mesh
+Bow,Wild Power Bow II (Bow),natives/STM/Art/Model/Item/it11/00/0003/it1100_0003_0.mesh
+Bow,Wild Power Bow II (Quiver),natives/STM/Art/Model/Item/it11/00/0003/it1100_0003_1.mesh
+Bow,Wildwood Kalifa (Bow),natives/STM/Art/Model/Item/it11/00/0003/it1100_0003_0.mesh
+Bow,Wildwood Kalifa (Quiver),natives/STM/Art/Model/Item/it11/00/0003/it1100_0003_1.mesh
+Bow,Blan Sharanga I (Bow),natives/STM/Art/Model/Item/it11/00/0018/it1100_0018_0.mesh
+Bow,Blan Sharanga I (Quiver),natives/STM/Art/Model/Item/it11/00/0018/it1100_0018_1.mesh
+Bow,Singha Sharanga (Bow),natives/STM/Art/Model/Item/it11/00/0018/it1100_0018_0.mesh
+Bow,Singha Sharanga (Quiver),natives/STM/Art/Model/Item/it11/00/0018/it1100_0018_1.mesh
+Bow,Kut-Ku Stave I (Bow),natives/STM/Art/Model/Item/it11/00/0015/it1100_0015_0.mesh
+Bow,Kut-Ku Stave I (Quiver),natives/STM/Art/Model/Item/it11/00/0015/it1100_0015_1.mesh
+Bow,Kut-Ku Stave II (Bow),natives/STM/Art/Model/Item/it11/00/0015/it1100_0015_0.mesh
+Bow,Kut-Ku Stave II (Quiver),natives/STM/Art/Model/Item/it11/00/0015/it1100_0015_1.mesh
+Bow,Strange Kut-Ku Stave (Bow),natives/STM/Art/Model/Item/it11/00/0015/it1100_0015_0.mesh
+Bow,Strange Kut-Ku Stave (Quiver),natives/STM/Art/Model/Item/it11/00/0015/it1100_0015_1.mesh
+Bow,G. Veldian Arcum I (Bow),natives/STM/Art/Model/Item/it11/00/0020/it1100_0020_0.mesh
+Bow,G. Veldian Arcum I (Quiver),natives/STM/Art/Model/Item/it11/00/0020/it1100_0020_1.mesh
+Bow,G. Veldian Arcum II (Bow),natives/STM/Art/Model/Item/it11/00/0020/it1100_0020_0.mesh
+Bow,G. Veldian Arcum II (Quiver),natives/STM/Art/Model/Item/it11/00/0020/it1100_0020_1.mesh
+Bow,G. Renowned Tristram (Bow),natives/STM/Art/Model/Item/it11/00/0020/it1100_0020_0.mesh
+Bow,G. Renowned Tristram (Quiver),natives/STM/Art/Model/Item/it11/00/0020/it1100_0020_1.mesh
+Bow,Veldian Arcum I (Bow),natives/STM/Art/Model/Item/it11/00/0025/it1100_0025_0.mesh
+Bow,Veldian Arcum I (Quiver),natives/STM/Art/Model/Item/it11/00/0025/it1100_0025_1.mesh
+Bow,Artian Sight I (Bow),natives/STM/Art/Model/Item/it11/10/0003/it1110_0003_0.mesh
+Bow,Artian Sight I (Quiver),natives/STM/Art/Model/Item/it11/10/0003/it1110_0003_1.mesh
+Bow,Artian Sight II (Bow),natives/STM/Art/Model/Item/it11/10/0003/it1110_0003_0.mesh
+Bow,Artian Sight II (Quiver),natives/STM/Art/Model/Item/it11/10/0003/it1110_0003_1.mesh
+Bow,Angelbein (Bow),natives/STM/Art/Model/Item/it11/10/0003/it1110_0003_0.mesh
+Bow,Angelbein (Quiver),natives/STM/Art/Model/Item/it11/10/0003/it1110_0003_1.mesh
+Bow,Zoh Samira I (Bow),natives/STM/Art/Model/Item/it11/00/0023/it1100_0023_0.mesh
+Bow,Zoh Samira I (Quiver),natives/STM/Art/Model/Item/it11/00/0023/it1100_0023_1.mesh
+Bow,Blazing Samira (Bow),natives/STM/Art/Model/Item/it11/00/0023/it1100_0023_0.mesh
+Bow,Blazing Samira (Quiver),natives/STM/Art/Model/Item/it11/00/0023/it1100_0023_1.mesh
+Bow,Esperanza Bow (Bow),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_0.mesh
+Bow,Esperanza Bow (Quiver),natives/STM/Art/Model/Item/it11/00/0000/it1100_0000_1.mesh
+Bow,Fearbringer Callistox (Bow),natives/STM/Art/Model/Item/it11/00/0005/it1100_0005_0.mesh
+Bow,Fearbringer Callistox (Quiver),natives/STM/Art/Model/Item/it11/00/0005/it1100_0005_1.mesh
+Bow,Renowned Tristram (Bow),natives/STM/Art/Model/Item/it11/00/0025/it1100_0025_0.mesh
+Bow,Renowned Tristram (Quiver),natives/STM/Art/Model/Item/it11/00/0025/it1100_0025_1.mesh
+Bow,Blessed Rain I (Bow),natives/STM/Art/Model/Item/it11/00/0021/it1100_0021_0.mesh
+Bow,Blessed Rain I (Quiver),natives/STM/Art/Model/Item/it11/00/0021/it1100_0021_1.mesh
+Bow,Heaven's Manna (Bow),natives/STM/Art/Model/Item/it11/00/0021/it1100_0021_0.mesh
+Bow,Heaven's Manna (Quiver),natives/STM/Art/Model/Item/it11/00/0021/it1100_0021_1.mesh
+Bow,Boltsender I (Bow),natives/STM/Art/Model/Item/it11/00/0016/it1100_0016_0.mesh
+Bow,Boltsender I (Quiver),natives/STM/Art/Model/Item/it11/00/0016/it1100_0016_1.mesh
+Bow,High Voltsender (Bow),natives/STM/Art/Model/Item/it11/00/0016/it1100_0016_0.mesh
+Bow,High Voltsender (Quiver),natives/STM/Art/Model/Item/it11/00/0016/it1100_0016_1.mesh
+Heavy Bowgun,Hope Cannon I,natives/STM/Art/Model/Item/it12/00/0003/it1200_0003_0.mesh
+Heavy Bowgun,Hope Cannon II,natives/STM/Art/Model/Item/it12/00/0003/it1200_0003_0.mesh
+Heavy Bowgun,Hope Cannon III,natives/STM/Art/Model/Item/it12/00/0003/it1200_0003_0.mesh
+Heavy Bowgun,Hope Cannon IV,natives/STM/Art/Model/Item/it12/00/0003/it1200_0003_0.mesh
+Heavy Bowgun,Hope Cannon V,natives/STM/Art/Model/Item/it12/00/0003/it1200_0003_0.mesh
+Heavy Bowgun,Chata Sheller I,natives/STM/Art/Model/Item/it12/00/0000/it1200_0000_0.mesh
+Heavy Bowgun,Chata Sheller II,natives/STM/Art/Model/Item/it12/00/0000/it1200_0000_0.mesh
+Heavy Bowgun,Chata Sheller III,natives/STM/Art/Model/Item/it12/00/0000/it1200_0000_0.mesh
+Heavy Bowgun,Chata Sheller IV,natives/STM/Art/Model/Item/it12/00/0000/it1200_0000_0.mesh
+Heavy Bowgun,Power Stinger I,natives/STM/Art/Model/Item/it12/00/0004/it1200_0004_0.mesh
+Heavy Bowgun,Power Stinger II,natives/STM/Art/Model/Item/it12/00/0004/it1200_0004_0.mesh
+Heavy Bowgun,Wild Stinger,natives/STM/Art/Model/Item/it12/00/0004/it1200_0004_0.mesh
+Heavy Bowgun,Uth Dalgap I,natives/STM/Art/Model/Item/it12/00/0005/it1200_0005_0.mesh
+Heavy Bowgun,Uth Dalgap II,natives/STM/Art/Model/Item/it12/00/0005/it1200_0005_0.mesh
+Heavy Bowgun,Uth Dalgap III,natives/STM/Art/Model/Item/it12/00/0005/it1200_0005_0.mesh
+Heavy Bowgun,Dalgap-of-the-Waves,natives/STM/Art/Model/Item/it12/00/0005/it1200_0005_0.mesh
+Heavy Bowgun,Rompo Sniper I,natives/STM/Art/Model/Item/it12/00/0006/it1200_0006_0.mesh
+Heavy Bowgun,Rompo Sniper II,natives/STM/Art/Model/Item/it12/00/0006/it1200_0006_0.mesh
+Heavy Bowgun,Rompo Sniper III,natives/STM/Art/Model/Item/it12/00/0006/it1200_0006_0.mesh
+Heavy Bowgun,Rompo Latrotox,natives/STM/Art/Model/Item/it12/00/0006/it1200_0006_0.mesh
+Heavy Bowgun,Ner Bustergun I,natives/STM/Art/Model/Item/it12/00/0009/it1200_0009_0.mesh
+Heavy Bowgun,Ner Bustergun II,natives/STM/Art/Model/Item/it12/00/0009/it1200_0009_0.mesh
+Heavy Bowgun,Ner Bustergun III,natives/STM/Art/Model/Item/it12/00/0009/it1200_0009_0.mesh
+Heavy Bowgun,Buster Blaster,natives/STM/Art/Model/Item/it12/00/0009/it1200_0009_0.mesh
+Heavy Bowgun,Nu Muneo I,natives/STM/Art/Model/Item/it12/00/0010/it1200_0010_0.mesh
+Heavy Bowgun,Nu Muneo II,natives/STM/Art/Model/Item/it12/00/0010/it1200_0010_0.mesh
+Heavy Bowgun,Abaddonian Muneo,natives/STM/Art/Model/Item/it12/00/0010/it1200_0010_0.mesh
+Heavy Bowgun,Jin Dhaphal I,natives/STM/Art/Model/Item/it12/00/0020/it1200_0020_0.mesh
+Heavy Bowgun,Precipice Malmiam,natives/STM/Art/Model/Item/it12/00/0020/it1200_0020_0.mesh
+Heavy Bowgun,Iron Assault I,natives/STM/Art/Model/Item/it12/01/0000/it1201_0000_0.mesh
+Heavy Bowgun,Iron Assault II,natives/STM/Art/Model/Item/it12/01/0000/it1201_0000_0.mesh
+Heavy Bowgun,Iron Assault III,natives/STM/Art/Model/Item/it12/01/0000/it1201_0000_0.mesh
+Heavy Bowgun,Steel Assault,natives/STM/Art/Model/Item/it12/01/0000/it1201_0000_0.mesh
+Heavy Bowgun,Bone Shooter I,natives/STM/Art/Model/Item/it12/01/0001/it1201_0001_0.mesh
+Heavy Bowgun,Bone Shooter II,natives/STM/Art/Model/Item/it12/01/0001/it1201_0001_0.mesh
+Heavy Bowgun,Bone Shooter III,natives/STM/Art/Model/Item/it12/01/0001/it1201_0001_0.mesh
+Heavy Bowgun,Bone Shooter IV,natives/STM/Art/Model/Item/it12/01/0001/it1201_0001_0.mesh
+Heavy Bowgun,Heavy Shooter,natives/STM/Art/Model/Item/it12/01/0001/it1201_0001_0.mesh
+Heavy Bowgun,Yian Kut-Ku Cannon I,natives/STM/Art/Model/Item/it12/00/0012/it1200_0012_0.mesh
+Heavy Bowgun,Yian Kut-Ku Cannon II,natives/STM/Art/Model/Item/it12/00/0012/it1200_0012_0.mesh
+Heavy Bowgun,Super Kut-Ku Cannon,natives/STM/Art/Model/Item/it12/00/0012/it1200_0012_0.mesh
+Heavy Bowgun,Tankmage I,natives/STM/Art/Model/Item/it12/00/0013/it1200_0013_0.mesh
+Heavy Bowgun,Tankmage II,natives/STM/Art/Model/Item/it12/00/0013/it1200_0013_0.mesh
+Heavy Bowgun,Tanksorcerer,natives/STM/Art/Model/Item/it12/00/0013/it1200_0013_0.mesh
+Heavy Bowgun,Queen's Longfire I,natives/STM/Art/Model/Item/it12/00/0007/it1200_0007_0.mesh
+Heavy Bowgun,Queen's Longfire II,natives/STM/Art/Model/Item/it12/00/0007/it1200_0007_0.mesh
+Heavy Bowgun,Queen's Farflier,natives/STM/Art/Model/Item/it12/00/0007/it1200_0007_0.mesh
+Heavy Bowgun,Grounding Fulgur I,natives/STM/Art/Model/Item/it12/10/0000/it1210_0000_0.mesh
+Heavy Bowgun,Fulgurblast Guardiana,natives/STM/Art/Model/Item/it12/10/0000/it1210_0000_0.mesh
+Heavy Bowgun,Sayyad Cannon I,natives/STM/Art/Model/Item/it12/00/0015/it1200_0015_0.mesh
+Heavy Bowgun,Insurrection Cannon,natives/STM/Art/Model/Item/it12/00/0015/it1200_0015_0.mesh
+Heavy Bowgun,Gravios Howl I,natives/STM/Art/Model/Item/it12/00/0016/it1200_0016_0.mesh
+Heavy Bowgun,Gravios Gigahowl,natives/STM/Art/Model/Item/it12/00/0016/it1200_0016_0.mesh
+Heavy Bowgun,Tödlicher Abzug I,natives/STM/Art/Model/Item/it12/00/0008/it1200_0008_0.mesh
+Heavy Bowgun,Ableben Abzug,natives/STM/Art/Model/Item/it12/00/0008/it1200_0008_0.mesh
+Heavy Bowgun,G. Veldian Tormentum I,natives/STM/Art/Model/Item/it12/00/0018/it1200_0018_0.mesh
+Heavy Bowgun,G. Veldian Tormentum II,natives/STM/Art/Model/Item/it12/00/0018/it1200_0018_0.mesh
+Heavy Bowgun,G. Aeternal Palamedes,natives/STM/Art/Model/Item/it12/00/0018/it1200_0018_0.mesh
+Heavy Bowgun,Veldian Tormentum I,natives/STM/Art/Model/Item/it12/00/0023/it1200_0023_0.mesh
+Heavy Bowgun,Artian Sheller I,natives/STM/Art/Model/Item/it12/10/0001/it1210_0001_0.mesh
+Heavy Bowgun,Artian Sheller II,natives/STM/Art/Model/Item/it12/10/0001/it1210_0001_0.mesh
+Heavy Bowgun,Greifen,natives/STM/Art/Model/Item/it12/10/0001/it1210_0001_0.mesh
+Heavy Bowgun,Zoh Mitran I,natives/STM/Art/Model/Item/it12/00/0021/it1200_0021_0.mesh
+Heavy Bowgun,Blazing Mitran,natives/STM/Art/Model/Item/it12/00/0021/it1200_0021_0.mesh
+Heavy Bowgun,Esperanza Cannon,natives/STM/Art/Model/Item/it12/00/0003/it1200_0003_0.mesh
+Heavy Bowgun,Shrouded Muktana,natives/STM/Art/Model/Item/it12/00/0001/it1200_0001_0.mesh
+Heavy Bowgun,Aeternal Palamedes,natives/STM/Art/Model/Item/it12/00/0023/it1200_0023_0.mesh
+Heavy Bowgun,Cirrus Blaster I,natives/STM/Art/Model/Item/it12/00/0019/it1200_0019_0.mesh
+Heavy Bowgun,Mountainous Roar,natives/STM/Art/Model/Item/it12/00/0019/it1200_0019_0.mesh
+Heavy Bowgun,Lagia Blitz I,natives/STM/Art/Model/Item/it12/00/0014/it1200_0014_0.mesh
+Heavy Bowgun,Thunderblitz Cannon,natives/STM/Art/Model/Item/it12/00/0014/it1200_0014_0.mesh
+Light Bowgun,Hope Rifle I,natives/STM/Art/Model/Item/it13/00/0001/it1300_0001_0.mesh
+Light Bowgun,Hope Rifle II,natives/STM/Art/Model/Item/it13/00/0001/it1300_0001_0.mesh
+Light Bowgun,Hope Rifle III,natives/STM/Art/Model/Item/it13/00/0001/it1300_0001_0.mesh
+Light Bowgun,Hope Rifle IV,natives/STM/Art/Model/Item/it13/00/0001/it1300_0001_0.mesh
+Light Bowgun,Hope Rifle V,natives/STM/Art/Model/Item/it13/00/0001/it1300_0001_0.mesh
+Light Bowgun,Kut-Ku Anger I,natives/STM/Art/Model/Item/it13/00/0013/it1300_0013_0.mesh
+Light Bowgun,Kut-Ku Anger II,natives/STM/Art/Model/Item/it13/00/0013/it1300_0013_0.mesh
+Light Bowgun,Kut-Ku Counterattack,natives/STM/Art/Model/Item/it13/00/0013/it1300_0013_0.mesh
+Light Bowgun,Fäulnisschleuder I,natives/STM/Art/Model/Item/it13/00/0008/it1300_0008_0.mesh
+Light Bowgun,Wahnschleuder,natives/STM/Art/Model/Item/it13/00/0008/it1300_0008_0.mesh
+Light Bowgun,Rey Szelatya I,natives/STM/Art/Model/Item/it13/00/0005/it1300_0005_0.mesh
+Light Bowgun,Rey Szelatya II,natives/STM/Art/Model/Item/it13/00/0005/it1300_0005_0.mesh
+Light Bowgun,Rey Szelatya III,natives/STM/Art/Model/Item/it13/00/0005/it1300_0005_0.mesh
+Light Bowgun,Szelatya Clairgun,natives/STM/Art/Model/Item/it13/00/0005/it1300_0005_0.mesh
+Light Bowgun,Rasasa Bowgun I,natives/STM/Art/Model/Item/it13/00/0015/it1300_0015_0.mesh
+Light Bowgun,Rebel Stopper,natives/STM/Art/Model/Item/it13/00/0015/it1300_0015_0.mesh
+Light Bowgun,Dosha Faithbreaker I,natives/STM/Art/Model/Item/it13/00/0003/it1300_0003_0.mesh
+Light Bowgun,Dosha Faithbreaker II,natives/STM/Art/Model/Item/it13/00/0003/it1300_0003_0.mesh
+Light Bowgun,Dosha Faithbreaker III,natives/STM/Art/Model/Item/it13/00/0003/it1300_0003_0.mesh
+Light Bowgun,Dosha Gigasbreaker I,natives/STM/Art/Model/Item/it13/10/0002/it1310_0002_0.mesh
+Light Bowgun,Dosha Gigasbreaker II,natives/STM/Art/Model/Item/it13/10/0002/it1310_0002_0.mesh
+Light Bowgun,Gigasbreaker Urbolkule,natives/STM/Art/Model/Item/it13/10/0002/it1310_0002_0.mesh
+Light Bowgun,Chain Blitz I,natives/STM/Art/Model/Item/it13/01/0000/it1301_0000_0.mesh
+Light Bowgun,Chain Blitz II,natives/STM/Art/Model/Item/it13/01/0000/it1301_0000_0.mesh
+Light Bowgun,Chain Blitz III,natives/STM/Art/Model/Item/it13/01/0000/it1301_0000_0.mesh
+Light Bowgun,High Chain Blitz,natives/STM/Art/Model/Item/it13/01/0000/it1301_0000_0.mesh
+Light Bowgun,Titan Launcher I,natives/STM/Art/Model/Item/it13/00/0016/it1300_0016_0.mesh
+Light Bowgun,Titan Panzer,natives/STM/Art/Model/Item/it13/00/0016/it1300_0016_0.mesh
+Light Bowgun,G. Rathling Gun I,natives/STM/Art/Model/Item/it13/10/0000/it1310_0000_0.mesh
+Light Bowgun,G. Rathling Gun II,natives/STM/Art/Model/Item/it13/10/0000/it1310_0000_0.mesh
+Light Bowgun,White Rathling Phoenix,natives/STM/Art/Model/Item/it13/10/0000/it1310_0000_0.mesh
+Light Bowgun,Rathling Gun I,natives/STM/Art/Model/Item/it13/00/0007/it1300_0007_0.mesh
+Light Bowgun,Rathling Phoenix,natives/STM/Art/Model/Item/it13/00/0007/it1300_0007_0.mesh
+Light Bowgun,Assault Conga I,natives/STM/Art/Model/Item/it13/00/0002/it1300_0002_0.mesh
+Light Bowgun,Assault Conga II,natives/STM/Art/Model/Item/it13/00/0002/it1300_0002_0.mesh
+Light Bowgun,Combat Conga,natives/STM/Art/Model/Item/it13/00/0002/it1300_0002_0.mesh
+Light Bowgun,Tail String I,natives/STM/Art/Model/Item/it13/00/0017/it1300_0017_0.mesh
+Light Bowgun,Tail Catapult,natives/STM/Art/Model/Item/it13/00/0017/it1300_0017_0.mesh
+Light Bowgun,Valkyrie Fire I,natives/STM/Art/Model/Item/it13/00/0006/it1300_0006_0.mesh
+Light Bowgun,Valkyrie Fire II,natives/STM/Art/Model/Item/it13/00/0006/it1300_0006_0.mesh
+Light Bowgun,Valkyrie Flame,natives/STM/Art/Model/Item/it13/00/0006/it1300_0006_0.mesh
+Light Bowgun,Hunter's Rifle I,natives/STM/Art/Model/Item/it13/01/0001/it1301_0001_0.mesh
+Light Bowgun,Hunter's Rifle II,natives/STM/Art/Model/Item/it13/01/0001/it1301_0001_0.mesh
+Light Bowgun,Hunter's Rifle III,natives/STM/Art/Model/Item/it13/01/0001/it1301_0001_0.mesh
+Light Bowgun,Hunter's Rifle IV,natives/STM/Art/Model/Item/it13/01/0001/it1301_0001_0.mesh
+Light Bowgun,Power Rifle,natives/STM/Art/Model/Item/it13/01/0001/it1301_0001_0.mesh
+Light Bowgun,Felling Fulgur I,natives/STM/Art/Model/Item/it13/10/0003/it1310_0003_0.mesh
+Light Bowgun,Fulgursnipe Guardiana,natives/STM/Art/Model/Item/it13/10/0003/it1310_0003_0.mesh
+Light Bowgun,Chthonian Gunfire I,natives/STM/Art/Model/Item/it13/10/0001/it1310_0001_0.mesh
+Light Bowgun,Chthonian Gunfire II,natives/STM/Art/Model/Item/it13/10/0001/it1310_0001_0.mesh
+Light Bowgun,Bequeathed Animus,natives/STM/Art/Model/Item/it13/10/0001/it1310_0001_0.mesh
+Light Bowgun,Ajara Shellgun I,natives/STM/Art/Model/Item/it13/00/0011/it1300_0011_0.mesh
+Light Bowgun,Ajara Shellgun II,natives/STM/Art/Model/Item/it13/00/0011/it1300_0011_0.mesh
+Light Bowgun,Ajara-Angaja,natives/STM/Art/Model/Item/it13/00/0011/it1300_0011_0.mesh
+Light Bowgun,Nu Chobotnice I,natives/STM/Art/Model/Item/it13/00/0010/it1300_0010_0.mesh
+Light Bowgun,Nu Chobotnice II,natives/STM/Art/Model/Item/it13/00/0010/it1300_0010_0.mesh
+Light Bowgun,Abaddonian Chobotnice,natives/STM/Art/Model/Item/it13/00/0010/it1300_0010_0.mesh
+Light Bowgun,Windshear Light I,natives/STM/Art/Model/Item/it13/00/0009/it1300_0009_0.mesh
+Light Bowgun,Windshear Light II,natives/STM/Art/Model/Item/it13/00/0009/it1300_0009_0.mesh
+Light Bowgun,Windshear Light III,natives/STM/Art/Model/Item/it13/00/0009/it1300_0009_0.mesh
+Light Bowgun,Windshear Uchibami,natives/STM/Art/Model/Item/it13/00/0009/it1300_0009_0.mesh
+Light Bowgun,G. Veldian Impetum I,natives/STM/Art/Model/Item/it13/00/0019/it1300_0019_0.mesh
+Light Bowgun,G. Veldian Impetum II,natives/STM/Art/Model/Item/it13/00/0019/it1300_0019_0.mesh
+Light Bowgun,G. Expiating Caius,natives/STM/Art/Model/Item/it13/00/0019/it1300_0019_0.mesh
+Light Bowgun,Veldian Impetum I,natives/STM/Art/Model/Item/it13/00/0022/it1300_0022_0.mesh
+Light Bowgun,Artian Blaster I,natives/STM/Art/Model/Item/it13/10/0004/it1310_0004_0.mesh
+Light Bowgun,Artian Blaster II,natives/STM/Art/Model/Item/it13/10/0004/it1310_0004_0.mesh
+Light Bowgun,Animilater,natives/STM/Art/Model/Item/it13/10/0004/it1310_0004_0.mesh
+Light Bowgun,Zoh Kaiah I,natives/STM/Art/Model/Item/it13/00/0020/it1300_0020_0.mesh
+Light Bowgun,Blazing Kaiah,natives/STM/Art/Model/Item/it13/00/0020/it1300_0020_0.mesh
+Light Bowgun,Esperanza Rifle,natives/STM/Art/Model/Item/it13/00/0001/it1300_0001_0.mesh
+Light Bowgun,Faithbreaker Leibolkule,natives/STM/Art/Model/Item/it13/00/0004/it1300_0004_0.mesh
+Light Bowgun,Expiating Caius,natives/STM/Art/Model/Item/it13/00/0022/it1300_0022_0.mesh
+Light Bowgun,Desolate Mist I,natives/STM/Art/Model/Item/it13/00/0024/it1300_0024_0.mesh
+Light Bowgun,Nifl Mist,natives/STM/Art/Model/Item/it13/00/0024/it1300_0024_0.mesh
+Light Bowgun,Thundacrus I,natives/STM/Art/Model/Item/it13/00/0014/it1300_0014_0.mesh
+Light Bowgun,Thundacrus Rex,natives/STM/Art/Model/Item/it13/00/0014/it1300_0014_0.mesh
