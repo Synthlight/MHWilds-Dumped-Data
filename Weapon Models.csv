@@ -75,10 +75,12 @@ Great Sword,Zoh Veiah I,natives/STM/Art/Model/Item/it00/00/0021/it0000_0021_0.me
 Great Sword,Esperanza Blade,natives/STM/Art/Model/Item/it00/00/0004/it0000_0004_0.mesh
 Great Sword,Hanayako Yohino I,natives/STM/Art/Model/Item/it00/00/0018/it0000_0018_0.mesh
 Great Sword,Akanesasu,natives/STM/Art/Model/Item/it00/00/0018/it0000_0018_0.mesh
+Great Sword,Shadowbringer,natives/STM/Art/Model/Item/it00/00/0031/it0000_0031_0.mesh
 Great Sword,Fellslayer Dangeom,natives/STM/Art/Model/Item/it00/00/0003/it0000_0003_0.mesh
 Great Sword,Stalwart Lamorak,natives/STM/Art/Model/Item/it00/00/0024/it0000_0024_0.mesh
 Great Sword,Lagiacrus Blade I,natives/STM/Art/Model/Item/it00/00/0014/it0000_0014_0.mesh
 Great Sword,High Lagia Blade,natives/STM/Art/Model/Item/it00/00/0014/it0000_0014_0.mesh
+Great Sword,True Shadowbringer,natives/STM/Art/Model/Item/it00/00/0031/it0000_0031_0.mesh
 Great Sword,Jawblade I,natives/STM/Art/Model/Item/it00/00/0000/it0000_0000_0.mesh
 Great Sword,Giant Jawblade,natives/STM/Art/Model/Item/it00/00/0000/it0000_0000_0.mesh
 Great Sword,Blazing Veiah,natives/STM/Art/Model/Item/it00/00/0021/it0000_0021_0.mesh
@@ -254,10 +256,14 @@ Sword & Shield,Mining Pickaxe (Sword),natives/STM/Art/Model/Item/it01/00/0029/it
 Sword & Shield,Mining Pickaxe (Shield),natives/STM/Art/Model/Item/it01/00/0029/it0100_0029_1.mesh
 Sword & Shield,Digmore War Pick (Sword),natives/STM/Art/Model/Item/it01/00/0029/it0100_0029_0.mesh
 Sword & Shield,Digmore War Pick (Shield),natives/STM/Art/Model/Item/it01/00/0029/it0100_0029_1.mesh
+Sword & Shield,Omega's Sword (Sword),natives/STM/Art/Model/Item/it01/00/0035/it0100_0035_0.mesh
+Sword & Shield,Omega's Sword (Shield),natives/STM/Art/Model/Item/it01/00/0035/it0100_0035_1.mesh
 Sword & Shield,Lagia Sword I (Sword),natives/STM/Art/Model/Item/it01/00/0017/it0100_0017_0.mesh
 Sword & Shield,Lagia Sword I (Shield),natives/STM/Art/Model/Item/it01/00/0017/it0100_0017_1.mesh
 Sword & Shield,High Lagia Sword (Sword),natives/STM/Art/Model/Item/it01/00/0017/it0100_0017_0.mesh
 Sword & Shield,High Lagia Sword (Shield),natives/STM/Art/Model/Item/it01/00/0017/it0100_0017_1.mesh
+Sword & Shield,True Omega's Sword (Sword),natives/STM/Art/Model/Item/it01/00/0035/it0100_0035_0.mesh
+Sword & Shield,True Omega's Sword (Shield),natives/STM/Art/Model/Item/it01/00/0035/it0100_0035_1.mesh
 Dual Blades,Hope Daggers I (L),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_0.mesh
 Dual Blades,Hope Daggers I (R),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_1.mesh
 Dual Blades,Hope Daggers II (L),natives/STM/Art/Model/Item/it02/00/0028/it0200_0028_0.mesh
@@ -424,6 +430,10 @@ Dual Blades,Morning Dawn I (L),natives/STM/Art/Model/Item/it02/00/0029/it0200_00
 Dual Blades,Morning Dawn I (R),natives/STM/Art/Model/Item/it02/00/0029/it0200_0029_1.mesh
 Dual Blades,Evening Dusk (L),natives/STM/Art/Model/Item/it02/00/0029/it0200_0029_0.mesh
 Dual Blades,Evening Dusk (R),natives/STM/Art/Model/Item/it02/00/0029/it0200_0029_1.mesh
+Dual Blades,Tasty Blades (L),natives/STM/Art/Model/Item/it02/00/0022/it0200_0022_0.mesh
+Dual Blades,Tasty Blades (R),natives/STM/Art/Model/Item/it02/00/0022/it0200_0022_1.mesh
+Dual Blades,Well-done Blades (L),natives/STM/Art/Model/Item/it02/00/0022/it0200_0022_0.mesh
+Dual Blades,Well-done Blades (R),natives/STM/Art/Model/Item/it02/00/0022/it0200_0022_1.mesh
 Dual Blades,Twin Acrus I (L),natives/STM/Art/Model/Item/it02/00/0017/it0200_0017_0.mesh
 Dual Blades,Twin Acrus I (R),natives/STM/Art/Model/Item/it02/00/0017/it0200_0017_1.mesh
 Dual Blades,Levin Acrus (L),natives/STM/Art/Model/Item/it02/00/0017/it0200_0017_0.mesh
@@ -1392,6 +1402,8 @@ Insect Glaive,Zoh Katir I,natives/STM/Art/Model/Item/it10/00/0021/it1000_0021_0.
 Insect Glaive,Blazing Katir,natives/STM/Art/Model/Item/it10/00/0021/it1000_0021_0.mesh
 Insect Glaive,Fox Halberd I,natives/STM/Art/Model/Item/it10/00/0026/it1000_0026_0.mesh
 Insect Glaive,Curved Naganagi,natives/STM/Art/Model/Item/it10/00/0026/it1000_0026_0.mesh
+Insect Glaive,Omega's Rod,natives/STM/Art/Model/Item/it10/00/0031/it1000_0031_0.mesh
+Insect Glaive,True Omega's Rod,natives/STM/Art/Model/Item/it10/00/0031/it1000_0031_0.mesh
 Insect Glaive,Thunder Glaive Triacrus I,natives/STM/Art/Model/Item/it10/00/0028/it1000_0028_0.mesh
 Insect Glaive,Fractal Glaive Boltlagia,natives/STM/Art/Model/Item/it10/00/0028/it1000_0028_0.mesh
 Insect Glaive,Vanguard's Glaive,natives/STM/Art/Model/Item/it10/00/0024/it1000_0024_0.mesh

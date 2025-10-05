@@ -2379,6 +2379,26 @@ Duna Wildgreaves γ,Male,Male,natives/STM/Art/Model/Character/ch02/017/300/4/ch0
 Duna Wildgreaves γ,Male,Female,natives/STM/Art/Model/Character/ch02/017/301/4/ch02_017_3014
 Duna Wildgreaves γ,Female,Male,natives/STM/Art/Model/Character/ch03/017/300/4/ch03_017_3004
 Duna Wildgreaves γ,Female,Female,natives/STM/Art/Model/Character/ch03/017/301/4/ch03_017_3014
+Udra Mirehelm γ,Male,Male,natives/STM/Art/Model/Character/ch02/027/300/3/ch02_027_3003
+Udra Mirehelm γ,Male,Female,natives/STM/Art/Model/Character/ch02/027/301/3/ch02_027_3013
+Udra Mirehelm γ,Female,Male,natives/STM/Art/Model/Character/ch03/027/300/3/ch03_027_3003
+Udra Mirehelm γ,Female,Female,natives/STM/Art/Model/Character/ch03/027/301/3/ch03_027_3013
+Udra Miremail γ,Male,Male,natives/STM/Art/Model/Character/ch02/027/300/2/ch02_027_3002
+Udra Miremail γ,Male,Female,natives/STM/Art/Model/Character/ch02/027/301/2/ch02_027_3012
+Udra Miremail γ,Female,Male,natives/STM/Art/Model/Character/ch03/027/300/2/ch03_027_3002
+Udra Miremail γ,Female,Female,natives/STM/Art/Model/Character/ch03/027/301/2/ch03_027_3012
+Udra Mirebraces γ,Male,Male,natives/STM/Art/Model/Character/ch02/027/300/1/ch02_027_3001
+Udra Mirebraces γ,Male,Female,natives/STM/Art/Model/Character/ch02/027/301/1/ch02_027_3011
+Udra Mirebraces γ,Female,Male,natives/STM/Art/Model/Character/ch03/027/300/1/ch03_027_3001
+Udra Mirebraces γ,Female,Female,natives/STM/Art/Model/Character/ch03/027/301/1/ch03_027_3011
+Udra Mirecoil γ,Male,Male,natives/STM/Art/Model/Character/ch02/027/300/5/ch02_027_3005
+Udra Mirecoil γ,Male,Female,natives/STM/Art/Model/Character/ch02/027/301/5/ch02_027_3015
+Udra Mirecoil γ,Female,Male,natives/STM/Art/Model/Character/ch03/027/300/5/ch03_027_3005
+Udra Mirecoil γ,Female,Female,natives/STM/Art/Model/Character/ch03/027/301/5/ch03_027_3015
+Udra Miregreaves γ,Male,Male,natives/STM/Art/Model/Character/ch02/027/300/4/ch02_027_3004
+Udra Miregreaves γ,Male,Female,natives/STM/Art/Model/Character/ch02/027/301/4/ch02_027_3014
+Udra Miregreaves γ,Female,Male,natives/STM/Art/Model/Character/ch03/027/300/4/ch03_027_3004
+Udra Miregreaves γ,Female,Female,natives/STM/Art/Model/Character/ch03/027/301/4/ch03_027_3014
 Sakuratide Headgear α,Male,Male,natives/STM/Art/Model/Character/ch02/069/000/3/ch02_069_0003
 Sakuratide Headgear α,Male,Female,natives/STM/Art/Model/Character/ch02/069/001/3/ch02_069_0013
 Sakuratide Headgear α,Female,Male,natives/STM/Art/Model/Character/ch03/069/000/3/ch03_069_0003
@@ -2459,6 +2479,46 @@ Diver's Boots α,Male,Male,natives/STM/Art/Model/Character/ch02/071/000/4/ch02_0
 Diver's Boots α,Male,Female,natives/STM/Art/Model/Character/ch02/071/001/4/ch02_071_0014
 Diver's Boots α,Female,Male,natives/STM/Art/Model/Character/ch03/071/000/4/ch03_071_0004
 Diver's Boots α,Female,Female,natives/STM/Art/Model/Character/ch03/071/001/4/ch03_071_0014
+Dreamwalker Helm α,Male,Male,natives/STM/Art/Model/Character/ch02/085/000/3/ch02_085_0003
+Dreamwalker Helm α,Male,Female,natives/STM/Art/Model/Character/ch02/085/001/3/ch02_085_0013
+Dreamwalker Helm α,Female,Male,natives/STM/Art/Model/Character/ch03/085/000/3/ch03_085_0003
+Dreamwalker Helm α,Female,Female,natives/STM/Art/Model/Character/ch03/085/001/3/ch03_085_0013
+Dreamwalker Mail α,Male,Male,natives/STM/Art/Model/Character/ch02/085/000/2/ch02_085_0002
+Dreamwalker Mail α,Male,Female,natives/STM/Art/Model/Character/ch02/085/001/2/ch02_085_0012
+Dreamwalker Mail α,Female,Male,natives/STM/Art/Model/Character/ch03/085/000/2/ch03_085_0002
+Dreamwalker Mail α,Female,Female,natives/STM/Art/Model/Character/ch03/085/001/2/ch03_085_0012
+Dreamwalker Braces α,Male,Male,natives/STM/Art/Model/Character/ch02/085/000/1/ch02_085_0001
+Dreamwalker Braces α,Male,Female,natives/STM/Art/Model/Character/ch02/085/001/1/ch02_085_0011
+Dreamwalker Braces α,Female,Male,natives/STM/Art/Model/Character/ch03/085/000/1/ch03_085_0001
+Dreamwalker Braces α,Female,Female,natives/STM/Art/Model/Character/ch03/085/001/1/ch03_085_0011
+Dreamwalker Coil α,Male,Male,natives/STM/Art/Model/Character/ch02/085/000/5/ch02_085_0005
+Dreamwalker Coil α,Male,Female,natives/STM/Art/Model/Character/ch02/085/001/5/ch02_085_0015
+Dreamwalker Coil α,Female,Male,natives/STM/Art/Model/Character/ch03/085/000/5/ch03_085_0005
+Dreamwalker Coil α,Female,Female,natives/STM/Art/Model/Character/ch03/085/001/5/ch03_085_0015
+Dreamwalker Greaves α,Male,Male,natives/STM/Art/Model/Character/ch02/085/000/4/ch02_085_0004
+Dreamwalker Greaves α,Male,Female,natives/STM/Art/Model/Character/ch02/085/001/4/ch02_085_0014
+Dreamwalker Greaves α,Female,Male,natives/STM/Art/Model/Character/ch03/085/000/4/ch03_085_0004
+Dreamwalker Greaves α,Female,Female,natives/STM/Art/Model/Character/ch03/085/001/4/ch03_085_0014
+Harvest Flor α,Male,Male,natives/STM/Art/Model/Character/ch02/086/000/3/ch02_086_0003
+Harvest Flor α,Male,Female,natives/STM/Art/Model/Character/ch02/086/001/3/ch02_086_0013
+Harvest Flor α,Female,Male,natives/STM/Art/Model/Character/ch03/086/000/3/ch03_086_0003
+Harvest Flor α,Female,Female,natives/STM/Art/Model/Character/ch03/086/001/3/ch03_086_0013
+Harvest Tronco α,Male,Male,natives/STM/Art/Model/Character/ch02/086/000/2/ch02_086_0002
+Harvest Tronco α,Male,Female,natives/STM/Art/Model/Character/ch02/086/001/2/ch02_086_0012
+Harvest Tronco α,Female,Male,natives/STM/Art/Model/Character/ch03/086/000/2/ch03_086_0002
+Harvest Tronco α,Female,Female,natives/STM/Art/Model/Character/ch03/086/001/2/ch03_086_0012
+Harvest Trama α,Male,Male,natives/STM/Art/Model/Character/ch02/086/000/1/ch02_086_0001
+Harvest Trama α,Male,Female,natives/STM/Art/Model/Character/ch02/086/001/1/ch02_086_0011
+Harvest Trama α,Female,Male,natives/STM/Art/Model/Character/ch03/086/000/1/ch03_086_0001
+Harvest Trama α,Female,Female,natives/STM/Art/Model/Character/ch03/086/001/1/ch03_086_0011
+Harvest Hoja α,Male,Male,natives/STM/Art/Model/Character/ch02/086/000/5/ch02_086_0005
+Harvest Hoja α,Male,Female,natives/STM/Art/Model/Character/ch02/086/001/5/ch02_086_0015
+Harvest Hoja α,Female,Male,natives/STM/Art/Model/Character/ch03/086/000/5/ch03_086_0005
+Harvest Hoja α,Female,Female,natives/STM/Art/Model/Character/ch03/086/001/5/ch03_086_0015
+Harvest Raiz α,Male,Male,natives/STM/Art/Model/Character/ch02/086/000/4/ch02_086_0004
+Harvest Raiz α,Male,Female,natives/STM/Art/Model/Character/ch02/086/001/4/ch02_086_0014
+Harvest Raiz α,Female,Male,natives/STM/Art/Model/Character/ch03/086/000/4/ch03_086_0004
+Harvest Raiz α,Female,Female,natives/STM/Art/Model/Character/ch03/086/001/4/ch03_086_0014
 Demon Prayer Beads α,Male,Male,natives/STM/Art/Model/Character/ch02/070/000/3/ch02_070_0003
 Demon Prayer Beads α,Male,Female,natives/STM/Art/Model/Character/ch02/070/000/3/ch02_070_0003
 Demon Prayer Beads α,Female,Male,natives/STM/Art/Model/Character/ch03/070/000/3/ch03_070_0003
@@ -2479,6 +2539,46 @@ Demon Pants α,Male,Male,natives/STM/Art/Model/Character/ch02/070/000/4/ch02_070
 Demon Pants α,Male,Female,natives/STM/Art/Model/Character/ch02/070/000/4/ch02_070_0004
 Demon Pants α,Female,Male,natives/STM/Art/Model/Character/ch03/070/000/4/ch03_070_0004
 Demon Pants α,Female,Female,natives/STM/Art/Model/Character/ch03/070/000/4/ch03_070_0004
+Omega Ear Cuffs α,Male,Male,natives/STM/Art/Model/Character/ch02/100/000/3/ch02_100_0003
+Omega Ear Cuffs α,Male,Female,natives/STM/Art/Model/Character/ch02/100/001/3/ch02_100_0013
+Omega Ear Cuffs α,Female,Male,natives/STM/Art/Model/Character/ch03/100/000/3/ch03_100_0003
+Omega Ear Cuffs α,Female,Female,natives/STM/Art/Model/Character/ch03/100/001/3/ch03_100_0013
+Omega Suit α,Male,Male,natives/STM/Art/Model/Character/ch02/100/000/2/ch02_100_0002
+Omega Suit α,Male,Female,natives/STM/Art/Model/Character/ch02/100/001/2/ch02_100_0012
+Omega Suit α,Female,Male,natives/STM/Art/Model/Character/ch03/100/000/2/ch03_100_0002
+Omega Suit α,Female,Female,natives/STM/Art/Model/Character/ch03/100/001/2/ch03_100_0012
+Omega Vambraces α,Male,Male,natives/STM/Art/Model/Character/ch02/100/000/1/ch02_100_0001
+Omega Vambraces α,Male,Female,natives/STM/Art/Model/Character/ch02/100/001/1/ch02_100_0011
+Omega Vambraces α,Female,Male,natives/STM/Art/Model/Character/ch03/100/000/1/ch03_100_0001
+Omega Vambraces α,Female,Female,natives/STM/Art/Model/Character/ch03/100/001/1/ch03_100_0011
+Omega Accessory α,Male,Male,natives/STM/Art/Model/Character/ch02/100/000/5/ch02_100_0005
+Omega Accessory α,Male,Female,natives/STM/Art/Model/Character/ch02/100/001/5/ch02_100_0015
+Omega Accessory α,Female,Male,natives/STM/Art/Model/Character/ch03/100/000/5/ch03_100_0005
+Omega Accessory α,Female,Female,natives/STM/Art/Model/Character/ch03/100/001/5/ch03_100_0015
+Omega Boots α,Male,Male,natives/STM/Art/Model/Character/ch02/100/000/4/ch02_100_0004
+Omega Boots α,Male,Female,natives/STM/Art/Model/Character/ch02/100/001/4/ch02_100_0014
+Omega Boots α,Female,Male,natives/STM/Art/Model/Character/ch03/100/000/4/ch03_100_0004
+Omega Boots α,Female,Female,natives/STM/Art/Model/Character/ch03/100/001/4/ch03_100_0014
+Bale Burgeonet α,Male,Male,natives/STM/Art/Model/Character/ch02/100/100/3/ch02_100_1003
+Bale Burgeonet α,Male,Female,natives/STM/Art/Model/Character/ch02/100/100/3/ch02_100_1003
+Bale Burgeonet α,Female,Male,natives/STM/Art/Model/Character/ch03/100/100/3/ch03_100_1003
+Bale Burgeonet α,Female,Female,natives/STM/Art/Model/Character/ch03/100/100/3/ch03_100_1003
+Bale Cuirass α,Male,Male,natives/STM/Art/Model/Character/ch02/100/100/2/ch02_100_1002
+Bale Cuirass α,Male,Female,natives/STM/Art/Model/Character/ch02/100/100/2/ch02_100_1002
+Bale Cuirass α,Female,Male,natives/STM/Art/Model/Character/ch03/100/100/2/ch03_100_1002
+Bale Cuirass α,Female,Female,natives/STM/Art/Model/Character/ch03/100/100/2/ch03_100_1002
+Bale Gauntlets α,Male,Male,natives/STM/Art/Model/Character/ch02/100/100/1/ch02_100_1001
+Bale Gauntlets α,Male,Female,natives/STM/Art/Model/Character/ch02/100/100/1/ch02_100_1001
+Bale Gauntlets α,Female,Male,natives/STM/Art/Model/Character/ch03/100/100/1/ch03_100_1001
+Bale Gauntlets α,Female,Female,natives/STM/Art/Model/Character/ch03/100/100/1/ch03_100_1001
+Bale Flanchard α,Male,Male,natives/STM/Art/Model/Character/ch02/100/100/5/ch02_100_1005
+Bale Flanchard α,Male,Female,natives/STM/Art/Model/Character/ch02/100/100/5/ch02_100_1005
+Bale Flanchard α,Female,Male,natives/STM/Art/Model/Character/ch03/100/100/5/ch03_100_1005
+Bale Flanchard α,Female,Female,natives/STM/Art/Model/Character/ch03/100/100/5/ch03_100_1005
+Bale Sollerets α,Male,Male,natives/STM/Art/Model/Character/ch02/100/100/4/ch02_100_1004
+Bale Sollerets α,Male,Female,natives/STM/Art/Model/Character/ch02/100/100/4/ch02_100_1004
+Bale Sollerets α,Female,Male,natives/STM/Art/Model/Character/ch03/100/100/4/ch03_100_1004
+Bale Sollerets α,Female,Female,natives/STM/Art/Model/Character/ch03/100/100/4/ch03_100_1004
 Sealed Eyepatch α,Male,Male,natives/STM/Art/Model/Character/ch02/045/000/3/ch02_045_0003
 Sealed Eyepatch α,Male,Female,natives/STM/Art/Model/Character/ch02/045/001/3/ch02_045_0013
 Sealed Eyepatch α,Female,Male,natives/STM/Art/Model/Character/ch03/045/000/3/ch03_045_0003
@@ -2499,6 +2599,10 @@ Doshagumask α,Male,Male,natives/STM/Art/Model/Character/ch02/095/000/3/ch02_095
 Doshagumask α,Male,Female,natives/STM/Art/Model/Character/ch02/095/001/3/ch02_095_0013
 Doshagumask α,Female,Male,natives/STM/Art/Model/Character/ch03/095/000/3/ch03_095_0003
 Doshagumask α,Female,Female,natives/STM/Art/Model/Character/ch03/095/001/3/ch03_095_0013
+Skull Mask α,Male,Male,natives/STM/Art/Model/Character/ch02/098/000/3/ch02_098_0003
+Skull Mask α,Male,Female,natives/STM/Art/Model/Character/ch02/098/000/3/ch02_098_0003
+Skull Mask α,Female,Male,natives/STM/Art/Model/Character/ch03/098/000/3/ch03_098_0003
+Skull Mask α,Female,Female,natives/STM/Art/Model/Character/ch03/098/000/3/ch03_098_0003
 Amstrigian α,Male,Male,natives/STM/Art/Model/Character/ch02/078/000/3/ch02_078_0003
 Amstrigian α,Male,Female,natives/STM/Art/Model/Character/ch02/078/000/3/ch02_078_0003
 Amstrigian α,Female,Male,natives/STM/Art/Model/Character/ch03/078/000/3/ch03_078_0003
@@ -2531,10 +2635,26 @@ Lovely Shades α,Male,Male,natives/STM/Art/Model/Character/ch02/088/400/3/ch02_0
 Lovely Shades α,Male,Female,natives/STM/Art/Model/Character/ch02/088/400/3/ch02_088_4003
 Lovely Shades α,Female,Male,natives/STM/Art/Model/Character/ch03/088/400/3/ch03_088_4003
 Lovely Shades α,Female,Female,natives/STM/Art/Model/Character/ch03/088/400/3/ch03_088_4003
+Gelidron Mask α,Male,Male,natives/STM/Art/Model/Character/ch02/096/000/3/ch02_096_0003
+Gelidron Mask α,Male,Female,natives/STM/Art/Model/Character/ch02/096/000/3/ch02_096_0003
+Gelidron Mask α,Female,Male,natives/STM/Art/Model/Character/ch03/096/000/3/ch03_096_0003
+Gelidron Mask α,Female,Female,natives/STM/Art/Model/Character/ch03/096/000/3/ch03_096_0003
 Toe Bean Mittens α,Male,Male,natives/STM/Art/Model/Character/ch02/097/000/1/ch02_097_0001
 Toe Bean Mittens α,Male,Female,natives/STM/Art/Model/Character/ch02/097/000/1/ch02_097_0001
 Toe Bean Mittens α,Female,Male,natives/STM/Art/Model/Character/ch03/097/000/1/ch03_097_0001
 Toe Bean Mittens α,Female,Female,natives/STM/Art/Model/Character/ch03/097/000/1/ch03_097_0001
+Aviator Shades α,Male,Male,natives/STM/Art/Model/Character/ch02/088/600/3/ch02_088_6003
+Aviator Shades α,Male,Female,natives/STM/Art/Model/Character/ch02/088/600/3/ch02_088_6003
+Aviator Shades α,Female,Male,natives/STM/Art/Model/Character/ch03/088/600/3/ch03_088_6003
+Aviator Shades α,Female,Female,natives/STM/Art/Model/Character/ch03/088/600/3/ch03_088_6003
+Kitten Frames α,Male,Male,natives/STM/Art/Model/Character/ch02/088/700/3/ch02_088_7003
+Kitten Frames α,Male,Female,natives/STM/Art/Model/Character/ch02/088/700/3/ch02_088_7003
+Kitten Frames α,Female,Male,natives/STM/Art/Model/Character/ch03/088/700/3/ch03_088_7003
+Kitten Frames α,Female,Female,natives/STM/Art/Model/Character/ch03/088/700/3/ch03_088_7003
+Gelidron Backpack α,Male,Male,natives/STM/Art/Model/Character/ch02/096/000/2/ch02_096_0002
+Gelidron Backpack α,Male,Female,natives/STM/Art/Model/Character/ch02/096/000/2/ch02_096_0002
+Gelidron Backpack α,Female,Male,natives/STM/Art/Model/Character/ch03/096/000/2/ch03_096_0002
+Gelidron Backpack α,Female,Female,natives/STM/Art/Model/Character/ch03/096/000/2/ch03_096_0002
 Guardian Seikret Coil α,Male,Male,natives/STM/Art/Model/Character/ch02/033/000/5/ch02_033_0005
 Guardian Seikret Coil α,Male,Female,natives/STM/Art/Model/Character/ch02/033/001/5/ch02_033_0015
 Guardian Seikret Coil α,Female,Male,natives/STM/Art/Model/Character/ch03/033/000/5/ch03_033_0005
@@ -2631,3 +2751,11 @@ Cypurrpunk Kicks,Male,Male,natives/STM/Art/Model/Character/ch02/080/000/4/ch02_0
 Cypurrpunk Kicks,Male,Female,natives/STM/Art/Model/Character/ch02/080/001/4/ch02_080_0014
 Cypurrpunk Kicks,Female,Male,natives/STM/Art/Model/Character/ch03/080/000/4/ch03_080_0004
 Cypurrpunk Kicks,Female,Female,natives/STM/Art/Model/Character/ch03/080/001/4/ch03_080_0014
+Fluffy Ears,Male,Male,natives/STM/Art/Model/Character/ch02/083/000/3/ch02_083_0003
+Fluffy Ears,Male,Female,natives/STM/Art/Model/Character/ch02/083/000/3/ch02_083_0003
+Fluffy Ears,Female,Male,natives/STM/Art/Model/Character/ch03/083/000/3/ch03_083_0003
+Fluffy Ears,Female,Female,natives/STM/Art/Model/Character/ch03/083/000/3/ch03_083_0003
+Fluffy Tail,Male,Male,natives/STM/Art/Model/Character/ch02/084/000/5/ch02_084_0005
+Fluffy Tail,Male,Female,natives/STM/Art/Model/Character/ch02/084/000/5/ch02_084_0005
+Fluffy Tail,Female,Male,natives/STM/Art/Model/Character/ch03/084/000/5/ch03_084_0005
+Fluffy Tail,Female,Female,natives/STM/Art/Model/Character/ch03/084/000/5/ch03_084_0005
